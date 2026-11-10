@@ -1,0 +1,3001 @@
+appointment_id,patient_id,appointment_date,doctor_id,service_type,priority,estimated_cost,booking_channel
+A00001,P0105,2025-08-29,D043,Diagnostic Test,Routine,2666.51,Walk-in
+A00002,P0228,2025-12-15,D031,Procedure,Routine,2956.37,Walk-in
+A00003,P0188,2025-06-03,D070,Consultation,Routine,4168.66,Website
+A00004,P0070,2025-10-01,D067,Consultation,Routine,6196.59,Phone
+A00005,P0318,2025-04-06,D056,Consultation,Routine,5857.21,Walk-in
+A00006,P0290,2025-08-02,D063,Consultation,Urgent,5084.19,Referral
+A00007,P0087,2025-10-21,D075,Consultation,Routine,5741.66,App
+A00008,P0370,2025-07-28,D015,Diagnostic Test,Urgent,2894.52,Walk-in
+A00009,P0362,2025-12-09,D010,Consultation,Routine,7218.21,Website
+A00010,P0056,2025-03-29,D038,Diagnostic Test,Routine,6054.06,Walk-in
+A00011,P0113,2025-11-02,D047,Consultation,Routine,3358.02,Website
+A00012,P0013,2025-09-21,D057,Diagnostic Test,High,4612.79,Phone
+A00013,P0018,2025-11-21,D050,Follow-up,High,4401.71,Phone
+A00014,P0182,2025-11-16,D071,Follow-up,Routine,3619.99,Website
+A00015,P0113,2025-06-06,D015,Emergency Care,Routine,6989.26,Phone
+A00016,P0229,2025-06-05,D018,Consultation,Routine,1832.65,Walk-in
+A00017,P0171,2025-05-19,D002,Diagnostic Test,Routine,6296.49,Website
+A00018,P0295,2025-05-01,D043,Diagnostic Test,High,6906.48,App
+A00019,P0189,2025-03-06,D026,Diagnostic Test,Routine,4614.16,App
+A00020,P0079,2025-04-17,D071,Follow-up,Routine,1381.4,Phone
+A00021,P0146,2025-05-27,D038,Diagnostic Test,High,2564.88,Walk-in
+A00022,P0182,2025-05-17,D042,Diagnostic Test,Urgent,3358.0,Walk-in
+A00023,P0286,2025-06-11,D005,Diagnostic Test,Routine,4870.3,Website
+A00024,P0250,2025-04-10,D011,Emergency Care,Routine,6711.19,Website
+A00025,P0354,2025-12-04,D065,Procedure,Routine,2776.98,App
+A00026,P0314,2025-11-03,D034,Consultation,Routine,4804.32,Referral
+A00027,P0196,2025-05-21,D001,Consultation,Routine,2062.52,App
+A00028,P0323,2025-03-24,D002,Procedure,High,7512.41,Website
+A00029,P0071,2025-06-26,D020,Emergency Care,High,2664.27,Phone
+A00030,P0248,2025-07-17,D061,Consultation,Routine,4430.42,Walk-in
+A00031,P0146,2025-04-22,D021,Consultation,Routine,4765.1,App
+A00032,P0106,2025-02-25,D068,Emergency Care,Routine,4775.13,Website
+A00033,P0263,2025-06-28,D012,Follow-up,Routine,2651.34,Phone
+A00034,P0296,2025-07-05,D022,Consultation,Routine,3878.37,Phone
+A00035,P0070,2025-08-06,D020,Diagnostic Test,Routine,2730.12,App
+A00036,P0193,2025-11-12,D001,Emergency Care,Routine,4649.56,Phone
+A00037,P0068,2025-08-05,D030,Procedure,Routine,3208.24,Phone
+A00038,P0305,2025-04-30,D024,Follow-up,Routine,4320.14,Walk-in
+A00039,P0052,2025-06-24,D014,Follow-up,Routine,5133.48,App
+A00040,P0370,2025-01-23,D036,Consultation,Routine,4167.63,App
+A00041,P0363,2025-08-01,D069,Procedure,Routine,3897.28,Walk-in
+A00042,P0285,2025-08-23,D075,Consultation,Routine,3276.31,Walk-in
+A00043,P0334,2025-01-13,D024,Emergency Care,Routine,4219.77,Walk-in
+A00044,P0009,2025-04-11,D060,Consultation,Routine,2880.53,Walk-in
+A00045,P0251,2025-01-24,D055,Procedure,Urgent,5439.62,App
+A00046,P0332,2025-12-30,D077,Consultation,Routine,4782.69,App
+A00047,P0298,2025-01-11,D080,Diagnostic Test,Routine,4474.4,App
+A00048,P0184,2025-09-30,D024,Consultation,Routine,8753.54,Referral
+A00049,P0179,2025-10-08,D077,Follow-up,Routine,7845.11,Website
+A00050,P0198,2025-04-04,D024,Procedure,Urgent,2477.28,App
+A00051,P0128,2025-07-20,D054,Follow-up,High,5440.5,App
+A00052,P0020,2025-01-21,D026,Diagnostic Test,Routine,4139.98,Walk-in
+A00053,P0328,2025-12-06,D066,Consultation,Routine,4984.09,Walk-in
+A00054,P0065,2025-07-30,D080,Emergency Care,Routine,3546.36,Referral
+A00055,P0182,2025-05-20,D038,Follow-up,Routine,4190.63,Website
+A00056,P0241,2025-10-20,D065,Follow-up,Routine,3489.28,Phone
+A00057,P0369,2025-10-25,D075,Procedure,Routine,2485.93,App
+A00058,P0024,2025-04-11,D051,Follow-up,Routine,8071.03,App
+A00059,P0384,2025-10-31,D035,Diagnostic Test,Routine,1752.0,App
+A00060,P0083,2025-12-25,D043,Follow-up,High,2265.2,App
+A00061,P0319,2025-01-28,D029,Follow-up,Routine,2627.33,Phone
+A00062,P0185,2025-02-10,D037,Procedure,Routine,7119.74,Referral
+A00063,P0316,2025-12-21,D058,Procedure,Routine,4364.54,App
+A00064,P0099,2025-10-30,D054,Consultation,Routine,2744.34,Referral
+A00065,P0062,2025-05-26,D039,Consultation,High,3947.3,Website
+A00066,P0286,2025-09-13,D042,Consultation,Routine,6688.27,Website
+A00067,P0022,2025-08-15,D028,Consultation,High,7853.52,Website
+A00068,P0212,2025-08-24,D029,Follow-up,Routine,4345.57,Website
+A00069,P0126,2025-12-27,D043,Procedure,High,4080.84,App
+A00070,P0042,2025-01-13,D003,Consultation,High,3760.83,Phone
+A00071,P0098,2025-07-29,D010,Diagnostic Test,Routine,2537.55,Walk-in
+A00072,P0031,2025-08-17,D059,Procedure,Routine,4940.65,Walk-in
+A00073,P0158,2025-04-10,D014,Procedure,High,3000.06,Website
+A00074,P0112,2025-01-31,D076,Diagnostic Test,Routine,3307.84,Walk-in
+A00075,P0247,2025-01-16,D047,Follow-up,Routine,6167.45,Phone
+A00076,P0122,2025-05-17,D042,Diagnostic Test,Routine,6602.79,Referral
+A00077,P0273,2025-11-25,D032,Consultation,Routine,1807.19,Website
+A00078,P0294,2025-06-15,D032,Consultation,Routine,5869.35,Referral
+A00079,P0398,2025-11-06,D042,Consultation,Routine,4804.03,Walk-in
+A00080,P0207,2025-04-10,D032,Consultation,Routine,6632.11,Walk-in
+A00081,P0110,2025-04-19,D026,Emergency Care,Routine,4405.98,App
+A00082,P0278,2025-12-09,D001,Procedure,High,4024.39,Website
+A00083,P0056,2025-06-22,D056,Diagnostic Test,Routine,4873.72,Phone
+A00084,P0375,2025-08-25,D002,Diagnostic Test,Urgent,2449.83,App
+A00085,P0057,2025-06-11,D030,Consultation,Urgent,5943.41,Website
+A00086,P0291,2025-08-04,D071,Follow-up,High,3822.44,Referral
+A00087,P0114,2025-09-21,D052,Procedure,Urgent,3320.98,Website
+A00088,P0381,2025-09-20,D009,Consultation,Routine,2916.94,App
+A00089,P0385,2025-10-19,D022,Consultation,High,5403.21,Phone
+A00090,P0308,2025-10-01,D034,Follow-up,Routine,6882.45,App
+A00091,P0341,2025-01-03,D049,Diagnostic Test,Routine,5519.52,Phone
+A00092,P0198,2025-01-28,D001,Diagnostic Test,High,4429.59,Phone
+A00093,P0321,2025-11-22,D073,Follow-up,Routine,4555.8,Website
+A00094,P0179,2025-05-29,D053,Diagnostic Test,High,3931.59,Walk-in
+A00095,P0385,2025-01-28,D040,Consultation,High,6830.43,App
+A00096,P0219,2025-11-06,D045,Consultation,Routine,4129.38,Walk-in
+A00097,P0277,2025-03-06,D068,Diagnostic Test,High,6547.61,Referral
+A00098,P0016,2025-12-22,D009,Procedure,Routine,3425.22,App
+A00099,P0379,2025-01-21,D022,Emergency Care,Routine,8668.45,Walk-in
+A00100,P0061,2025-09-09,D018,Procedure,Routine,4240.13,Phone
+A00101,P0054,2025-08-23,D076,Follow-up,Routine,5435.7,Website
+A00102,P0168,2025-08-15,D043,Diagnostic Test,Routine,1943.08,App
+A00103,P0026,2025-01-13,D039,Follow-up,Routine,6220.27,Website
+A00104,P0336,2025-11-09,D073,Emergency Care,Routine,2652.43,Referral
+A00105,P0065,2025-02-18,D006,Consultation,High,7896.8,App
+A00106,P0100,2025-04-28,D048,Diagnostic Test,Routine,4494.19,App
+A00107,P0074,2025-02-23,D007,Follow-up,Routine,2718.02,App
+A00108,P0192,2025-05-18,D080,Follow-up,Routine,4157.08,Phone
+A00109,P0171,2025-02-22,D069,Consultation,High,5400.83,Referral
+A00110,P0273,2025-02-13,D016,Diagnostic Test,High,6298.43,Phone
+A00111,P0377,2025-10-30,D001,Procedure,Routine,5918.79,App
+A00112,P0187,2025-02-22,D037,Diagnostic Test,Routine,6092.02,Website
+A00113,P0023,2025-03-15,D037,Procedure,High,3286.76,Website
+A00114,P0391,2025-02-15,D064,Consultation,Routine,2732.15,App
+A00115,P0181,2025-01-13,D062,Emergency Care,Routine,3635.62,Phone
+A00116,P0327,2025-06-14,D072,Diagnostic Test,Routine,2361.91,App
+A00117,P0108,2025-04-12,D061,Diagnostic Test,Routine,2081.94,Walk-in
+A00118,P0335,2025-10-07,D033,Consultation,High,3408.15,Phone
+A00119,P0162,2025-09-15,D066,Consultation,Routine,8153.29,Walk-in
+A00120,P0302,2025-12-03,D030,Follow-up,Routine,7477.44,Referral
+A00121,P0206,2025-12-22,D020,Diagnostic Test,Routine,2407.56,Referral
+A00122,P0078,2025-05-18,D060,Diagnostic Test,Urgent,3675.49,App
+A00123,P0016,2025-06-12,D074,Consultation,High,5803.6,Referral
+A00124,P0327,2025-04-21,D024,Procedure,High,4308.73,Walk-in
+A00125,P0096,2025-04-12,D004,Procedure,Routine,5124.43,Walk-in
+A00126,P0147,2025-01-17,D037,Consultation,Routine,1647.46,App
+A00127,P0002,2025-09-25,D004,Follow-up,Urgent,5873.32,App
+A00128,P0010,2025-07-01,D077,Procedure,Routine,5599.64,Referral
+A00129,P0125,2025-01-24,D077,Follow-up,High,1675.45,App
+A00130,P0081,2025-01-29,D018,Consultation,Routine,2883.6,App
+A00131,P0140,2025-06-20,D066,Follow-up,Routine,2819.44,Website
+A00132,P0326,2025-08-16,D048,Consultation,Routine,2392.22,Referral
+A00133,P0150,2025-07-07,D033,Consultation,High,1954.88,Website
+A00134,P0288,2025-12-12,D058,Consultation,High,2524.3,Referral
+A00135,P0361,2025-08-18,D073,Diagnostic Test,Routine,3499.16,Website
+A00136,P0340,2025-11-17,D028,Consultation,Routine,4571.68,App
+A00137,P0129,2025-12-06,D035,Emergency Care,Urgent,3805.92,Website
+A00138,P0239,2025-04-29,D010,Consultation,Routine,7252.8,Phone
+A00139,P0058,2025-06-05,D065,Consultation,High,2320.51,Website
+A00140,P0198,2025-09-29,D042,Diagnostic Test,Routine,1690.93,Website
+A00141,P0211,2025-06-24,D009,Consultation,Routine,3789.98,App
+A00142,P0390,2025-04-14,D060,Diagnostic Test,Routine,1752.55,App
+A00143,P0045,2025-04-02,D015,Consultation,Routine,2967.89,Phone
+A00144,P0097,2025-07-05,D057,Consultation,Routine,4636.64,Website
+A00145,P0279,2025-10-10,D069,Consultation,Routine,5019.86,App
+A00146,P0023,2025-06-30,D022,Diagnostic Test,Routine,3046.3,App
+A00147,P0391,2025-06-19,D064,Consultation,Routine,5328.51,Website
+A00148,P0335,2025-07-06,D041,Follow-up,Routine,2232.36,Referral
+A00149,P0044,2025-06-24,D071,Follow-up,High,4829.53,Website
+A00150,P0027,2025-08-10,D056,Follow-up,Routine,1929.07,App
+A00151,P0282,2025-08-21,D023,Diagnostic Test,Routine,12068.34,Website
+A00152,P0097,2025-06-11,D025,Diagnostic Test,Routine,6517.34,Phone
+A00153,P0036,2025-05-14,D006,Emergency Care,Routine,2919.67,Phone
+A00154,P0109,2025-08-12,D034,Consultation,High,4330.95,App
+A00155,P0055,2025-06-02,D063,Consultation,Routine,2605.11,Phone
+A00156,P0192,2025-02-02,D009,Consultation,High,5410.32,Phone
+A00157,P0219,2025-02-24,D060,Consultation,Routine,6822.62,App
+A00158,P0185,2025-01-07,D049,Consultation,Routine,7026.75,App
+A00159,P0069,2025-09-01,D051,Follow-up,Routine,6831.6,Phone
+A00160,P0317,2025-11-09,D060,Diagnostic Test,High,6416.3,Phone
+A00161,P0130,2025-05-06,D070,Emergency Care,Urgent,4862.9,Referral
+A00162,P0055,2025-01-12,D037,Consultation,Routine,4320.8,Website
+A00163,P0378,2025-01-16,D031,Consultation,High,3863.28,Walk-in
+A00164,P0097,2025-07-27,D041,Emergency Care,Routine,3058.09,App
+A00165,P0336,2025-02-12,D062,Procedure,High,3716.97,Referral
+A00166,P0087,2025-05-15,D058,Diagnostic Test,Routine,3551.64,Phone
+A00167,P0294,2025-08-16,D014,Diagnostic Test,Routine,2323.35,Phone
+A00168,P0119,2025-04-21,D036,Procedure,Routine,3852.09,App
+A00169,P0208,2025-11-03,D036,Diagnostic Test,Urgent,4013.59,App
+A00170,P0334,2025-06-09,D079,Consultation,High,2562.42,Walk-in
+A00171,P0154,2025-11-27,D008,Procedure,High,5987.03,App
+A00172,P0035,2025-09-21,D026,Diagnostic Test,High,4758.85,App
+A00173,P0079,2025-08-13,D036,Consultation,Routine,2431.74,App
+A00174,P0067,2025-08-05,D048,Diagnostic Test,Urgent,4651.35,App
+A00175,P0343,2025-02-14,D028,Diagnostic Test,Urgent,3406.63,Phone
+A00176,P0034,2025-08-02,D068,Procedure,Routine,3819.58,Website
+A00177,P0097,2025-02-28,D062,Consultation,Routine,4263.84,App
+A00178,P0169,2025-05-12,D080,Procedure,Routine,7172.1,Website
+A00179,P0169,2025-04-14,D076,Diagnostic Test,Urgent,3444.51,Walk-in
+A00180,P0151,2025-07-14,D080,Diagnostic Test,High,4954.07,Referral
+A00181,P0071,2025-06-06,D051,Consultation,High,3169.49,Website
+A00182,P0003,2025-04-08,D042,Follow-up,Urgent,5879.45,Phone
+A00183,P0314,2025-08-14,D029,Procedure,High,5017.87,App
+A00184,P0032,2025-07-24,D010,Consultation,High,3958.48,Phone
+A00185,P0287,2025-03-20,D039,Consultation,Routine,6734.0,Walk-in
+A00186,P0082,2025-05-04,D001,Diagnostic Test,Routine,9392.32,Website
+A00187,P0043,2025-08-06,D039,Procedure,Routine,3964.02,Website
+A00188,P0391,2025-01-04,D021,Consultation,Routine,5001.34,Phone
+A00189,P0105,2025-03-31,D065,Follow-up,High,4319.57,Referral
+A00190,P0001,2025-04-14,D015,Diagnostic Test,Routine,12470.92,Referral
+A00191,P0061,2025-04-29,D004,Consultation,Routine,3993.68,Walk-in
+A00192,P0270,2025-05-13,D060,Diagnostic Test,Routine,3325.32,App
+A00193,P0180,2025-11-08,D061,Consultation,Routine,3468.15,App
+A00194,P0224,2025-04-06,D020,Procedure,Routine,6770.08,Walk-in
+A00195,P0006,2025-11-27,D010,Follow-up,Routine,6153.41,App
+A00196,P0103,2025-05-23,D034,Diagnostic Test,Routine,5957.39,Phone
+A00197,P0010,2025-10-15,D048,Consultation,Routine,6209.5,Website
+A00198,P0071,2025-01-28,D033,Consultation,Routine,6206.41,Website
+A00199,P0090,2025-10-05,D061,Procedure,Routine,4924.07,Website
+A00200,P0226,2025-08-21,D010,Diagnostic Test,Routine,4940.36,Referral
+A00201,P0158,2025-01-17,D054,Diagnostic Test,Routine,3425.77,App
+A00202,P0228,2025-02-28,D065,Diagnostic Test,Routine,3887.95,Walk-in
+A00203,P0126,2025-03-31,D077,Diagnostic Test,Routine,6275.7,Walk-in
+A00204,P0209,2025-07-18,D001,Consultation,High,3002.41,Referral
+A00205,P0097,2025-12-28,D005,Consultation,Routine,4453.2,Website
+A00206,P0074,2025-01-26,D080,Consultation,Routine,3541.43,Phone
+A00207,P0115,2025-01-25,D015,Follow-up,Routine,2829.55,Referral
+A00208,P0191,2025-10-28,D028,Consultation,Routine,9158.34,Website
+A00209,P0170,2025-12-05,D023,Consultation,Routine,5237.37,Phone
+A00210,P0307,2025-09-24,D017,Procedure,Routine,3217.46,Website
+A00211,P0204,2025-06-30,D013,Consultation,Routine,10466.57,App
+A00212,P0056,2025-12-26,D014,Follow-up,Routine,2609.59,Website
+A00213,P0208,2025-03-09,D011,Consultation,Routine,9434.17,Phone
+A00214,P0041,2025-12-17,D028,Consultation,High,4801.28,Phone
+A00215,P0032,2025-11-17,D042,Diagnostic Test,Routine,3244.69,App
+A00216,P0015,2025-02-18,D061,Consultation,Urgent,2539.05,Walk-in
+A00217,P0062,2025-06-24,D064,Procedure,Routine,5951.81,Website
+A00218,P0155,2025-02-21,D031,Diagnostic Test,Routine,7662.39,Phone
+A00219,P0284,2025-04-12,D073,Consultation,Routine,2358.1,Referral
+A00220,P0209,2025-08-04,D010,Consultation,High,1852.14,App
+A00221,P0320,2025-07-07,D008,Diagnostic Test,Routine,4989.64,Walk-in
+A00222,P0187,2025-02-26,D021,Consultation,Routine,3924.88,Phone
+A00223,P0130,2025-02-16,D077,Consultation,Routine,4792.72,Walk-in
+A00224,P0127,2025-06-08,D059,Diagnostic Test,Routine,3530.85,Website
+A00225,P0292,2025-06-23,D050,Procedure,High,2366.29,App
+A00226,P0114,2025-08-30,D069,Diagnostic Test,Routine,4088.09,Phone
+A00227,P0199,2025-10-09,D070,Follow-up,Routine,7997.03,Website
+A00228,P0013,2025-08-29,D030,Procedure,Routine,4814.02,App
+A00229,P0271,2025-01-05,D017,Consultation,Routine,2601.96,Walk-in
+A00230,P0089,2025-03-25,D075,Procedure,Routine,6768.69,Website
+A00231,P0215,2025-11-04,D020,Follow-up,Routine,2728.38,Walk-in
+A00232,P0278,2025-12-27,D048,Consultation,Routine,2647.22,Website
+A00233,P0203,2025-09-05,D073,Emergency Care,Urgent,8062.23,Phone
+A00234,P0074,2025-02-23,D002,Consultation,Routine,3114.76,Referral
+A00235,P0025,2025-06-10,D037,Consultation,Urgent,6252.21,Referral
+A00236,P0101,2025-08-14,D001,Follow-up,Routine,8013.41,App
+A00237,P0176,2025-01-15,D004,Diagnostic Test,Routine,3793.6,Walk-in
+A00238,P0117,2025-08-12,D054,Consultation,Routine,6275.1,Website
+A00239,P0166,2025-03-02,D025,Consultation,High,5890.88,App
+A00240,P0041,2025-05-02,D003,Follow-up,Routine,2364.43,Phone
+A00241,P0344,2025-10-04,D009,Procedure,Routine,4455.9,Referral
+A00242,P0366,2025-02-15,D076,Diagnostic Test,Routine,4216.86,Referral
+A00243,P0120,2025-10-21,D074,Emergency Care,High,4162.12,App
+A00244,P0097,2025-03-03,D034,Consultation,Routine,3981.48,Walk-in
+A00245,P0145,2025-03-27,D043,Consultation,Routine,4803.94,Walk-in
+A00246,P0216,2025-07-29,D074,Follow-up,Routine,5133.8,Website
+A00247,P0229,2025-03-19,D022,Follow-up,High,4713.5,Phone
+A00248,P0313,2025-07-21,D070,Consultation,Urgent,4498.73,Website
+A00249,P0130,2025-10-29,D002,Consultation,Routine,3364.24,App
+A00250,P0352,2025-08-11,D066,Procedure,Routine,8637.92,Walk-in
+A00251,P0377,2025-08-10,D032,Emergency Care,High,2493.23,App
+A00252,P0318,2025-01-03,D016,Follow-up,High,895.95,Website
+A00253,P0137,2025-01-06,D076,Consultation,Routine,5042.19,App
+A00254,P0324,2025-04-03,D001,Emergency Care,Urgent,3369.41,Walk-in
+A00255,P0337,2025-01-08,D072,Procedure,Routine,4820.98,Website
+A00256,P0273,2025-08-23,D048,Diagnostic Test,Routine,2526.58,Website
+A00257,P0117,2025-04-18,D050,Procedure,High,9412.02,Phone
+A00258,P0306,2025-06-10,D013,Procedure,Routine,9351.98,App
+A00259,P0368,2025-07-28,D015,Emergency Care,Urgent,6354.82,Referral
+A00260,P0094,2025-08-28,D053,Procedure,Routine,4591.86,Website
+A00261,P0168,2025-11-27,D044,Follow-up,Routine,3443.38,Website
+A00262,P0203,2025-11-29,D008,Follow-up,High,3823.6,App
+A00263,P0341,2025-02-19,D074,Diagnostic Test,Routine,10466.39,App
+A00264,P0149,2025-01-11,D046,Follow-up,Routine,6360.24,Referral
+A00265,P0183,2025-12-17,D069,Procedure,High,1486.24,Website
+A00266,P0152,2025-06-05,D019,Emergency Care,Routine,9367.98,Walk-in
+A00267,P0074,2025-03-11,D038,Diagnostic Test,Routine,1930.92,App
+A00268,P0365,2025-06-18,D011,Diagnostic Test,High,4990.48,Phone
+A00269,P0274,2025-09-29,D043,Diagnostic Test,Routine,4330.34,Referral
+A00270,P0042,2025-03-09,D020,Follow-up,Urgent,7360.5,App
+A00271,P0212,2025-12-21,D020,Follow-up,Routine,4440.52,Phone
+A00272,P0101,2025-09-09,D021,Consultation,Routine,10947.09,Referral
+A00273,P0045,2025-02-17,D057,Diagnostic Test,Routine,4434.1,Walk-in
+A00274,P0082,2025-07-03,D050,Consultation,Urgent,2827.69,App
+A00275,P0017,2025-11-16,D074,Consultation,Routine,6071.13,Website
+A00276,P0073,2025-07-06,D026,Procedure,Routine,2398.74,App
+A00277,P0014,2025-03-31,D030,Consultation,Routine,2707.38,Walk-in
+A00278,P0157,2025-11-28,D073,Consultation,Routine,5791.92,Phone
+A00279,P0223,2025-05-19,D031,Consultation,Routine,9259.46,Referral
+A00280,P0132,2025-12-23,D042,Consultation,Urgent,7864.01,App
+A00281,P0338,2025-03-30,D068,Follow-up,High,3667.32,Website
+A00282,P0376,2025-10-01,D061,Diagnostic Test,Routine,4312.14,App
+A00283,P0376,2025-01-19,D061,Procedure,Routine,3481.56,Website
+A00284,P0047,2025-11-07,D070,Consultation,Routine,3474.72,App
+A00285,P0107,2025-12-24,D078,Consultation,Routine,3570.87,Website
+A00286,P0108,2025-06-03,D068,Consultation,High,7136.76,Walk-in
+A00287,P0265,2025-09-17,D017,Follow-up,High,8359.26,App
+A00288,P0205,2025-04-18,D019,Diagnostic Test,High,6022.09,Website
+A00289,P0079,2025-10-12,D051,Procedure,Routine,2619.63,Referral
+A00290,P0155,2025-02-28,D070,Follow-up,Routine,4609.2,Referral
+A00291,P0271,2025-05-05,D063,Diagnostic Test,Routine,4199.91,App
+A00292,P0247,2025-12-20,D075,Procedure,Routine,5865.27,Referral
+A00293,P0019,2025-09-30,D080,Emergency Care,Routine,5526.55,App
+A00294,P0346,2025-04-17,D030,Consultation,High,5961.67,Website
+A00295,P0026,2025-10-26,D025,Consultation,High,3745.25,Walk-in
+A00296,P0217,2025-09-02,D075,Follow-up,Urgent,2629.21,Walk-in
+A00297,P0154,2025-12-02,D071,Diagnostic Test,High,5131.61,Walk-in
+A00298,P0154,2025-09-04,D026,Emergency Care,Routine,2659.92,Walk-in
+A00299,P0174,2025-01-08,D056,Diagnostic Test,Routine,5163.65,App
+A00300,P0092,2025-05-21,D022,Consultation,Routine,8027.28,Phone
+A00301,P0338,2025-12-28,D019,Emergency Care,Routine,5014.47,Website
+A00302,P0181,2025-01-08,D031,Procedure,Routine,5971.78,Website
+A00303,P0131,2025-12-18,D026,Consultation,Routine,2045.26,App
+A00304,P0298,2025-04-04,D042,Procedure,Routine,3986.01,Website
+A00305,P0275,2025-11-17,D041,Consultation,Routine,4553.69,Walk-in
+A00306,P0273,2025-02-08,D023,Consultation,Routine,6036.44,Referral
+A00307,P0076,2025-03-22,D047,Procedure,Routine,4371.52,Phone
+A00308,P0177,2025-07-06,D013,Diagnostic Test,Routine,4315.38,Website
+A00309,P0184,2025-03-25,D066,Consultation,Routine,2870.69,Walk-in
+A00310,P0319,2025-03-29,D066,Consultation,Routine,5257.14,Phone
+A00311,P0131,2025-08-30,D016,Follow-up,High,11609.64,Referral
+A00312,P0363,2025-12-08,D073,Consultation,Routine,7129.53,App
+A00313,P0049,2025-04-03,D028,Diagnostic Test,Routine,6818.9,Website
+A00314,P0055,2025-03-27,D077,Follow-up,Routine,7141.06,Referral
+A00315,P0154,2025-02-13,D035,Consultation,Urgent,4739.53,Referral
+A00316,P0355,2025-05-17,D041,Follow-up,Routine,3459.46,Website
+A00317,P0200,2025-03-15,D077,Procedure,High,4691.19,App
+A00318,P0308,2025-02-05,D031,Diagnostic Test,Urgent,2471.13,Walk-in
+A00319,P0356,2025-04-11,D032,Consultation,High,2155.66,Phone
+A00320,P0373,2025-06-05,D054,Consultation,Routine,3566.26,Walk-in
+A00321,P0118,2025-09-12,D072,Follow-up,Routine,4657.9,Website
+A00322,P0263,2025-06-20,D059,Procedure,Routine,2755.46,App
+A00323,P0046,2025-08-04,D041,Consultation,Routine,3598.2,App
+A00324,P0302,2025-06-19,D066,Consultation,Routine,6723.66,Phone
+A00325,P0356,2025-09-09,D054,Diagnostic Test,High,8362.4,App
+A00326,P0400,2025-12-26,D040,Diagnostic Test,High,2283.56,App
+A00327,P0189,2025-11-18,D028,Consultation,Routine,3798.69,Website
+A00328,P0310,2025-02-24,D037,Procedure,Routine,8277.51,Website
+A00329,P0318,2025-04-01,D065,Consultation,Urgent,7028.29,App
+A00330,P0129,2025-10-05,D074,Follow-up,Routine,6722.27,App
+A00331,P0049,2025-04-11,D055,Diagnostic Test,Routine,4278.1,Referral
+A00332,P0025,2025-06-04,D004,Diagnostic Test,Routine,5186.34,App
+A00333,P0266,2025-12-15,D010,Consultation,High,6189.47,Website
+A00334,P0118,2025-12-30,D047,Follow-up,Routine,9710.61,Website
+A00335,P0144,2025-05-21,D075,Consultation,High,3347.15,Walk-in
+A00336,P0200,2025-06-22,D014,Consultation,Routine,4661.58,Website
+A00337,P0157,2025-01-10,D038,Diagnostic Test,Routine,4259.88,App
+A00338,P0348,2025-08-16,D012,Follow-up,Routine,4027.05,App
+A00339,P0134,2025-09-22,D045,Consultation,Routine,5963.99,Walk-in
+A00340,P0400,2025-09-05,D017,Consultation,Routine,5924.95,Walk-in
+A00341,P0148,2025-09-04,D080,Procedure,Routine,4683.93,Website
+A00342,P0336,2025-06-04,D035,Procedure,High,7836.54,App
+A00343,P0071,2025-02-03,D066,Consultation,Routine,6170.55,Website
+A00344,P0233,2025-05-09,D075,Follow-up,High,6943.3,Phone
+A00345,P0334,2025-06-09,D041,Diagnostic Test,Urgent,3361.1,Walk-in
+A00346,P0299,2025-03-30,D067,Follow-up,High,4760.71,App
+A00347,P0154,2025-04-03,D029,Procedure,Urgent,6832.33,Phone
+A00348,P0090,2025-11-23,D018,Consultation,Routine,2795.82,App
+A00349,P0334,2025-08-29,D020,Follow-up,Routine,6025.98,Phone
+A00350,P0199,2025-11-19,D014,Diagnostic Test,Urgent,2768.29,Phone
+A00351,P0161,2025-04-27,D034,Diagnostic Test,High,6276.67,Referral
+A00352,P0026,2025-04-04,D049,Follow-up,High,3705.2,Website
+A00353,P0121,2025-06-12,D054,Procedure,Routine,5406.66,Phone
+A00354,P0301,2025-04-09,D031,Consultation,Routine,3544.11,App
+A00355,P0212,2025-04-23,D058,Consultation,Routine,2949.84,App
+A00356,P0063,2025-12-25,D042,Consultation,High,7548.08,App
+A00357,P0068,2025-04-01,D058,Emergency Care,Routine,2540.37,App
+A00358,P0253,2025-12-12,D030,Follow-up,Routine,3080.92,App
+A00359,P0002,2025-07-25,D025,Follow-up,Routine,8107.61,Referral
+A00360,P0398,2025-01-17,D063,Consultation,Routine,3518.44,Phone
+A00361,P0108,2025-10-01,D019,Procedure,Routine,2579.5,App
+A00362,P0286,2025-06-22,D072,Procedure,High,4978.36,App
+A00363,P0049,2025-04-26,D008,Follow-up,High,3982.06,Website
+A00364,P0140,2025-12-15,D003,Consultation,Routine,3305.87,Website
+A00365,P0218,2025-06-30,D067,Consultation,Routine,5686.18,App
+A00366,P0044,2025-04-01,D017,Diagnostic Test,Urgent,2044.27,Website
+A00367,P0269,2025-03-23,D014,Follow-up,Routine,4476.73,Referral
+A00368,P0078,2025-11-20,D009,Consultation,High,2277.89,Phone
+A00369,P0216,2025-04-24,D062,Follow-up,Routine,7421.02,Phone
+A00370,P0382,2025-09-14,D021,Consultation,Routine,10786.03,Walk-in
+A00371,P0098,2025-02-27,D076,Follow-up,Routine,3084.81,App
+A00372,P0236,2025-06-03,D037,Diagnostic Test,High,4994.86,App
+A00373,P0282,2025-12-31,D011,Consultation,Routine,1904.47,Website
+A00374,P0149,2025-04-26,D020,Diagnostic Test,Routine,2202.2,Walk-in
+A00375,P0304,2025-12-09,D035,Consultation,Routine,3523.57,Website
+A00376,P0066,2025-09-23,D053,Consultation,Routine,3858.82,App
+A00377,P0234,2025-11-11,D047,Procedure,Routine,3328.09,Referral
+A00378,P0087,2025-07-22,D075,Consultation,Routine,4203.38,Website
+A00379,P0079,2025-02-10,D052,Consultation,Routine,5855.29,Walk-in
+A00380,P0205,2025-04-15,D008,Consultation,Routine,4511.26,Referral
+A00381,P0279,2025-07-12,D004,Consultation,Routine,5466.59,Website
+A00382,P0337,2025-10-05,D027,Consultation,Routine,2526.4,Walk-in
+A00383,P0254,2025-12-20,D044,Consultation,Routine,4210.15,Walk-in
+A00384,P0304,2025-08-25,D040,Diagnostic Test,Routine,8909.56,Referral
+A00385,P0380,2025-08-09,D047,Consultation,Routine,3163.13,App
+A00386,P0130,2025-03-09,D044,Follow-up,Routine,4902.36,Referral
+A00387,P0084,2025-07-16,D048,Consultation,Routine,5026.04,App
+A00388,P0276,2025-09-13,D052,Consultation,Routine,2945.04,Walk-in
+A00389,P0187,2025-05-19,D068,Consultation,Routine,2431.48,Website
+A00390,P0046,2025-11-08,D011,Procedure,Routine,4333.54,App
+A00391,P0387,2025-05-29,D077,Follow-up,Routine,4318.7,App
+A00392,P0183,2025-04-09,D073,Follow-up,High,3801.86,Website
+A00393,P0268,2025-03-17,D004,Consultation,Routine,11702.08,Website
+A00394,P0296,2025-10-09,D076,Procedure,Routine,2817.34,App
+A00395,P0322,2025-04-19,D073,Consultation,Routine,4130.52,App
+A00396,P0100,2025-07-07,D077,Consultation,Routine,7853.11,Website
+A00397,P0078,2025-07-18,D048,Follow-up,Urgent,2264.82,Website
+A00398,P0272,2025-10-30,D026,Consultation,Routine,4805.14,Website
+A00399,P0339,2025-11-23,D077,Emergency Care,Routine,3532.35,Walk-in
+A00400,P0162,2025-06-03,D039,Consultation,Routine,4405.39,Phone
+A00401,P0044,2025-02-09,D058,Emergency Care,Routine,5745.76,App
+A00402,P0238,2025-05-13,D019,Follow-up,Routine,1924.1,Phone
+A00403,P0134,2025-05-12,D077,Diagnostic Test,Routine,6421.35,Walk-in
+A00404,P0192,2025-10-06,D077,Consultation,High,5015.83,App
+A00405,P0356,2025-12-28,D058,Consultation,Routine,3063.78,Website
+A00406,P0278,2025-03-25,D028,Procedure,Routine,3314.05,Website
+A00407,P0018,2025-08-30,D066,Consultation,Routine,2044.14,Referral
+A00408,P0012,2025-04-26,D010,Follow-up,Routine,4439.81,Website
+A00409,P0180,2025-04-19,D077,Emergency Care,Routine,4372.09,Walk-in
+A00410,P0123,2025-08-09,D058,Consultation,Routine,3768.55,Website
+A00411,P0246,2025-02-10,D073,Diagnostic Test,Routine,3438.03,Walk-in
+A00412,P0222,2025-05-27,D014,Follow-up,Routine,8903.53,Website
+A00413,P0373,2025-04-22,D015,Consultation,Urgent,5697.71,Website
+A00414,P0051,2025-04-13,D033,Consultation,Routine,3182.81,Website
+A00415,P0071,2025-02-15,D017,Diagnostic Test,Routine,3906.51,Referral
+A00416,P0048,2025-11-20,D024,Consultation,Routine,3721.21,App
+A00417,P0019,2025-09-28,D030,Follow-up,Routine,3272.01,App
+A00418,P0262,2025-07-14,D062,Consultation,Routine,4950.95,Walk-in
+A00419,P0084,2025-10-07,D013,Emergency Care,Routine,5399.0,Phone
+A00420,P0155,2025-10-10,D062,Consultation,Routine,3941.32,App
+A00421,P0053,2025-02-09,D047,Follow-up,Routine,2238.45,App
+A00422,P0107,2025-07-08,D016,Diagnostic Test,High,6405.17,Website
+A00423,P0357,2025-06-13,D066,Consultation,Routine,2062.05,Website
+A00424,P0304,2025-01-24,D043,Consultation,Routine,3766.79,Walk-in
+A00425,P0135,2025-01-24,D008,Procedure,Routine,4313.62,App
+A00426,P0069,2025-01-04,D003,Procedure,High,2821.12,Referral
+A00427,P0011,2025-11-19,D012,Consultation,Routine,2593.06,Website
+A00428,P0143,2025-10-17,D016,Diagnostic Test,Routine,3754.46,App
+A00429,P0192,2025-06-30,D078,Consultation,High,6683.44,Phone
+A00430,P0387,2025-09-05,D080,Consultation,Routine,5403.55,Phone
+A00431,P0378,2025-04-26,D059,Follow-up,Routine,8402.41,App
+A00432,P0069,2025-10-06,D049,Procedure,Routine,4867.35,Walk-in
+A00433,P0023,2025-12-31,D063,Consultation,High,9121.39,Walk-in
+A00434,P0181,2025-03-10,D062,Emergency Care,High,7628.05,App
+A00435,P0293,2025-12-17,D049,Consultation,Urgent,4597.81,App
+A00436,P0009,2025-09-11,D051,Follow-up,Urgent,6811.61,App
+A00437,P0271,2025-06-30,D033,Diagnostic Test,High,9571.06,Walk-in
+A00438,P0387,2025-11-14,D030,Diagnostic Test,Routine,6116.37,App
+A00439,P0093,2025-06-18,D059,Diagnostic Test,High,2975.65,Walk-in
+A00440,P0017,2025-11-09,D076,Consultation,Routine,3398.08,Phone
+A00441,P0154,2025-09-06,D015,Follow-up,Routine,6897.29,Walk-in
+A00442,P0328,2025-07-07,D023,Follow-up,Routine,2570.14,Phone
+A00443,P0149,2025-02-23,D078,Consultation,Routine,6763.63,Website
+A00444,P0377,2025-11-22,D045,Procedure,High,5853.03,Referral
+A00445,P0267,2025-12-23,D062,Consultation,Routine,3596.72,Walk-in
+A00446,P0328,2025-11-09,D079,Follow-up,Routine,7915.55,Website
+A00447,P0106,2025-05-18,D071,Consultation,Routine,1762.1,Phone
+A00448,P0381,2025-06-17,D015,Consultation,High,7425.59,Phone
+A00449,P0035,2025-04-13,D046,Consultation,Routine,7589.32,Website
+A00450,P0119,2025-03-26,D064,Diagnostic Test,Routine,4274.79,Website
+A00451,P0014,2025-11-13,D046,Follow-up,Routine,3255.81,Website
+A00452,P0014,2025-07-31,D056,Consultation,Routine,2145.35,Referral
+A00453,P0266,2025-01-03,D044,Consultation,Routine,2952.71,Phone
+A00454,P0140,2025-06-28,D075,Consultation,Routine,2591.51,App
+A00455,P0294,2025-12-08,D029,Follow-up,High,4931.38,Phone
+A00456,P0364,2025-10-30,D062,Follow-up,Routine,6434.54,App
+A00457,P0119,2025-11-28,D052,Consultation,Routine,2739.6,App
+A00458,P0238,2025-02-07,D054,Consultation,Routine,6057.81,Website
+A00459,P0034,2025-08-27,D057,Follow-up,Routine,3972.16,Phone
+A00460,P0169,2025-06-18,D066,Consultation,Routine,3698.44,Referral
+A00461,P0010,2025-12-09,D022,Consultation,Routine,7135.74,Referral
+A00462,P0122,2025-11-10,D020,Consultation,Routine,9022.58,App
+A00463,P0145,2025-11-02,D033,Diagnostic Test,High,1742.96,Phone
+A00464,P0223,2025-01-30,D072,Diagnostic Test,Routine,5913.31,Walk-in
+A00465,P0371,2025-07-09,D025,Follow-up,Routine,2278.07,App
+A00466,P0257,2025-12-23,D046,Consultation,Routine,4928.02,Walk-in
+A00467,P0268,2025-01-25,D073,Follow-up,Routine,3230.52,Walk-in
+A00468,P0359,2025-04-22,D057,Consultation,Routine,9875.34,Phone
+A00469,P0004,2025-07-25,D005,Procedure,Routine,6155.72,Website
+A00470,P0397,2025-07-04,D055,Diagnostic Test,High,2995.52,Referral
+A00471,P0354,2025-02-16,D061,Diagnostic Test,Routine,3897.61,Referral
+A00472,P0106,2025-08-16,D008,Consultation,Routine,4388.43,Walk-in
+A00473,P0085,2025-02-08,D016,Consultation,High,2624.12,Website
+A00474,P0214,2025-01-16,D048,Diagnostic Test,Routine,4742.54,Walk-in
+A00475,P0121,2025-01-22,D061,Follow-up,Routine,6979.9,Website
+A00476,P0132,2025-08-01,D015,Consultation,Routine,1946.33,App
+A00477,P0338,2025-11-06,D065,Emergency Care,Routine,3602.59,Phone
+A00478,P0197,2025-05-29,D022,Emergency Care,Routine,7916.32,Referral
+A00479,P0019,2025-08-29,D003,Diagnostic Test,Routine,9542.45,Walk-in
+A00480,P0130,2025-09-29,D054,Emergency Care,Urgent,5518.19,Walk-in
+A00481,P0012,2025-02-28,D014,Consultation,Routine,2861.35,Website
+A00482,P0081,2025-10-14,D036,Consultation,Routine,6078.55,Website
+A00483,P0330,2025-07-21,D067,Consultation,Routine,6508.83,Walk-in
+A00484,P0354,2025-02-01,D010,Diagnostic Test,Routine,4856.22,Phone
+A00485,P0262,2025-06-11,D049,Consultation,Routine,3595.67,Walk-in
+A00486,P0392,2025-09-12,D065,Emergency Care,Routine,5899.53,Website
+A00487,P0125,2025-09-11,D057,Consultation,Routine,4152.61,Walk-in
+A00488,P0307,2025-01-09,D027,Consultation,Routine,6111.56,Walk-in
+A00489,P0267,2025-05-19,D075,Procedure,Routine,2863.31,Website
+A00490,P0383,2025-01-10,D005,Consultation,Urgent,2981.9,App
+A00491,P0140,2025-08-02,D071,Consultation,High,5941.53,App
+A00492,P0329,2025-09-30,D057,Follow-up,Routine,2865.48,Referral
+A00493,P0002,2025-11-20,D015,Consultation,High,4266.14,Phone
+A00494,P0008,2025-02-17,D076,Consultation,Routine,4039.45,Walk-in
+A00495,P0250,2025-04-21,D030,Consultation,High,2676.28,Website
+A00496,P0139,2025-06-02,D020,Diagnostic Test,Routine,3243.09,Walk-in
+A00497,P0124,2025-05-03,D037,Emergency Care,Routine,1694.54,Phone
+A00498,P0309,2025-12-23,D003,Procedure,High,4750.51,App
+A00499,P0228,2025-04-12,D073,Consultation,Routine,2550.4,Referral
+A00500,P0010,2025-08-29,D041,Consultation,High,3138.07,Website
+A00501,P0212,2025-11-17,D039,Diagnostic Test,High,5479.66,Website
+A00502,P0112,2025-07-10,D026,Emergency Care,Urgent,8005.8,Website
+A00503,P0008,2025-08-05,D002,Consultation,Routine,3852.07,App
+A00504,P0292,2025-02-20,D023,Consultation,Routine,2936.97,Phone
+A00505,P0362,2025-10-19,D023,Follow-up,Routine,3640.27,App
+A00506,P0253,2025-03-22,D016,Emergency Care,Urgent,2492.36,Walk-in
+A00507,P0014,2025-03-29,D009,Consultation,Routine,5865.26,Website
+A00508,P0240,2025-07-13,D013,Consultation,Routine,1820.96,Website
+A00509,P0242,2025-04-14,D028,Consultation,Routine,5240.54,Phone
+A00510,P0342,2025-09-28,D027,Consultation,Routine,5135.26,Walk-in
+A00511,P0149,2025-04-06,D051,Follow-up,Routine,7379.44,App
+A00512,P0236,2025-07-17,D064,Follow-up,Routine,4201.63,Referral
+A00513,P0306,2025-01-01,D052,Follow-up,High,2420.32,Phone
+A00514,P0167,2025-06-16,D038,Consultation,Routine,5213.45,App
+A00515,P0020,2025-05-06,D065,Consultation,High,6055.67,Website
+A00516,P0216,2025-11-09,D018,Consultation,Routine,7048.96,Website
+A00517,P0343,2025-03-22,D063,Consultation,Routine,3782.22,Walk-in
+A00518,P0135,2025-09-08,D051,Procedure,Routine,5931.43,Website
+A00519,P0393,2025-06-18,D009,Consultation,Routine,5096.5,Website
+A00520,P0129,2025-03-14,D013,Consultation,Routine,3753.06,App
+A00521,P0294,2025-05-21,D040,Consultation,High,2909.75,App
+A00522,P0246,2025-03-11,D055,Diagnostic Test,Routine,3455.38,Walk-in
+A00523,P0189,2025-09-19,D079,Diagnostic Test,Routine,3838.47,Phone
+A00524,P0044,2025-12-06,D043,Procedure,Routine,2251.24,App
+A00525,P0086,2025-11-04,D044,Consultation,High,5970.46,App
+A00526,P0044,2025-09-02,D068,Follow-up,Routine,7014.87,Website
+A00527,P0330,2025-01-03,D033,Consultation,Routine,10591.59,Walk-in
+A00528,P0375,2025-12-03,D024,Consultation,Routine,2896.28,Walk-in
+A00529,P0378,2025-03-04,D036,Emergency Care,Urgent,5029.91,App
+A00530,P0390,2025-02-18,D010,Consultation,Routine,6492.55,Website
+A00531,P0145,2025-03-17,D020,Follow-up,Routine,8184.43,Website
+A00532,P0051,2025-06-24,D075,Consultation,Routine,1779.91,Referral
+A00533,P0242,2025-04-19,D012,Diagnostic Test,High,3107.79,Phone
+A00534,P0294,2025-07-02,D062,Procedure,Routine,6060.79,App
+A00535,P0051,2025-07-11,D018,Procedure,High,4409.66,Website
+A00536,P0266,2025-03-06,D063,Procedure,Routine,2082.05,Website
+A00537,P0120,2025-12-03,D025,Diagnostic Test,Routine,6889.81,Phone
+A00538,P0200,2025-09-28,D012,Consultation,Routine,5577.7,App
+A00539,P0248,2025-04-10,D021,Follow-up,High,3079.52,Website
+A00540,P0070,2025-02-01,D025,Follow-up,Routine,4849.61,Phone
+A00541,P0341,2025-12-18,D011,Consultation,High,3653.98,App
+A00542,P0057,2025-05-08,D064,Diagnostic Test,Routine,2700.17,Phone
+A00543,P0382,2025-12-05,D073,Procedure,High,3737.45,Website
+A00544,P0039,2025-02-12,D050,Diagnostic Test,Routine,2040.57,Walk-in
+A00545,P0289,2025-03-19,D062,Consultation,Routine,8057.38,App
+A00546,P0018,2025-11-10,D049,Procedure,Routine,7856.78,Referral
+A00547,P0220,2025-10-16,D014,Consultation,Routine,2832.59,App
+A00548,P0313,2025-09-27,D001,Consultation,Routine,7094.6,App
+A00549,P0244,2025-06-11,D025,Follow-up,Routine,3099.46,Walk-in
+A00550,P0352,2025-07-08,D059,Consultation,Routine,6976.67,Walk-in
+A00551,P0304,2025-09-04,D072,Follow-up,Routine,7536.43,App
+A00552,P0298,2025-08-04,D069,Consultation,Routine,6807.69,Referral
+A00553,P0283,2025-11-11,D005,Consultation,Routine,1689.98,App
+A00554,P0074,2025-12-05,D019,Consultation,Routine,3617.61,Phone
+A00555,P0110,2025-06-17,D023,Emergency Care,Routine,6857.55,App
+A00556,P0180,2025-12-05,D009,Diagnostic Test,Routine,6574.84,Website
+A00557,P0032,2025-07-12,D050,Consultation,Routine,3019.57,Website
+A00558,P0234,2025-10-10,D016,Consultation,High,4767.59,Phone
+A00559,P0282,2025-12-02,D033,Consultation,High,6762.32,Phone
+A00560,P0025,2025-01-13,D002,Diagnostic Test,Routine,6732.99,Website
+A00561,P0331,2025-08-28,D014,Consultation,Routine,6990.78,Referral
+A00562,P0279,2025-11-16,D001,Diagnostic Test,Routine,5909.86,App
+A00563,P0226,2025-05-27,D058,Diagnostic Test,Routine,6590.42,App
+A00564,P0057,2025-07-23,D016,Follow-up,Routine,6422.73,Walk-in
+A00565,P0180,2025-03-21,D079,Follow-up,Routine,6150.69,App
+A00566,P0232,2025-02-12,D047,Diagnostic Test,Routine,4032.36,Website
+A00567,P0382,2025-03-30,D044,Consultation,Routine,3754.44,Website
+A00568,P0343,2025-05-28,D080,Follow-up,Routine,7117.07,Website
+A00569,P0287,2025-04-05,D014,Follow-up,Routine,2768.92,Referral
+A00570,P0064,2025-05-31,D024,Consultation,Routine,3839.47,App
+A00571,P0232,2025-01-02,D055,Procedure,Routine,4019.19,App
+A00572,P0289,2025-01-22,D015,Consultation,Routine,5327.69,App
+A00573,P0213,2025-11-09,D072,Consultation,High,5171.83,App
+A00574,P0258,2025-11-24,D034,Consultation,High,10364.1,Website
+A00575,P0018,2025-01-07,D002,Procedure,Routine,4659.36,Phone
+A00576,P0175,2025-07-25,D027,Diagnostic Test,Routine,3904.46,Walk-in
+A00577,P0229,2025-04-24,D074,Procedure,Routine,4494.43,Walk-in
+A00578,P0226,2025-09-29,D072,Consultation,Routine,3419.8,App
+A00579,P0084,2025-03-24,D023,Diagnostic Test,Routine,3001.39,App
+A00580,P0291,2025-06-28,D068,Consultation,Routine,3991.07,Referral
+A00581,P0370,2025-07-29,D014,Procedure,Routine,8017.25,App
+A00582,P0246,2025-11-24,D063,Consultation,Routine,6179.59,Referral
+A00583,P0110,2025-05-04,D065,Consultation,Urgent,4706.76,Walk-in
+A00584,P0254,2025-04-23,D068,Consultation,High,5908.83,Referral
+A00585,P0088,2025-01-12,D063,Procedure,Routine,3884.72,Website
+A00586,P0072,2025-05-06,D064,Diagnostic Test,Routine,2405.8,App
+A00587,P0381,2025-02-22,D032,Diagnostic Test,Routine,8807.22,Phone
+A00588,P0030,2025-11-27,D079,Diagnostic Test,High,8563.26,Walk-in
+A00589,P0172,2025-10-10,D013,Emergency Care,Routine,4082.56,App
+A00590,P0309,2025-05-20,D066,Procedure,Urgent,9014.69,Walk-in
+A00591,P0394,2025-04-07,D019,Follow-up,Routine,2998.79,App
+A00592,P0343,2025-01-05,D024,Consultation,High,1875.93,Website
+A00593,P0177,2025-02-26,D011,Consultation,Routine,3388.75,Walk-in
+A00594,P0139,2025-11-30,D059,Procedure,High,3639.05,App
+A00595,P0194,2025-03-10,D015,Diagnostic Test,High,3991.01,App
+A00596,P0186,2025-04-28,D010,Consultation,Routine,4324.18,App
+A00597,P0218,2025-02-28,D041,Diagnostic Test,Routine,3938.29,App
+A00598,P0164,2025-02-02,D027,Procedure,High,6603.7,App
+A00599,P0161,2025-11-14,D060,Consultation,Routine,3928.36,App
+A00600,P0013,2025-02-19,D073,Diagnostic Test,Routine,5655.36,App
+A00601,P0296,2025-01-19,D052,Procedure,Routine,4216.38,Walk-in
+A00602,P0089,2025-08-02,D028,Diagnostic Test,Routine,4226.32,Referral
+A00603,P0324,2025-07-16,D065,Consultation,Routine,4958.88,Website
+A00604,P0042,2025-02-16,D017,Emergency Care,Routine,2712.01,App
+A00605,P0210,2025-06-16,D044,Emergency Care,Routine,4254.57,App
+A00606,P0229,2025-10-16,D010,Procedure,Routine,2114.44,Walk-in
+A00607,P0350,2025-05-21,D063,Follow-up,Routine,5177.25,Phone
+A00608,P0275,2025-03-25,D047,Consultation,Routine,2777.61,Referral
+A00609,P0279,2025-07-01,D038,Procedure,Routine,5022.58,App
+A00610,P0251,2025-03-20,D070,Consultation,Routine,4158.5,Walk-in
+A00611,P0310,2025-08-03,D076,Procedure,Routine,6317.94,Phone
+A00612,P0208,2025-01-14,D053,Procedure,High,6127.79,Referral
+A00613,P0321,2025-08-03,D078,Follow-up,Routine,3767.85,Phone
+A00614,P0140,2025-05-08,D044,Procedure,Routine,5776.57,Website
+A00615,P0280,2025-11-06,D074,Procedure,Routine,2150.6,Phone
+A00616,P0034,2025-09-05,D054,Consultation,Urgent,6279.82,Walk-in
+A00617,P0309,2025-01-29,D020,Follow-up,Routine,2150.66,App
+A00618,P0392,2025-10-07,D079,Consultation,Routine,5281.9,App
+A00619,P0018,2025-12-04,D031,Diagnostic Test,Routine,4748.01,Website
+A00620,P0057,2025-11-15,D007,Consultation,Routine,1185.78,App
+A00621,P0112,2025-07-21,D058,Diagnostic Test,Routine,4464.8,Website
+A00622,P0005,2025-12-27,D010,Procedure,Routine,7285.17,Referral
+A00623,P0182,2025-02-26,D010,Emergency Care,Routine,4755.44,Phone
+A00624,P0013,2025-08-06,D039,Consultation,High,4183.31,Phone
+A00625,P0339,2025-03-03,D028,Diagnostic Test,Routine,7382.94,Phone
+A00626,P0285,2025-06-06,D030,Diagnostic Test,Routine,4703.09,Walk-in
+A00627,P0259,2025-07-21,D037,Emergency Care,Routine,4901.48,Referral
+A00628,P0090,2025-01-17,D067,Diagnostic Test,Routine,3665.29,Phone
+A00629,P0104,2025-11-18,D043,Follow-up,Urgent,4115.63,Website
+A00630,P0379,2025-01-06,D079,Procedure,High,3117.84,Website
+A00631,P0186,2025-02-27,D052,Consultation,High,3810.48,Website
+A00632,P0250,2025-11-21,D056,Procedure,Urgent,3671.06,Website
+A00633,P0255,2025-11-14,D076,Procedure,Routine,2840.63,Website
+A00634,P0076,2025-06-18,D068,Emergency Care,Routine,4594.78,Phone
+A00635,P0386,2025-03-23,D009,Consultation,Routine,11332.86,Phone
+A00636,P0108,2025-08-07,D023,Diagnostic Test,Routine,4947.0,App
+A00637,P0156,2025-06-26,D063,Procedure,High,5895.77,Referral
+A00638,P0082,2025-07-23,D061,Consultation,Routine,5342.6,Website
+A00639,P0077,2025-03-12,D040,Follow-up,Routine,3593.23,Phone
+A00640,P0258,2025-09-23,D044,Consultation,Urgent,6474.08,Walk-in
+A00641,P0127,2025-04-08,D024,Consultation,Routine,3740.07,Phone
+A00642,P0391,2025-12-11,D051,Diagnostic Test,High,7693.02,Website
+A00643,P0282,2025-10-18,D058,Diagnostic Test,Routine,4705.98,Walk-in
+A00644,P0088,2025-07-27,D033,Consultation,Routine,4686.86,App
+A00645,P0204,2025-01-02,D016,Diagnostic Test,Routine,4220.27,Phone
+A00646,P0016,2025-05-04,D022,Diagnostic Test,Routine,5032.81,App
+A00647,P0151,2025-10-07,D057,Follow-up,Routine,7168.82,Phone
+A00648,P0254,2025-03-15,D062,Follow-up,Routine,4107.45,App
+A00649,P0188,2025-06-15,D071,Diagnostic Test,High,5798.91,Walk-in
+A00650,P0329,2025-01-22,D072,Diagnostic Test,Routine,3317.97,App
+A00651,P0032,2025-06-03,D070,Consultation,High,5457.73,Referral
+A00652,P0271,2025-10-22,D030,Diagnostic Test,Routine,4876.47,Walk-in
+A00653,P0397,2025-08-07,D023,Diagnostic Test,High,3309.73,Website
+A00654,P0005,2025-06-06,D032,Diagnostic Test,Routine,5693.06,Website
+A00655,P0330,2025-08-18,D057,Consultation,Routine,4697.72,Walk-in
+A00656,P0308,2025-01-20,D009,Follow-up,Routine,4440.75,App
+A00657,P0333,2025-02-10,D031,Consultation,Routine,2408.15,App
+A00658,P0169,2025-05-28,D071,Procedure,High,4153.92,App
+A00659,P0181,2025-04-18,D009,Consultation,Routine,7857.29,Phone
+A00660,P0366,2025-03-25,D013,Emergency Care,Routine,6233.24,App
+A00661,P0178,2025-11-18,D058,Diagnostic Test,High,4664.46,App
+A00662,P0143,2025-11-05,D003,Diagnostic Test,Routine,10155.59,Phone
+A00663,P0362,2025-10-17,D035,Consultation,High,8107.2,App
+A00664,P0248,2025-11-19,D021,Consultation,Routine,10421.86,App
+A00665,P0127,2025-05-14,D064,Consultation,Routine,3236.36,Referral
+A00666,P0263,2025-07-26,D052,Consultation,Routine,3902.65,Phone
+A00667,P0040,2025-10-10,D034,Follow-up,Urgent,2135.4,Website
+A00668,P0355,2025-09-23,D035,Consultation,Routine,2621.83,App
+A00669,P0255,2025-03-14,D015,Follow-up,Routine,2946.48,Phone
+A00670,P0143,2025-12-18,D006,Consultation,Routine,7112.49,App
+A00671,P0240,2025-02-17,D032,Procedure,Routine,7170.88,Referral
+A00672,P0228,2025-11-22,D052,Diagnostic Test,Routine,5557.32,Phone
+A00673,P0341,2025-08-21,D028,Consultation,Routine,1363.1,Referral
+A00674,P0198,2025-04-10,D064,Diagnostic Test,Routine,3402.71,Walk-in
+A00675,P0065,2025-02-28,D079,Consultation,High,3175.75,Website
+A00676,P0388,2025-09-15,D078,Consultation,Routine,2640.34,Phone
+A00677,P0011,2025-03-06,D019,Diagnostic Test,High,7275.89,Walk-in
+A00678,P0108,2025-03-24,D015,Follow-up,Routine,4680.68,Phone
+A00679,P0026,2025-06-03,D006,Procedure,Routine,2823.43,App
+A00680,P0151,2025-09-23,D073,Diagnostic Test,High,4622.28,Website
+A00681,P0221,2025-11-05,D038,Emergency Care,High,4936.93,App
+A00682,P0341,2025-03-20,D026,Emergency Care,Routine,5331.22,Walk-in
+A00683,P0237,2025-11-11,D051,Procedure,Routine,4506.11,Phone
+A00684,P0237,2025-05-30,D073,Diagnostic Test,Routine,4234.6,Referral
+A00685,P0219,2025-02-17,D053,Consultation,Routine,2582.59,Phone
+A00686,P0151,2025-09-05,D056,Consultation,Routine,4179.9,Walk-in
+A00687,P0123,2025-10-05,D059,Follow-up,Routine,4288.01,App
+A00688,P0144,2025-12-22,D070,Diagnostic Test,Routine,3623.18,Website
+A00689,P0189,2025-04-08,D078,Consultation,Routine,3537.88,Referral
+A00690,P0255,2025-01-25,D058,Diagnostic Test,High,3710.54,Walk-in
+A00691,P0068,2025-10-11,D013,Consultation,High,4679.4,Phone
+A00692,P0104,2025-10-28,D043,Follow-up,Routine,2498.22,App
+A00693,P0336,2025-03-09,D076,Consultation,Routine,3090.63,Phone
+A00694,P0159,2025-01-07,D051,Follow-up,Routine,4932.96,Referral
+A00695,P0309,2025-11-01,D019,Procedure,High,5241.49,App
+A00696,P0362,2025-05-17,D021,Consultation,Routine,6797.56,Walk-in
+A00697,P0300,2025-06-13,D024,Diagnostic Test,Routine,11145.4,Website
+A00698,P0396,2025-03-24,D026,Follow-up,Routine,5529.66,App
+A00699,P0090,2025-05-18,D045,Consultation,Routine,2778.95,Walk-in
+A00700,P0357,2025-03-14,D028,Consultation,Routine,6823.75,App
+A00701,P0256,2025-08-25,D029,Consultation,High,3372.9,App
+A00702,P0353,2025-02-15,D017,Diagnostic Test,Routine,3268.03,Walk-in
+A00703,P0220,2025-04-16,D068,Diagnostic Test,Routine,2534.41,Walk-in
+A00704,P0009,2025-10-15,D044,Consultation,Routine,5679.65,App
+A00705,P0012,2025-09-19,D061,Diagnostic Test,Routine,4344.4,Referral
+A00706,P0325,2025-06-25,D068,Consultation,Routine,6743.69,App
+A00707,P0244,2025-06-15,D074,Procedure,Routine,3161.19,Referral
+A00708,P0182,2025-05-25,D025,Consultation,Routine,2458.87,Walk-in
+A00709,P0284,2025-11-26,D067,Procedure,Urgent,6914.32,Website
+A00710,P0312,2025-10-10,D002,Diagnostic Test,Urgent,7301.82,App
+A00711,P0099,2025-02-23,D049,Follow-up,Routine,3351.98,Website
+A00712,P0197,2025-06-27,D070,Diagnostic Test,High,3673.27,App
+A00713,P0366,2025-09-01,D026,Follow-up,Urgent,5296.33,Phone
+A00714,P0226,2025-12-07,D072,Consultation,Routine,2934.02,Website
+A00715,P0333,2025-05-07,D027,Follow-up,Routine,2188.91,App
+A00716,P0103,2025-09-28,D018,Diagnostic Test,Routine,3982.82,Walk-in
+A00717,P0106,2025-05-12,D054,Diagnostic Test,Routine,4302.57,App
+A00718,P0365,2025-04-03,D001,Diagnostic Test,High,5677.89,Phone
+A00719,P0368,2025-03-14,D061,Procedure,Routine,5174.47,App
+A00720,P0058,2025-09-05,D003,Follow-up,Routine,5081.09,Walk-in
+A00721,P0078,2025-12-14,D068,Consultation,Routine,4328.06,Phone
+A00722,P0075,2025-09-30,D041,Follow-up,Routine,2484.42,Walk-in
+A00723,P0042,2025-02-12,D037,Follow-up,Routine,3839.27,App
+A00724,P0324,2025-02-10,D051,Emergency Care,Routine,5451.32,App
+A00725,P0181,2025-06-19,D015,Procedure,Routine,4608.47,App
+A00726,P0033,2025-07-31,D008,Follow-up,High,12664.3,App
+A00727,P0071,2025-06-17,D038,Consultation,High,5591.5,App
+A00728,P0056,2025-02-08,D056,Follow-up,High,2956.76,Phone
+A00729,P0105,2025-09-02,D047,Diagnostic Test,High,5306.7,Phone
+A00730,P0200,2025-05-31,D010,Emergency Care,High,7016.54,Walk-in
+A00731,P0101,2025-04-21,D078,Consultation,Routine,2292.97,Website
+A00732,P0256,2025-02-16,D049,Consultation,Routine,8444.06,Phone
+A00733,P0307,2025-03-04,D041,Consultation,Routine,6812.11,Referral
+A00734,P0074,2025-08-13,D030,Follow-up,Routine,8184.97,Phone
+A00735,P0171,2025-03-10,D005,Emergency Care,Routine,7755.39,Phone
+A00736,P0377,2025-10-26,D071,Consultation,High,4608.79,Referral
+A00737,P0143,2025-10-17,D031,Follow-up,Routine,3302.72,Referral
+A00738,P0166,2025-10-23,D052,Follow-up,Routine,5610.06,Website
+A00739,P0399,2025-07-22,D023,Follow-up,Routine,4137.19,Phone
+A00740,P0261,2025-03-02,D048,Consultation,Routine,3187.85,Website
+A00741,P0221,2025-11-14,D040,Procedure,Urgent,3141.84,Walk-in
+A00742,P0083,2025-11-10,D006,Consultation,Routine,7820.8,Referral
+A00743,P0182,2025-06-10,D038,Follow-up,Routine,3871.44,Website
+A00744,P0307,2025-11-27,D041,Consultation,Routine,3632.83,Walk-in
+A00745,P0010,2025-01-16,D027,Diagnostic Test,High,3792.72,Phone
+A00746,P0396,2025-12-04,D075,Procedure,Routine,5972.77,App
+A00747,P0004,2025-04-04,D069,Consultation,Routine,8737.64,Walk-in
+A00748,P0351,2025-10-31,D057,Consultation,High,990.22,Website
+A00749,P0336,2025-05-18,D017,Follow-up,Routine,3120.88,App
+A00750,P0292,2025-12-04,D071,Diagnostic Test,Routine,7919.62,Referral
+A00751,P0281,2025-02-07,D047,Diagnostic Test,Routine,5840.33,Website
+A00752,P0215,2025-05-07,D079,Consultation,High,3084.62,Phone
+A00753,P0098,2025-10-02,D013,Consultation,Routine,5598.67,Walk-in
+A00754,P0101,2025-06-13,D011,Diagnostic Test,Routine,4095.05,Referral
+A00755,P0009,2025-11-15,D024,Consultation,Routine,8648.06,Walk-in
+A00756,P0061,2025-03-18,D073,Procedure,Routine,3133.63,Phone
+A00757,P0309,2025-06-23,D004,Consultation,Routine,5823.72,Phone
+A00758,P0146,2025-12-24,D046,Diagnostic Test,Routine,2433.33,App
+A00759,P0063,2025-11-17,D018,Consultation,Routine,4292.34,Website
+A00760,P0121,2025-04-01,D043,Consultation,Routine,7872.31,Referral
+A00761,P0226,2025-08-26,D080,Follow-up,Routine,8107.42,Walk-in
+A00762,P0105,2025-09-21,D033,Follow-up,Routine,2942.27,App
+A00763,P0260,2025-06-28,D010,Consultation,Routine,2163.64,App
+A00764,P0349,2025-07-28,D073,Consultation,Routine,4081.1,Referral
+A00765,P0255,2025-03-14,D059,Consultation,Routine,5750.31,Walk-in
+A00766,P0207,2025-04-17,D031,Follow-up,Urgent,3437.86,Website
+A00767,P0028,2025-12-11,D028,Diagnostic Test,Routine,3420.15,Phone
+A00768,P0170,2025-10-22,D060,Consultation,Routine,6119.37,App
+A00769,P0336,2025-10-11,D003,Diagnostic Test,Routine,2557.64,Walk-in
+A00770,P0076,2025-12-19,D055,Follow-up,Routine,4427.98,Phone
+A00771,P0116,2025-07-01,D014,Procedure,High,5474.73,Phone
+A00772,P0069,2025-02-06,D058,Emergency Care,Routine,3248.8,Website
+A00773,P0354,2025-05-17,D015,Consultation,Routine,3235.55,Website
+A00774,P0234,2025-12-04,D002,Consultation,Routine,9486.32,App
+A00775,P0001,2025-02-25,D024,Consultation,Routine,6935.15,Referral
+A00776,P0167,2025-07-06,D078,Follow-up,Routine,3349.58,Referral
+A00777,P0352,2025-12-07,D064,Emergency Care,Routine,2560.88,Walk-in
+A00778,P0218,2025-09-15,D071,Diagnostic Test,High,3538.81,Referral
+A00779,P0273,2025-02-27,D024,Consultation,High,5489.12,Phone
+A00780,P0368,2025-12-29,D027,Diagnostic Test,Routine,4329.14,App
+A00781,P0251,2025-05-03,D037,Consultation,Routine,3005.74,Walk-in
+A00782,P0347,2025-07-07,D039,Consultation,High,5685.32,Website
+A00783,P0344,2025-08-18,D063,Diagnostic Test,Routine,2659.01,Website
+A00784,P0174,2025-06-17,D079,Consultation,Routine,5199.13,App
+A00785,P0170,2025-04-24,D026,Consultation,High,9690.27,Website
+A00786,P0246,2025-09-09,D065,Follow-up,Routine,4806.48,Phone
+A00787,P0090,2025-04-17,D004,Consultation,Routine,4907.15,App
+A00788,P0049,2025-02-06,D029,Consultation,Routine,3088.91,App
+A00789,P0294,2025-12-01,D001,Consultation,Routine,4078.96,Phone
+A00790,P0150,2025-04-02,D050,Procedure,Urgent,3600.79,Walk-in
+A00791,P0132,2025-01-18,D011,Follow-up,Routine,4886.36,Phone
+A00792,P0059,2025-12-20,D074,Consultation,Urgent,3515.68,App
+A00793,P0324,2025-03-04,D059,Diagnostic Test,Routine,3644.68,Website
+A00794,P0199,2025-05-30,D062,Consultation,Routine,6757.61,Walk-in
+A00795,P0215,2025-05-19,D036,Follow-up,Routine,4553.29,Phone
+A00796,P0386,2025-07-05,D056,Follow-up,Routine,5964.89,App
+A00797,P0049,2025-07-04,D021,Procedure,Routine,10343.78,Referral
+A00798,P0232,2025-07-24,D013,Diagnostic Test,Routine,5050.34,App
+A00799,P0247,2025-09-17,D009,Emergency Care,High,9271.36,App
+A00800,P0382,2025-08-02,D011,Emergency Care,Urgent,4627.65,Website
+A00801,P0239,2025-09-13,D075,Procedure,Routine,5924.26,Website
+A00802,P0367,2025-05-15,D070,Diagnostic Test,Routine,6850.09,Referral
+A00803,P0168,2025-03-02,D001,Consultation,High,4008.75,App
+A00804,P0048,2025-12-29,D070,Consultation,Routine,5530.18,Website
+A00805,P0051,2025-11-06,D077,Consultation,Routine,3923.96,Website
+A00806,P0299,2025-03-29,D056,Consultation,Urgent,5334.7,Website
+A00807,P0098,2025-11-20,D031,Follow-up,Routine,3383.28,App
+A00808,P0216,2025-07-26,D037,Follow-up,Routine,2849.17,App
+A00809,P0177,2025-05-09,D047,Procedure,Routine,3272.16,App
+A00810,P0380,2025-11-07,D078,Consultation,Routine,4108.4,Phone
+A00811,P0080,2025-01-03,D047,Consultation,Routine,4656.85,Walk-in
+A00812,P0185,2025-08-30,D069,Procedure,Routine,6797.45,Phone
+A00813,P0367,2025-05-01,D058,Consultation,Urgent,9272.51,Phone
+A00814,P0399,2025-04-12,D036,Consultation,Routine,3703.28,Website
+A00815,P0027,2025-02-07,D032,Emergency Care,Routine,2900.85,Walk-in
+A00816,P0195,2025-12-07,D064,Procedure,Routine,7611.56,Website
+A00817,P0214,2025-05-13,D071,Diagnostic Test,High,6517.21,App
+A00818,P0369,2025-07-21,D042,Procedure,Urgent,4030.43,Phone
+A00819,P0342,2025-12-14,D048,Follow-up,High,4645.29,Phone
+A00820,P0114,2025-01-21,D074,Procedure,Routine,3460.43,Website
+A00821,P0242,2025-08-30,D030,Procedure,Urgent,7656.69,App
+A00822,P0124,2025-04-19,D021,Consultation,Routine,5088.59,App
+A00823,P0305,2025-10-30,D060,Follow-up,Routine,3750.61,Walk-in
+A00824,P0076,2025-03-25,D013,Consultation,Routine,5263.37,App
+A00825,P0311,2025-03-24,D001,Consultation,Routine,5369.49,Phone
+A00826,P0312,2025-10-18,D065,Procedure,High,8133.34,App
+A00827,P0196,2025-03-10,D033,Diagnostic Test,Routine,6562.66,App
+A00828,P0351,2025-05-09,D038,Follow-up,Routine,2452.72,App
+A00829,P0044,2025-07-15,D025,Procedure,Routine,7049.98,App
+A00830,P0186,2025-05-20,D026,Emergency Care,Routine,3447.56,App
+A00831,P0343,2025-10-10,D077,Procedure,Routine,7291.95,Phone
+A00832,P0246,2025-11-08,D059,Diagnostic Test,Routine,2165.72,Website
+A00833,P0084,2025-08-22,D033,Consultation,Routine,6895.12,Walk-in
+A00834,P0207,2025-01-23,D041,Consultation,Routine,5242.72,App
+A00835,P0151,2025-06-02,D030,Diagnostic Test,High,2067.88,Referral
+A00836,P0156,2025-10-04,D057,Consultation,Urgent,5881.88,Referral
+A00837,P0016,2025-03-02,D049,Diagnostic Test,Urgent,6893.8,App
+A00838,P0165,2025-11-15,D048,Follow-up,High,4337.62,Referral
+A00839,P0145,2025-02-21,D072,Emergency Care,Routine,3666.0,App
+A00840,P0037,2025-12-10,D049,Follow-up,High,4637.4,Phone
+A00841,P0333,2025-06-02,D047,Follow-up,Routine,3373.92,App
+A00842,P0045,2025-08-25,D056,Consultation,High,4542.15,Phone
+A00843,P0206,2025-11-07,D065,Consultation,Routine,3284.21,Phone
+A00844,P0062,2025-10-29,D012,Consultation,High,5805.86,Website
+A00845,P0356,2025-02-01,D069,Follow-up,Routine,4345.49,Walk-in
+A00846,P0308,2025-02-24,D006,Consultation,Routine,6731.54,Phone
+A00847,P0019,2025-12-18,D065,Follow-up,Routine,3380.63,Phone
+A00848,P0365,2025-02-05,D025,Diagnostic Test,Routine,3589.82,Referral
+A00849,P0300,2025-04-20,D001,Consultation,Urgent,6711.58,Referral
+A00850,P0007,2025-06-26,D032,Consultation,Routine,3022.89,Referral
+A00851,P0249,2025-12-28,D003,Diagnostic Test,Routine,2606.35,Referral
+A00852,P0117,2025-11-10,D049,Diagnostic Test,High,3593.66,App
+A00853,P0068,2025-10-22,D019,Follow-up,Routine,5856.06,Website
+A00854,P0034,2025-12-02,D060,Follow-up,Routine,4345.97,App
+A00855,P0194,2025-04-07,D029,Diagnostic Test,Routine,7186.7,Referral
+A00856,P0325,2025-08-01,D050,Procedure,Routine,5385.75,App
+A00857,P0055,2025-11-13,D002,Diagnostic Test,High,7445.67,Website
+A00858,P0266,2025-05-17,D073,Emergency Care,High,5685.9,App
+A00859,P0042,2025-01-06,D056,Consultation,Urgent,1923.35,App
+A00860,P0297,2025-04-19,D017,Follow-up,Routine,4875.73,App
+A00861,P0231,2025-02-04,D060,Consultation,Routine,3279.16,Phone
+A00862,P0378,2025-02-08,D036,Consultation,Routine,4903.25,App
+A00863,P0394,2025-05-30,D061,Consultation,High,2408.22,Phone
+A00864,P0010,2025-04-28,D017,Diagnostic Test,Routine,10302.96,Walk-in
+A00865,P0358,2025-09-18,D049,Consultation,Routine,2839.85,Walk-in
+A00866,P0128,2025-03-28,D076,Consultation,Routine,6079.54,App
+A00867,P0179,2025-03-17,D060,Emergency Care,Routine,4529.86,Referral
+A00868,P0392,2025-11-09,D020,Procedure,Routine,2858.64,Walk-in
+A00869,P0193,2025-08-02,D050,Follow-up,Routine,4458.95,App
+A00870,P0092,2025-10-12,D003,Procedure,Routine,7591.67,Walk-in
+A00871,P0369,2025-08-27,D043,Emergency Care,Routine,3926.0,Walk-in
+A00872,P0231,2025-06-14,D057,Diagnostic Test,High,5259.48,Website
+A00873,P0078,2025-03-28,D050,Consultation,Routine,7220.28,App
+A00874,P0085,2025-05-21,D068,Procedure,Routine,5486.03,Phone
+A00875,P0030,2025-06-09,D050,Follow-up,Routine,5587.07,Walk-in
+A00876,P0213,2025-02-15,D037,Diagnostic Test,Routine,2494.4,App
+A00877,P0049,2025-04-22,D046,Diagnostic Test,High,5245.61,Phone
+A00878,P0265,2025-02-14,D042,Diagnostic Test,Routine,4737.38,Website
+A00879,P0145,2025-09-04,D015,Procedure,High,7989.35,Phone
+A00880,P0069,2025-04-14,D033,Consultation,Routine,11003.08,Website
+A00881,P0058,2025-03-26,D080,Emergency Care,High,5101.36,Website
+A00882,P0185,2025-05-14,D011,Procedure,High,9988.51,Walk-in
+A00883,P0062,2025-04-18,D020,Follow-up,Routine,3938.64,Walk-in
+A00884,P0308,2025-01-18,D024,Diagnostic Test,Routine,7516.4,Website
+A00885,P0296,2025-04-04,D064,Consultation,Routine,10786.79,Website
+A00886,P0166,2025-05-30,D080,Consultation,Routine,4928.01,Phone
+A00887,P0171,2025-09-03,D065,Consultation,Routine,5698.14,Walk-in
+A00888,P0063,2025-10-16,D073,Follow-up,Routine,5278.69,Phone
+A00889,P0147,2025-07-28,D076,Diagnostic Test,High,3255.79,Phone
+A00890,P0306,2025-05-06,D017,Consultation,Routine,5764.57,Referral
+A00891,P0161,2025-08-23,D061,Consultation,High,7497.91,Walk-in
+A00892,P0141,2025-05-02,D015,Emergency Care,Routine,5399.24,App
+A00893,P0334,2025-05-18,D051,Consultation,Routine,7398.98,Phone
+A00894,P0097,2025-04-25,D027,Procedure,Urgent,4842.41,Website
+A00895,P0221,2025-06-11,D074,Consultation,Routine,5025.79,Walk-in
+A00896,P0043,2025-07-20,D061,Diagnostic Test,Routine,2119.79,App
+A00897,P0292,2025-08-22,D058,Consultation,Routine,2457.73,Website
+A00898,P0378,2025-01-28,D031,Diagnostic Test,High,8205.13,Website
+A00899,P0108,2025-01-11,D012,Follow-up,Routine,5909.17,App
+A00900,P0266,2025-07-25,D046,Consultation,Routine,2862.05,Website
+A00901,P0095,2025-06-16,D031,Diagnostic Test,Routine,3060.36,Phone
+A00902,P0262,2025-09-04,D032,Follow-up,Routine,2869.34,Website
+A00903,P0313,2025-02-16,D032,Follow-up,Routine,4686.47,Phone
+A00904,P0385,2025-09-03,D053,Follow-up,Routine,6129.12,Phone
+A00905,P0071,2025-05-07,D061,Consultation,Routine,3808.14,Phone
+A00906,P0219,2025-05-27,D046,Diagnostic Test,High,4603.17,Phone
+A00907,P0021,2025-04-28,D074,Emergency Care,High,4675.05,App
+A00908,P0092,2025-06-01,D080,Procedure,Routine,3669.65,App
+A00909,P0127,2025-03-13,D007,Emergency Care,Routine,5559.52,Walk-in
+A00910,P0080,2025-12-29,D004,Consultation,Routine,4667.63,Phone
+A00911,P0312,2025-05-17,D052,Procedure,Routine,5571.39,Walk-in
+A00912,P0238,2025-06-24,D031,Follow-up,Routine,6151.34,Phone
+A00913,P0372,2025-10-16,D075,Consultation,Routine,1804.92,App
+A00914,P0182,2025-01-19,D036,Procedure,Routine,5286.56,Walk-in
+A00915,P0025,2025-07-14,D054,Follow-up,High,4794.83,App
+A00916,P0156,2025-11-26,D054,Consultation,Routine,5671.0,Referral
+A00917,P0005,2025-06-24,D017,Consultation,High,7622.66,App
+A00918,P0120,2025-12-20,D075,Procedure,Routine,4705.55,Phone
+A00919,P0277,2025-05-21,D030,Consultation,Routine,1998.06,App
+A00920,P0018,2025-09-03,D022,Consultation,Routine,3422.89,Referral
+A00921,P0198,2025-04-03,D043,Diagnostic Test,High,10318.34,Referral
+A00922,P0057,2025-08-27,D027,Consultation,Routine,3805.42,App
+A00923,P0093,2025-07-24,D037,Procedure,Routine,3735.62,App
+A00924,P0019,2025-02-17,D046,Diagnostic Test,Routine,3262.74,App
+A00925,P0384,2025-09-02,D035,Diagnostic Test,Routine,3519.26,Walk-in
+A00926,P0353,2025-11-16,D004,Procedure,Routine,4398.6,Website
+A00927,P0193,2025-11-13,D080,Diagnostic Test,Routine,1462.01,Phone
+A00928,P0237,2025-10-22,D080,Consultation,Routine,4313.4,App
+A00929,P0387,2025-05-08,D026,Procedure,Routine,3346.12,Walk-in
+A00930,P0277,2025-12-10,D019,Diagnostic Test,Routine,3637.73,Phone
+A00931,P0227,2025-10-09,D045,Consultation,Routine,5190.18,Walk-in
+A00932,P0233,2025-01-17,D026,Follow-up,High,3583.2,Walk-in
+A00933,P0040,2025-03-12,D022,Procedure,Routine,5478.44,App
+A00934,P0323,2025-09-26,D058,Procedure,Routine,3536.84,Phone
+A00935,P0153,2025-11-21,D063,Emergency Care,Routine,6034.85,Phone
+A00936,P0127,2025-10-09,D028,Procedure,Urgent,1794.41,Phone
+A00937,P0237,2025-11-01,D065,Follow-up,Routine,4185.2,App
+A00938,P0055,2025-01-07,D044,Procedure,Routine,3469.38,Walk-in
+A00939,P0172,2025-11-10,D043,Consultation,Routine,4027.88,Referral
+A00940,P0109,2025-11-01,D037,Consultation,Routine,4719.36,Referral
+A00941,P0354,2025-04-13,D066,Follow-up,Routine,4215.18,Walk-in
+A00942,P0184,2025-11-05,D017,Diagnostic Test,Routine,2877.21,Website
+A00943,P0368,2025-07-12,D040,Consultation,Urgent,2805.52,Website
+A00944,P0198,2025-08-29,D038,Consultation,High,2717.3,App
+A00945,P0371,2025-03-03,D061,Consultation,Urgent,4680.42,Website
+A00946,P0373,2025-01-17,D009,Diagnostic Test,Routine,5737.96,App
+A00947,P0087,2025-06-20,D077,Procedure,High,3023.51,App
+A00948,P0201,2025-01-25,D075,Emergency Care,Routine,7859.16,Referral
+A00949,P0337,2025-09-08,D061,Follow-up,Routine,3132.14,Referral
+A00950,P0322,2025-09-10,D080,Procedure,High,5712.46,Referral
+A00951,P0275,2025-07-26,D016,Diagnostic Test,Routine,2797.61,App
+A00952,P0211,2025-01-29,D002,Consultation,Routine,5278.28,Referral
+A00953,P0391,2025-04-27,D072,Consultation,Routine,7366.77,App
+A00954,P0118,2025-10-09,D043,Follow-up,Routine,3371.55,Phone
+A00955,P0191,2025-05-24,D042,Consultation,Urgent,4303.77,Phone
+A00956,P0042,2025-01-25,D077,Diagnostic Test,Routine,5402.6,Website
+A00957,P0042,2025-11-06,D057,Follow-up,Routine,5502.56,Referral
+A00958,P0315,2025-06-05,D067,Diagnostic Test,Routine,7224.57,Website
+A00959,P0276,2025-03-14,D030,Emergency Care,High,2312.82,Phone
+A00960,P0329,2025-04-30,D013,Follow-up,Routine,4317.3,App
+A00961,P0017,2025-11-08,D019,Consultation,Routine,2888.77,Walk-in
+A00962,P0283,2025-11-17,D007,Diagnostic Test,High,3410.51,Website
+A00963,P0258,2025-04-03,D009,Follow-up,Routine,3178.36,Walk-in
+A00964,P0063,2025-03-27,D054,Consultation,Routine,4412.48,Phone
+A00965,P0062,2025-12-02,D061,Consultation,High,3332.81,Phone
+A00966,P0100,2025-12-30,D002,Diagnostic Test,Routine,3845.12,Phone
+A00967,P0019,2025-04-28,D050,Emergency Care,High,4083.43,App
+A00968,P0017,2025-08-21,D075,Diagnostic Test,Routine,5098.68,Phone
+A00969,P0325,2025-07-18,D031,Procedure,Urgent,5387.82,Referral
+A00970,P0373,2025-07-25,D033,Procedure,Urgent,4742.19,Walk-in
+A00971,P0246,2025-12-05,D078,Consultation,Routine,4240.21,App
+A00972,P0251,2025-05-27,D080,Follow-up,Routine,6841.09,App
+A00973,P0081,2025-09-28,D011,Diagnostic Test,Urgent,3104.8,Website
+A00974,P0039,2025-05-19,D033,Consultation,Routine,6218.03,Walk-in
+A00975,P0036,2025-06-30,D007,Follow-up,Routine,2151.9,Website
+A00976,P0388,2025-01-30,D031,Follow-up,Routine,3884.87,Walk-in
+A00977,P0197,2025-02-26,D048,Consultation,High,5418.4,Referral
+A00978,P0158,2025-08-20,D047,Procedure,High,3777.39,Website
+A00979,P0204,2025-05-26,D078,Follow-up,Routine,6328.95,App
+A00980,P0196,2025-02-17,D053,Emergency Care,Routine,4927.2,Referral
+A00981,P0216,2025-07-13,D080,Consultation,High,5436.08,Website
+A00982,P0285,2025-08-12,D019,Emergency Care,High,6214.63,Website
+A00983,P0196,2025-05-16,D006,Consultation,Routine,5392.48,Website
+A00984,P0307,2025-01-22,D049,Consultation,Urgent,8741.14,Website
+A00985,P0152,2025-01-06,D073,Follow-up,High,3759.31,Phone
+A00986,P0014,2025-07-23,D050,Follow-up,Routine,3638.04,Website
+A00987,P0325,2025-08-27,D012,Diagnostic Test,High,6385.85,Website
+A00988,P0146,2025-07-04,D023,Diagnostic Test,Routine,2765.88,Walk-in
+A00989,P0057,2025-12-26,D054,Consultation,Routine,3973.89,App
+A00990,P0211,2025-10-19,D069,Follow-up,Routine,2164.69,App
+A00991,P0268,2025-12-01,D059,Diagnostic Test,High,8896.51,Phone
+A00992,P0210,2025-08-08,D036,Diagnostic Test,Urgent,4601.25,Walk-in
+A00993,P0017,2025-04-26,D003,Diagnostic Test,Routine,2372.05,App
+A00994,P0286,2025-11-09,D058,Emergency Care,Routine,8209.28,App
+A00995,P0344,2025-02-18,D055,Follow-up,Routine,10321.71,Phone
+A00996,P0203,2025-06-22,D057,Follow-up,High,4474.58,Phone
+A00997,P0099,2025-03-23,D017,Emergency Care,High,3479.14,Website
+A00998,P0279,2025-11-18,D039,Diagnostic Test,Routine,4864.62,App
+A00999,P0209,2025-11-29,D068,Consultation,Routine,5267.13,App
+A01000,P0129,2025-02-14,D055,Consultation,Routine,2440.31,Walk-in
+A01001,P0335,2025-12-01,D045,Follow-up,Routine,3293.87,Website
+A01002,P0288,2025-01-20,D076,Consultation,Routine,4104.03,Walk-in
+A01003,P0252,2025-08-09,D001,Diagnostic Test,High,3760.42,Phone
+A01004,P0265,2025-05-03,D021,Consultation,Routine,8376.13,Phone
+A01005,P0271,2025-08-22,D021,Consultation,Routine,4319.96,Referral
+A01006,P0188,2025-08-09,D052,Diagnostic Test,Routine,1977.89,App
+A01007,P0214,2025-11-19,D043,Emergency Care,Routine,5162.17,Phone
+A01008,P0283,2025-12-05,D052,Follow-up,Routine,4494.8,App
+A01009,P0211,2025-01-03,D067,Emergency Care,Routine,4115.62,Website
+A01010,P0365,2025-07-01,D044,Emergency Care,Routine,2103.07,App
+A01011,P0076,2025-07-25,D032,Consultation,High,4044.38,App
+A01012,P0148,2025-11-16,D010,Consultation,Routine,4914.2,Referral
+A01013,P0321,2025-02-09,D064,Follow-up,High,8631.83,Phone
+A01014,P0213,2025-02-28,D079,Procedure,Routine,3605.31,Referral
+A01015,P0109,2025-03-03,D069,Diagnostic Test,Routine,6251.77,Website
+A01016,P0129,2025-05-12,D068,Emergency Care,Routine,3939.46,Phone
+A01017,P0010,2025-03-01,D028,Consultation,Urgent,4850.84,App
+A01018,P0047,2025-11-27,D053,Consultation,Routine,5573.44,Website
+A01019,P0379,2025-05-02,D051,Follow-up,Routine,10717.23,Phone
+A01020,P0315,2025-04-17,D053,Diagnostic Test,High,7220.62,App
+A01021,P0096,2025-04-06,D004,Consultation,Routine,3005.57,Walk-in
+A01022,P0103,2025-12-13,D079,Consultation,High,5084.83,App
+A01023,P0380,2025-08-23,D017,Consultation,Routine,4818.31,Website
+A01024,P0342,2025-03-03,D067,Follow-up,Routine,5397.05,Phone
+A01025,P0146,2025-09-13,D074,Procedure,Routine,2343.85,Referral
+A01026,P0368,2025-02-18,D047,Procedure,Urgent,4421.68,App
+A01027,P0027,2025-12-14,D056,Follow-up,Routine,3266.4,Phone
+A01028,P0220,2025-06-08,D023,Diagnostic Test,Routine,3055.39,Phone
+A01029,P0018,2025-05-04,D018,Diagnostic Test,Routine,6223.92,App
+A01030,P0167,2025-11-13,D001,Consultation,Routine,8052.95,Phone
+A01031,P0082,2025-07-26,D035,Consultation,Routine,6379.73,App
+A01032,P0072,2025-02-17,D064,Consultation,Routine,8604.12,App
+A01033,P0310,2025-05-16,D058,Procedure,Routine,3983.45,App
+A01034,P0254,2025-07-20,D059,Procedure,Routine,12669.22,Walk-in
+A01035,P0162,2025-09-07,D001,Diagnostic Test,Routine,1496.44,App
+A01036,P0327,2025-11-10,D003,Follow-up,Routine,9108.78,Website
+A01037,P0038,2025-12-23,D067,Consultation,Routine,4695.17,App
+A01038,P0393,2025-11-14,D037,Follow-up,Routine,4734.37,App
+A01039,P0201,2025-10-22,D029,Follow-up,Urgent,1687.58,App
+A01040,P0200,2025-11-10,D033,Diagnostic Test,Routine,4211.6,Website
+A01041,P0255,2025-07-28,D061,Consultation,High,3285.26,App
+A01042,P0179,2025-12-21,D004,Procedure,Routine,2402.35,App
+A01043,P0035,2025-07-30,D014,Follow-up,Routine,5400.84,Walk-in
+A01044,P0082,2025-07-11,D033,Procedure,Routine,6871.64,Phone
+A01045,P0389,2025-02-13,D022,Procedure,Routine,4003.44,App
+A01046,P0398,2025-01-29,D048,Emergency Care,Routine,3341.36,Website
+A01047,P0220,2025-02-28,D003,Consultation,High,4747.01,App
+A01048,P0158,2025-03-12,D023,Consultation,Urgent,3459.89,Phone
+A01049,P0004,2025-04-02,D068,Consultation,Routine,5887.06,Website
+A01050,P0167,2025-09-22,D021,Consultation,Routine,3419.47,App
+A01051,P0204,2025-08-08,D043,Diagnostic Test,Urgent,6467.21,App
+A01052,P0194,2025-08-03,D026,Follow-up,Routine,1904.8,Website
+A01053,P0235,2025-10-04,D041,Diagnostic Test,Routine,4410.85,Walk-in
+A01054,P0206,2025-03-05,D038,Consultation,Routine,2590.4,App
+A01055,P0150,2025-12-12,D011,Procedure,Routine,4053.75,App
+A01056,P0159,2025-10-19,D029,Consultation,Routine,3888.51,Phone
+A01057,P0279,2025-09-02,D060,Consultation,High,9312.5,Phone
+A01058,P0304,2025-03-03,D067,Follow-up,High,3584.54,App
+A01059,P0381,2025-11-28,D065,Follow-up,Routine,4080.19,App
+A01060,P0166,2025-06-19,D061,Diagnostic Test,High,6639.23,App
+A01061,P0311,2025-09-26,D019,Consultation,Routine,2287.35,App
+A01062,P0068,2025-09-24,D046,Follow-up,Routine,2155.85,Website
+A01063,P0088,2025-02-23,D049,Consultation,High,2835.62,App
+A01064,P0217,2025-01-16,D022,Consultation,Routine,1567.75,Phone
+A01065,P0001,2025-01-08,D078,Follow-up,Routine,2946.99,Referral
+A01066,P0135,2025-04-14,D057,Consultation,Routine,5258.14,Phone
+A01067,P0185,2025-02-28,D014,Consultation,Urgent,2976.77,Website
+A01068,P0351,2025-11-09,D044,Diagnostic Test,High,7135.64,Phone
+A01069,P0140,2025-02-09,D016,Emergency Care,High,3784.88,Phone
+A01070,P0106,2025-08-25,D077,Emergency Care,Routine,4877.21,Walk-in
+A01071,P0133,2025-04-04,D012,Diagnostic Test,High,5989.05,Phone
+A01072,P0108,2025-08-10,D055,Consultation,Routine,3733.9,Phone
+A01073,P0178,2025-07-23,D051,Consultation,Urgent,5807.77,App
+A01074,P0298,2025-05-18,D039,Consultation,Routine,6134.03,Website
+A01075,P0358,2025-10-27,D033,Diagnostic Test,Routine,9862.39,Website
+A01076,P0380,2025-07-26,D033,Follow-up,Routine,4201.85,App
+A01077,P0396,2025-12-02,D029,Diagnostic Test,High,1689.49,Website
+A01078,P0359,2025-03-22,D069,Diagnostic Test,High,4114.57,Website
+A01079,P0146,2025-08-06,D070,Consultation,Routine,1502.49,Phone
+A01080,P0074,2025-01-02,D031,Diagnostic Test,Routine,2398.42,Referral
+A01081,P0108,2025-06-27,D080,Consultation,High,1278.72,App
+A01082,P0122,2025-12-12,D031,Diagnostic Test,Routine,6436.06,App
+A01083,P0017,2025-10-06,D046,Follow-up,High,4556.96,Walk-in
+A01084,P0196,2025-05-26,D077,Follow-up,Urgent,10537.23,Referral
+A01085,P0327,2025-11-14,D052,Diagnostic Test,Routine,5354.85,Website
+A01086,P0318,2025-08-12,D010,Diagnostic Test,Routine,3261.07,App
+A01087,P0297,2025-03-03,D074,Consultation,Routine,4180.06,Website
+A01088,P0252,2025-10-21,D041,Consultation,Routine,4261.1,App
+A01089,P0119,2025-08-27,D077,Follow-up,Routine,2677.18,Referral
+A01090,P0162,2025-07-14,D003,Consultation,High,4631.95,Walk-in
+A01091,P0198,2025-06-15,D059,Follow-up,Routine,1953.44,App
+A01092,P0045,2025-08-10,D052,Follow-up,Routine,6582.89,Referral
+A01093,P0314,2025-03-02,D034,Procedure,Routine,4505.4,Phone
+A01094,P0179,2025-05-09,D049,Emergency Care,Routine,6965.29,Referral
+A01095,P0382,2025-06-22,D028,Consultation,Urgent,2919.49,Referral
+A01096,P0044,2025-06-05,D013,Emergency Care,Routine,1775.28,App
+A01097,P0271,2025-04-20,D069,Follow-up,Routine,3201.56,App
+A01098,P0078,2025-09-26,D067,Follow-up,High,4112.19,Phone
+A01099,P0326,2025-12-22,D061,Consultation,Routine,5240.51,Referral
+A01100,P0178,2025-10-05,D060,Procedure,Routine,7514.86,Referral
+A01101,P0357,2025-03-15,D071,Consultation,Routine,4737.29,Phone
+A01102,P0003,2025-07-26,D024,Procedure,High,4698.91,App
+A01103,P0214,2025-10-06,D063,Consultation,Routine,5249.47,App
+A01104,P0342,2025-11-22,D061,Follow-up,Urgent,2530.89,Walk-in
+A01105,P0074,2025-12-06,D023,Diagnostic Test,High,3006.56,Phone
+A01106,P0051,2025-12-23,D030,Consultation,Routine,4420.33,Phone
+A01107,P0067,2025-12-06,D060,Consultation,Routine,2356.44,Website
+A01108,P0332,2025-07-23,D018,Diagnostic Test,Routine,6138.08,Walk-in
+A01109,P0093,2025-06-10,D056,Consultation,Routine,2430.18,Walk-in
+A01110,P0176,2025-01-28,D053,Diagnostic Test,Routine,1613.59,Website
+A01111,P0145,2025-09-14,D007,Follow-up,Routine,8352.75,App
+A01112,P0007,2025-06-14,D069,Procedure,Routine,3071.28,Phone
+A01113,P0269,2025-03-04,D072,Follow-up,High,6729.77,Referral
+A01114,P0376,2025-01-22,D079,Consultation,Routine,5918.83,Website
+A01115,P0322,2025-03-11,D052,Consultation,Routine,5968.57,App
+A01116,P0004,2025-04-06,D004,Consultation,Routine,6576.04,App
+A01117,P0138,2025-06-12,D034,Procedure,Routine,2664.17,App
+A01118,P0231,2025-03-20,D069,Procedure,Urgent,8863.52,App
+A01119,P0088,2025-01-05,D033,Consultation,Routine,4362.95,Phone
+A01120,P0017,2025-11-12,D069,Consultation,Routine,4813.54,App
+A01121,P0052,2025-04-30,D038,Procedure,Routine,4964.1,Phone
+A01122,P0134,2025-10-29,D026,Procedure,Routine,2797.83,App
+A01123,P0211,2025-06-27,D001,Procedure,Routine,3361.47,App
+A01124,P0325,2025-06-25,D004,Procedure,Routine,4863.03,Phone
+A01125,P0393,2025-08-05,D039,Diagnostic Test,Urgent,8007.14,Phone
+A01126,P0219,2025-02-25,D054,Consultation,High,2724.59,App
+A01127,P0205,2025-07-06,D033,Diagnostic Test,Routine,3961.6,Walk-in
+A01128,P0211,2025-08-20,D033,Diagnostic Test,Routine,4443.22,App
+A01129,P0277,2025-09-12,D072,Diagnostic Test,Routine,4815.11,Website
+A01130,P0024,2025-04-14,D020,Diagnostic Test,Routine,7486.46,Phone
+A01131,P0004,2025-03-18,D016,Consultation,Routine,2603.75,Walk-in
+A01132,P0152,2025-08-18,D021,Consultation,Routine,4790.23,Website
+A01133,P0259,2025-09-15,D045,Diagnostic Test,Routine,5752.8,Website
+A01134,P0324,2025-09-21,D062,Consultation,Routine,6769.08,Phone
+A01135,P0357,2025-11-27,D031,Diagnostic Test,Routine,4772.62,Website
+A01136,P0168,2025-07-01,D042,Procedure,Routine,3501.73,Walk-in
+A01137,P0176,2025-09-13,D012,Procedure,High,2972.18,App
+A01138,P0310,2025-02-07,D065,Diagnostic Test,Routine,4277.44,Walk-in
+A01139,P0291,2025-06-25,D073,Diagnostic Test,Routine,2205.44,App
+A01140,P0056,2025-01-27,D003,Consultation,High,5314.37,Referral
+A01141,P0108,2025-10-03,D009,Follow-up,Routine,6055.43,Website
+A01142,P0296,2025-05-20,D051,Diagnostic Test,High,7999.74,Walk-in
+A01143,P0324,2025-10-26,D016,Diagnostic Test,Routine,3821.5,Website
+A01144,P0302,2025-10-14,D078,Procedure,Routine,5666.1,App
+A01145,P0334,2025-04-01,D003,Diagnostic Test,Routine,7113.16,App
+A01146,P0141,2025-03-02,D024,Consultation,Routine,5144.98,Walk-in
+A01147,P0155,2025-12-31,D073,Consultation,High,5504.88,Website
+A01148,P0262,2025-12-13,D013,Diagnostic Test,High,5510.84,Website
+A01149,P0273,2025-06-12,D002,Diagnostic Test,High,3167.41,App
+A01150,P0232,2025-12-17,D071,Procedure,Routine,5439.12,Referral
+A01151,P0241,2025-05-23,D021,Diagnostic Test,Routine,3913.84,App
+A01152,P0355,2025-09-10,D019,Follow-up,Routine,8667.22,App
+A01153,P0337,2025-09-26,D047,Diagnostic Test,Routine,2325.35,Referral
+A01154,P0258,2025-10-18,D022,Diagnostic Test,Urgent,7871.08,Referral
+A01155,P0249,2025-07-06,D075,Diagnostic Test,Routine,4594.5,App
+A01156,P0077,2025-10-31,D033,Diagnostic Test,Routine,4097.29,Walk-in
+A01157,P0180,2025-10-18,D032,Diagnostic Test,Routine,5596.0,App
+A01158,P0066,2025-03-27,D064,Consultation,High,2403.6,App
+A01159,P0308,2025-06-15,D039,Procedure,Urgent,3367.47,Walk-in
+A01160,P0348,2025-04-24,D072,Consultation,Routine,3103.35,Walk-in
+A01161,P0171,2025-12-22,D042,Consultation,Routine,3660.95,App
+A01162,P0022,2025-07-02,D009,Consultation,Routine,8958.47,App
+A01163,P0367,2025-07-26,D025,Consultation,Routine,2073.27,App
+A01164,P0107,2025-09-13,D002,Diagnostic Test,Urgent,6818.05,Walk-in
+A01165,P0323,2025-08-23,D019,Consultation,Routine,3019.64,Referral
+A01166,P0227,2025-12-21,D020,Consultation,Routine,4304.58,App
+A01167,P0396,2025-01-03,D070,Diagnostic Test,Routine,5213.54,Walk-in
+A01168,P0216,2025-07-27,D017,Follow-up,Routine,2365.2,App
+A01169,P0069,2025-07-16,D068,Consultation,High,2888.81,Phone
+A01170,P0084,2025-12-07,D003,Diagnostic Test,Routine,3811.14,App
+A01171,P0103,2025-05-05,D051,Follow-up,Routine,3400.19,Phone
+A01172,P0039,2025-05-18,D026,Emergency Care,Urgent,6436.18,App
+A01173,P0013,2025-12-05,D056,Follow-up,Routine,5361.44,Referral
+A01174,P0297,2025-01-25,D064,Consultation,High,2205.32,App
+A01175,P0313,2025-03-09,D008,Follow-up,Routine,3591.53,Website
+A01176,P0181,2025-03-02,D037,Diagnostic Test,Routine,4289.63,Walk-in
+A01177,P0268,2025-01-29,D027,Consultation,Routine,5037.44,Website
+A01178,P0013,2025-01-19,D045,Procedure,Routine,4057.0,App
+A01179,P0120,2025-06-20,D004,Diagnostic Test,Routine,5427.09,Phone
+A01180,P0353,2025-03-15,D037,Emergency Care,Routine,3450.68,Walk-in
+A01181,P0057,2025-03-02,D071,Follow-up,Routine,5609.24,Website
+A01182,P0040,2025-06-02,D033,Follow-up,Routine,7030.21,App
+A01183,P0374,2025-10-03,D031,Follow-up,Routine,6789.67,Website
+A01184,P0336,2025-02-17,D055,Diagnostic Test,High,4995.51,Referral
+A01185,P0128,2025-07-30,D012,Diagnostic Test,Routine,4437.35,App
+A01186,P0173,2025-12-09,D011,Procedure,Routine,5697.55,Website
+A01187,P0035,2025-05-19,D072,Follow-up,High,4701.35,Phone
+A01188,P0259,2025-04-20,D032,Procedure,Routine,4964.62,App
+A01189,P0376,2025-07-02,D057,Procedure,Routine,5089.28,Website
+A01190,P0005,2025-01-28,D038,Emergency Care,Routine,7628.26,Referral
+A01191,P0218,2025-07-16,D060,Follow-up,Routine,3639.99,App
+A01192,P0011,2025-07-10,D019,Diagnostic Test,Routine,10002.56,Walk-in
+A01193,P0382,2025-11-11,D056,Consultation,Urgent,3890.2,Walk-in
+A01194,P0327,2025-02-20,D014,Follow-up,High,2686.64,App
+A01195,P0117,2025-05-29,D033,Consultation,Routine,5043.29,App
+A01196,P0184,2025-09-25,D010,Consultation,Routine,2663.67,Referral
+A01197,P0394,2025-02-19,D080,Consultation,Routine,5880.85,Walk-in
+A01198,P0362,2025-09-03,D064,Procedure,High,3619.32,App
+A01199,P0116,2025-04-23,D064,Procedure,Routine,6724.23,App
+A01200,P0162,2025-06-19,D062,Follow-up,Routine,3221.55,Phone
+A01201,P0067,2025-06-15,D068,Diagnostic Test,Routine,3932.24,Website
+A01202,P0200,2025-01-14,D043,Follow-up,Routine,7844.85,Phone
+A01203,P0031,2025-07-22,D080,Follow-up,Routine,7243.43,Referral
+A01204,P0075,2025-10-15,D059,Diagnostic Test,Routine,4593.63,Website
+A01205,P0237,2025-07-08,D052,Consultation,High,3953.36,Referral
+A01206,P0327,2025-06-04,D019,Consultation,Routine,2642.87,Phone
+A01207,P0066,2025-02-24,D021,Diagnostic Test,Routine,1999.36,App
+A01208,P0070,2025-07-01,D022,Follow-up,High,2758.75,Walk-in
+A01209,P0297,2025-07-29,D009,Diagnostic Test,Routine,7699.97,Phone
+A01210,P0020,2025-03-16,D009,Emergency Care,Routine,5129.48,App
+A01211,P0226,2025-10-04,D073,Consultation,Routine,2915.71,App
+A01212,P0396,2025-05-13,D027,Consultation,Routine,5793.72,Phone
+A01213,P0199,2025-12-09,D017,Diagnostic Test,Routine,2906.58,Phone
+A01214,P0039,2025-02-28,D044,Consultation,High,6578.4,Referral
+A01215,P0145,2025-12-11,D045,Consultation,Urgent,3703.79,Walk-in
+A01216,P0045,2025-07-01,D008,Consultation,Routine,6251.46,App
+A01217,P0395,2025-12-05,D080,Diagnostic Test,Routine,1970.98,Walk-in
+A01218,P0326,2025-11-17,D018,Consultation,Routine,2484.02,App
+A01219,P0381,2025-03-05,D033,Follow-up,Routine,6216.54,App
+A01220,P0091,2025-11-23,D001,Diagnostic Test,Routine,6404.35,App
+A01221,P0238,2025-09-17,D076,Consultation,Routine,7985.66,Phone
+A01222,P0070,2025-07-12,D006,Follow-up,Routine,5202.46,App
+A01223,P0166,2025-05-23,D041,Consultation,Routine,3665.87,Website
+A01224,P0130,2025-04-14,D055,Procedure,Routine,3978.38,App
+A01225,P0214,2025-08-02,D005,Emergency Care,Routine,5141.21,Website
+A01226,P0340,2025-08-30,D059,Consultation,Routine,2188.97,Referral
+A01227,P0089,2025-07-28,D080,Procedure,Urgent,1872.33,Referral
+A01228,P0335,2025-04-03,D018,Procedure,Routine,6516.01,Phone
+A01229,P0252,2025-05-22,D049,Procedure,High,7462.18,Phone
+A01230,P0369,2025-04-22,D065,Follow-up,High,5000.93,Walk-in
+A01231,P0349,2025-02-28,D054,Consultation,High,3584.34,Walk-in
+A01232,P0072,2025-02-12,D061,Procedure,Routine,3438.64,Walk-in
+A01233,P0165,2025-07-26,D008,Consultation,Urgent,4230.35,App
+A01234,P0049,2025-09-25,D003,Consultation,Routine,4191.94,Website
+A01235,P0052,2025-10-23,D025,Consultation,Routine,4155.73,Website
+A01236,P0289,2025-04-28,D069,Consultation,Routine,5133.19,Website
+A01237,P0278,2025-01-20,D055,Diagnostic Test,Routine,2985.37,Website
+A01238,P0114,2025-08-10,D040,Follow-up,Routine,5137.2,Walk-in
+A01239,P0239,2025-06-15,D050,Procedure,Routine,2732.57,Walk-in
+A01240,P0133,2025-05-11,D033,Consultation,Routine,4978.01,App
+A01241,P0274,2025-06-05,D018,Emergency Care,Routine,1966.54,App
+A01242,P0166,2025-07-03,D057,Procedure,Routine,2933.43,Phone
+A01243,P0374,2025-03-31,D016,Consultation,Routine,6962.49,App
+A01244,P0373,2025-04-04,D080,Consultation,Urgent,5587.74,App
+A01245,P0293,2025-01-13,D038,Procedure,Routine,5848.73,Walk-in
+A01246,P0243,2025-11-18,D041,Follow-up,Routine,9642.73,Website
+A01247,P0320,2025-10-20,D007,Follow-up,Urgent,4240.44,Walk-in
+A01248,P0138,2025-08-18,D078,Follow-up,Routine,5457.27,Walk-in
+A01249,P0079,2025-11-18,D053,Diagnostic Test,Routine,3658.39,Referral
+A01250,P0170,2025-10-19,D063,Consultation,High,4416.63,App
+A01251,P0123,2025-01-26,D032,Diagnostic Test,Urgent,5030.88,App
+A01252,P0176,2025-03-16,D038,Consultation,Routine,2327.12,App
+A01253,P0300,2025-12-30,D022,Follow-up,Routine,1497.8,App
+A01254,P0082,2025-10-26,D016,Procedure,High,6579.08,Website
+A01255,P0087,2025-05-30,D052,Diagnostic Test,Routine,4762.76,Walk-in
+A01256,P0225,2025-05-28,D029,Emergency Care,Routine,3534.06,Referral
+A01257,P0016,2025-01-08,D016,Diagnostic Test,Routine,2462.9,Referral
+A01258,P0310,2025-01-29,D076,Follow-up,Routine,5800.16,Website
+A01259,P0358,2025-10-23,D017,Follow-up,High,4370.99,Phone
+A01260,P0163,2025-07-28,D064,Emergency Care,High,4713.01,App
+A01261,P0098,2025-05-08,D013,Follow-up,Routine,2994.23,Website
+A01262,P0156,2025-12-06,D072,Consultation,Routine,4487.33,Walk-in
+A01263,P0002,2025-04-26,D056,Emergency Care,Routine,5702.92,App
+A01264,P0350,2025-05-24,D005,Follow-up,High,2942.23,Phone
+A01265,P0397,2025-11-14,D012,Consultation,Routine,2632.98,Walk-in
+A01266,P0169,2025-08-23,D041,Follow-up,Urgent,8888.49,App
+A01267,P0315,2025-01-07,D003,Procedure,High,2903.66,Referral
+A01268,P0325,2025-02-14,D033,Diagnostic Test,Routine,4391.64,App
+A01269,P0375,2025-08-27,D050,Consultation,Routine,4136.0,Referral
+A01270,P0092,2025-06-04,D056,Procedure,Routine,2363.67,Website
+A01271,P0181,2025-06-30,D009,Procedure,High,6008.94,App
+A01272,P0231,2025-08-03,D050,Diagnostic Test,Routine,6132.3,App
+A01273,P0301,2025-03-29,D029,Consultation,High,5823.81,Walk-in
+A01274,P0148,2025-09-13,D039,Consultation,Routine,4035.19,Walk-in
+A01275,P0280,2025-03-14,D045,Follow-up,Routine,4928.8,Phone
+A01276,P0189,2025-06-28,D017,Procedure,Routine,3194.53,Referral
+A01277,P0347,2025-07-31,D056,Consultation,Routine,4713.07,Walk-in
+A01278,P0350,2025-10-20,D046,Consultation,High,5908.33,App
+A01279,P0314,2025-08-22,D067,Consultation,Routine,6287.78,Phone
+A01280,P0128,2025-08-27,D069,Follow-up,Routine,5058.34,Website
+A01281,P0007,2025-08-11,D014,Consultation,Routine,5841.55,Website
+A01282,P0047,2025-04-29,D067,Consultation,Routine,5228.97,App
+A01283,P0053,2025-11-09,D023,Consultation,Routine,6249.11,App
+A01284,P0187,2025-09-21,D061,Follow-up,Routine,4124.58,Phone
+A01285,P0038,2025-07-26,D023,Diagnostic Test,Routine,2820.8,App
+A01286,P0226,2025-04-05,D027,Consultation,Routine,3125.5,Phone
+A01287,P0053,2025-08-10,D054,Procedure,High,3327.1,Referral
+A01288,P0399,2025-10-03,D010,Consultation,Routine,8914.98,App
+A01289,P0224,2025-08-19,D077,Consultation,Routine,5357.31,Walk-in
+A01290,P0154,2025-11-05,D016,Emergency Care,Routine,5617.07,Phone
+A01291,P0048,2025-04-29,D041,Diagnostic Test,Routine,6894.1,App
+A01292,P0351,2025-09-25,D055,Diagnostic Test,Routine,2384.42,Walk-in
+A01293,P0147,2025-09-30,D061,Consultation,Routine,4944.47,App
+A01294,P0393,2025-03-05,D049,Procedure,High,4026.97,App
+A01295,P0064,2025-10-25,D073,Diagnostic Test,Routine,7077.32,App
+A01296,P0349,2025-12-16,D052,Procedure,Routine,6098.12,Phone
+A01297,P0182,2025-01-11,D002,Consultation,Routine,5140.11,Website
+A01298,P0125,2025-04-08,D050,Diagnostic Test,Urgent,3372.4,Website
+A01299,P0179,2025-03-12,D043,Procedure,Routine,5411.38,App
+A01300,P0039,2025-12-30,D077,Emergency Care,Routine,5088.45,Walk-in
+A01301,P0260,2025-02-27,D008,Consultation,Routine,4685.88,Walk-in
+A01302,P0382,2025-10-17,D059,Procedure,Routine,5399.63,Phone
+A01303,P0003,2025-09-08,D065,Consultation,Routine,8859.63,App
+A01304,P0064,2025-10-03,D012,Diagnostic Test,High,5771.1,App
+A01305,P0029,2025-02-19,D004,Consultation,Routine,3867.25,Walk-in
+A01306,P0372,2025-12-24,D077,Follow-up,Routine,3240.99,App
+A01307,P0011,2025-08-04,D041,Consultation,Routine,844.99,App
+A01308,P0097,2025-02-21,D007,Consultation,Routine,3070.55,Website
+A01309,P0358,2025-09-28,D069,Consultation,Routine,5451.76,Walk-in
+A01310,P0203,2025-03-25,D069,Consultation,High,3122.72,Website
+A01311,P0021,2025-10-20,D030,Procedure,Urgent,5484.85,App
+A01312,P0039,2025-05-06,D073,Emergency Care,High,2999.53,Phone
+A01313,P0223,2025-10-23,D006,Procedure,Urgent,3006.93,Phone
+A01314,P0102,2025-03-13,D019,Consultation,Routine,5283.71,Phone
+A01315,P0046,2025-10-23,D080,Diagnostic Test,Routine,3422.71,App
+A01316,P0066,2025-08-24,D066,Follow-up,Routine,4003.25,Walk-in
+A01317,P0091,2025-02-25,D010,Emergency Care,Routine,7916.87,Website
+A01318,P0164,2025-12-26,D016,Diagnostic Test,High,2954.97,Phone
+A01319,P0111,2025-04-20,D037,Procedure,Urgent,5393.73,Phone
+A01320,P0338,2025-07-11,D079,Emergency Care,High,2548.54,App
+A01321,P0123,2025-04-03,D077,Procedure,Routine,4521.88,App
+A01322,P0193,2025-12-16,D077,Consultation,Routine,4307.02,App
+A01323,P0099,2025-02-25,D032,Consultation,Routine,4332.77,Website
+A01324,P0291,2025-03-01,D047,Diagnostic Test,Routine,5077.96,Website
+A01325,P0159,2025-05-18,D072,Diagnostic Test,Routine,10825.42,Walk-in
+A01326,P0103,2025-02-08,D043,Consultation,Routine,4314.88,App
+A01327,P0385,2025-01-28,D036,Consultation,Urgent,5777.82,Referral
+A01328,P0281,2025-02-18,D026,Follow-up,High,3926.92,App
+A01329,P0043,2025-05-05,D010,Diagnostic Test,Routine,3080.73,Website
+A01330,P0084,2025-01-13,D031,Consultation,Routine,2946.53,App
+A01331,P0191,2025-02-05,D029,Follow-up,Routine,9012.8,Phone
+A01332,P0051,2025-04-11,D005,Follow-up,Routine,6254.67,Walk-in
+A01333,P0386,2025-10-09,D077,Follow-up,High,3435.94,Referral
+A01334,P0210,2025-03-27,D001,Consultation,Routine,2161.38,Website
+A01335,P0126,2025-01-04,D003,Follow-up,Routine,7140.84,App
+A01336,P0069,2025-08-11,D067,Diagnostic Test,Routine,4394.73,Walk-in
+A01337,P0265,2025-12-04,D071,Consultation,Routine,5757.14,Walk-in
+A01338,P0258,2025-06-15,D035,Follow-up,High,3440.39,Referral
+A01339,P0188,2025-12-10,D015,Consultation,Routine,4034.86,App
+A01340,P0230,2025-10-05,D067,Consultation,High,3408.15,Walk-in
+A01341,P0189,2025-05-10,D030,Diagnostic Test,Routine,4793.44,App
+A01342,P0010,2025-01-31,D075,Consultation,High,6344.48,Website
+A01343,P0114,2025-01-11,D043,Consultation,Routine,5533.57,App
+A01344,P0076,2025-10-29,D060,Procedure,Routine,5972.51,Phone
+A01345,P0164,2025-04-06,D040,Consultation,Routine,9263.18,Phone
+A01346,P0085,2025-07-09,D065,Emergency Care,Routine,5728.53,App
+A01347,P0049,2025-07-11,D029,Diagnostic Test,High,3469.84,Website
+A01348,P0326,2025-09-23,D074,Consultation,Routine,3380.89,Website
+A01349,P0177,2025-05-08,D019,Consultation,High,6315.71,App
+A01350,P0387,2025-08-26,D003,Diagnostic Test,Routine,5930.1,App
+A01351,P0389,2025-12-21,D036,Follow-up,High,8552.74,Website
+A01352,P0218,2025-04-22,D043,Consultation,Routine,3390.9,Walk-in
+A01353,P0189,2025-11-12,D015,Consultation,High,5213.42,Website
+A01354,P0346,2025-12-09,D041,Procedure,Urgent,4132.61,Website
+A01355,P0230,2025-05-25,D080,Consultation,Routine,2278.18,Referral
+A01356,P0255,2025-03-06,D036,Procedure,Routine,3083.07,App
+A01357,P0236,2025-09-04,D077,Follow-up,Routine,4020.57,Walk-in
+A01358,P0026,2025-08-11,D033,Diagnostic Test,Routine,2675.86,Website
+A01359,P0072,2025-11-09,D005,Consultation,Routine,3496.97,Referral
+A01360,P0261,2025-04-16,D078,Consultation,Routine,7749.41,Website
+A01361,P0254,2025-06-30,D014,Procedure,High,6960.88,Walk-in
+A01362,P0271,2025-07-03,D068,Consultation,High,3855.52,App
+A01363,P0123,2025-08-14,D047,Consultation,Routine,3447.19,Referral
+A01364,P0144,2025-09-22,D054,Diagnostic Test,Routine,1091.94,Website
+A01365,P0257,2025-10-05,D004,Consultation,High,2286.97,Phone
+A01366,P0144,2025-03-30,D009,Diagnostic Test,Routine,4430.44,App
+A01367,P0259,2025-06-25,D053,Procedure,Routine,4630.6,Referral
+A01368,P0047,2025-01-18,D077,Diagnostic Test,Routine,1657.16,Phone
+A01369,P0351,2025-04-16,D078,Emergency Care,Urgent,4343.7,App
+A01370,P0013,2025-09-28,D060,Procedure,High,6395.82,App
+A01371,P0376,2025-11-15,D046,Consultation,Routine,4996.73,Website
+A01372,P0208,2025-06-16,D054,Consultation,High,5050.23,App
+A01373,P0311,2025-01-13,D074,Diagnostic Test,Routine,4389.79,Website
+A01374,P0235,2025-12-03,D037,Follow-up,High,5097.42,Referral
+A01375,P0149,2025-02-01,D023,Consultation,Routine,7332.44,Phone
+A01376,P0322,2025-02-09,D027,Emergency Care,Routine,5401.16,Referral
+A01377,P0155,2025-05-28,D070,Follow-up,Routine,2985.37,Website
+A01378,P0166,2025-08-06,D066,Consultation,Routine,6232.63,Walk-in
+A01379,P0090,2025-08-07,D061,Follow-up,Routine,3985.93,Website
+A01380,P0186,2025-03-23,D077,Consultation,Routine,3314.48,Website
+A01381,P0318,2025-11-29,D051,Procedure,Routine,11030.84,Phone
+A01382,P0358,2025-07-27,D050,Diagnostic Test,High,4360.34,Website
+A01383,P0174,2025-07-20,D019,Consultation,High,3097.58,Referral
+A01384,P0217,2025-11-28,D001,Consultation,Routine,3752.94,Website
+A01385,P0395,2025-02-07,D040,Procedure,Urgent,3989.57,Walk-in
+A01386,P0264,2025-07-30,D032,Diagnostic Test,Routine,5717.15,Phone
+A01387,P0097,2025-11-23,D022,Emergency Care,High,5251.16,Website
+A01388,P0117,2025-09-06,D066,Consultation,Routine,5989.4,Website
+A01389,P0199,2025-08-15,D040,Consultation,Routine,7059.21,Website
+A01390,P0320,2025-02-17,D038,Consultation,Routine,7833.87,App
+A01391,P0021,2025-01-18,D048,Diagnostic Test,High,7551.31,Walk-in
+A01392,P0200,2025-10-22,D055,Consultation,Routine,1923.4,Referral
+A01393,P0371,2025-07-15,D075,Consultation,Routine,9054.25,App
+A01394,P0341,2025-07-06,D055,Follow-up,Routine,3380.22,Referral
+A01395,P0248,2025-12-11,D051,Diagnostic Test,Routine,5579.34,App
+A01396,P0276,2025-08-12,D060,Consultation,Routine,5673.41,Phone
+A01397,P0264,2025-11-14,D008,Diagnostic Test,High,4234.92,Website
+A01398,P0058,2025-12-31,D068,Follow-up,Routine,3399.55,App
+A01399,P0302,2025-12-03,D075,Consultation,Routine,2418.84,App
+A01400,P0031,2025-08-17,D072,Consultation,Routine,4609.09,Website
+A01401,P0249,2025-03-18,D009,Consultation,High,4303.7,App
+A01402,P0093,2025-07-07,D002,Follow-up,Routine,2742.22,App
+A01403,P0265,2025-12-12,D080,Procedure,Routine,4443.37,App
+A01404,P0271,2025-09-27,D070,Consultation,Routine,5449.3,App
+A01405,P0094,2025-04-05,D059,Consultation,Routine,9862.22,App
+A01406,P0154,2025-11-06,D019,Procedure,Routine,3558.99,Phone
+A01407,P0394,2025-05-12,D028,Emergency Care,High,3639.93,Walk-in
+A01408,P0285,2025-02-08,D072,Follow-up,Routine,7049.75,App
+A01409,P0080,2025-03-13,D014,Emergency Care,Routine,4700.59,App
+A01410,P0292,2025-10-08,D024,Follow-up,Routine,2217.11,Walk-in
+A01411,P0084,2025-11-29,D044,Follow-up,Routine,3438.31,App
+A01412,P0365,2025-06-09,D056,Consultation,Routine,3616.35,Walk-in
+A01413,P0374,2025-07-06,D051,Diagnostic Test,Routine,5002.39,App
+A01414,P0037,2025-07-10,D032,Consultation,High,2699.74,App
+A01415,P0342,2025-04-30,D050,Procedure,Routine,2422.36,App
+A01416,P0327,2025-08-08,D041,Emergency Care,High,3677.14,App
+A01417,P0232,2025-02-22,D066,Follow-up,Routine,3763.45,Walk-in
+A01418,P0093,2025-08-10,D025,Consultation,Routine,2915.01,App
+A01419,P0336,2025-05-11,D061,Consultation,Routine,2700.49,Referral
+A01420,P0102,2025-08-25,D066,Consultation,High,6472.66,Website
+A01421,P0166,2025-09-03,D042,Consultation,Routine,3902.55,Referral
+A01422,P0159,2025-08-14,D065,Follow-up,High,6356.51,App
+A01423,P0014,2025-07-27,D036,Emergency Care,Routine,5692.85,App
+A01424,P0373,2025-04-06,D076,Consultation,High,3382.71,Phone
+A01425,P0225,2025-07-19,D009,Consultation,Routine,3113.49,App
+A01426,P0073,2025-09-04,D036,Follow-up,Routine,7296.75,Walk-in
+A01427,P0249,2025-03-13,D038,Consultation,Routine,5729.09,Website
+A01428,P0091,2025-11-14,D033,Procedure,Routine,4370.13,Phone
+A01429,P0216,2025-07-04,D042,Consultation,Routine,6613.89,App
+A01430,P0090,2025-01-06,D061,Consultation,Routine,2646.87,Phone
+A01431,P0029,2025-07-25,D046,Consultation,Routine,8677.63,Phone
+A01432,P0305,2025-02-01,D061,Consultation,Routine,3541.81,Walk-in
+A01433,P0220,2025-04-09,D018,Diagnostic Test,Routine,2515.71,App
+A01434,P0328,2025-09-13,D070,Consultation,Routine,3965.36,Referral
+A01435,P0215,2025-07-06,D080,Diagnostic Test,Routine,2787.85,Referral
+A01436,P0221,2025-03-17,D015,Diagnostic Test,Routine,4839.09,Walk-in
+A01437,P0389,2025-06-26,D048,Consultation,Routine,3925.84,Phone
+A01438,P0042,2025-11-11,D072,Consultation,High,3897.86,Website
+A01439,P0135,2025-10-14,D013,Diagnostic Test,Routine,9312.24,App
+A01440,P0042,2025-12-15,D043,Follow-up,Routine,5428.99,Referral
+A01441,P0164,2025-09-12,D060,Emergency Care,Routine,3290.54,Referral
+A01442,P0361,2025-11-21,D057,Consultation,Routine,4533.65,App
+A01443,P0283,2025-07-09,D071,Consultation,Routine,7327.5,Website
+A01444,P0058,2025-11-04,D017,Consultation,Routine,3833.12,Referral
+A01445,P0302,2025-12-11,D050,Diagnostic Test,Routine,4625.62,App
+A01446,P0322,2025-05-07,D032,Follow-up,Routine,3517.22,App
+A01447,P0025,2025-10-14,D022,Procedure,Urgent,6564.53,Referral
+A01448,P0073,2025-09-11,D055,Follow-up,Routine,4545.51,Walk-in
+A01449,P0373,2025-08-01,D057,Consultation,Routine,7670.39,Referral
+A01450,P0129,2025-09-07,D013,Diagnostic Test,Routine,4944.07,App
+A01451,P0087,2025-03-25,D047,Procedure,Routine,4006.78,App
+A01452,P0330,2025-01-13,D062,Consultation,High,4189.25,Phone
+A01453,P0153,2025-02-14,D054,Diagnostic Test,Routine,8786.28,Phone
+A01454,P0182,2025-05-07,D029,Emergency Care,Routine,4708.66,App
+A01455,P0125,2025-04-24,D022,Follow-up,High,3253.19,Referral
+A01456,P0067,2025-10-03,D065,Follow-up,Routine,3904.12,Referral
+A01457,P0006,2025-07-24,D029,Consultation,Urgent,8569.61,App
+A01458,P0125,2025-12-03,D048,Diagnostic Test,High,2639.65,App
+A01459,P0314,2025-09-30,D005,Consultation,Routine,3445.95,App
+A01460,P0326,2025-02-27,D035,Follow-up,Routine,7020.13,Website
+A01461,P0053,2025-11-24,D074,Consultation,Routine,5875.57,App
+A01462,P0066,2025-08-07,D071,Procedure,Routine,3110.39,Website
+A01463,P0314,2025-04-19,D046,Procedure,Routine,4027.77,Website
+A01464,P0082,2025-10-06,D035,Diagnostic Test,Routine,3498.42,Referral
+A01465,P0087,2025-06-23,D045,Consultation,Urgent,8551.6,App
+A01466,P0002,2025-11-24,D013,Consultation,Routine,5173.39,Phone
+A01467,P0204,2025-09-21,D010,Procedure,Routine,4064.68,Walk-in
+A01468,P0150,2025-11-11,D066,Follow-up,Routine,4164.87,Phone
+A01469,P0293,2025-04-21,D070,Follow-up,High,3534.92,Referral
+A01470,P0103,2025-07-06,D072,Consultation,Routine,6954.86,Phone
+A01471,P0024,2025-09-26,D025,Diagnostic Test,Routine,5812.96,Referral
+A01472,P0368,2025-08-17,D044,Follow-up,High,6909.03,App
+A01473,P0212,2025-06-05,D060,Diagnostic Test,High,4172.73,Phone
+A01474,P0065,2025-07-08,D047,Follow-up,Urgent,3652.63,Phone
+A01475,P0209,2025-09-29,D040,Procedure,Routine,5478.06,Referral
+A01476,P0251,2025-01-02,D007,Consultation,Routine,4804.22,App
+A01477,P0385,2025-09-03,D046,Consultation,Routine,9899.06,App
+A01478,P0117,2025-07-29,D023,Diagnostic Test,Routine,4083.23,Phone
+A01479,P0116,2025-10-13,D046,Consultation,Routine,3669.78,App
+A01480,P0237,2025-12-25,D013,Follow-up,Routine,4714.08,Phone
+A01481,P0105,2025-01-13,D021,Follow-up,Routine,3181.9,Referral
+A01482,P0259,2025-04-06,D001,Procedure,Urgent,5495.48,Referral
+A01483,P0046,2025-08-09,D019,Follow-up,Routine,2926.92,App
+A01484,P0311,2025-08-26,D060,Consultation,Routine,5216.33,App
+A01485,P0331,2025-04-04,D033,Consultation,Routine,4768.15,Phone
+A01486,P0216,2025-12-04,D004,Procedure,High,8865.23,Phone
+A01487,P0301,2025-09-26,D003,Consultation,Routine,5077.9,Phone
+A01488,P0333,2025-06-20,D052,Follow-up,Routine,3255.24,Walk-in
+A01489,P0024,2025-04-04,D028,Procedure,Routine,5846.65,Phone
+A01490,P0035,2025-05-29,D070,Consultation,Routine,3322.71,App
+A01491,P0024,2025-04-22,D070,Consultation,Routine,5586.76,Walk-in
+A01492,P0028,2025-02-24,D055,Diagnostic Test,Urgent,4067.72,App
+A01493,P0016,2025-12-03,D057,Procedure,Urgent,3029.82,App
+A01494,P0059,2025-04-26,D016,Consultation,Urgent,2712.29,Walk-in
+A01495,P0243,2025-05-23,D024,Emergency Care,Routine,8114.45,Phone
+A01496,P0207,2025-07-20,D069,Diagnostic Test,Urgent,2555.93,Phone
+A01497,P0400,2025-06-29,D041,Emergency Care,Urgent,4907.78,Website
+A01498,P0271,2025-07-21,D077,Consultation,Urgent,7094.32,App
+A01499,P0249,2025-12-30,D047,Consultation,Routine,3276.44,Website
+A01500,P0267,2025-02-22,D076,Procedure,Routine,4094.85,Phone
+A01501,P0193,2025-06-29,D069,Procedure,Routine,8237.86,App
+A01502,P0335,2025-11-09,D031,Diagnostic Test,High,3902.91,Phone
+A01503,P0218,2025-11-04,D030,Follow-up,Routine,3634.79,Walk-in
+A01504,P0115,2025-05-17,D018,Procedure,Routine,3525.01,Website
+A01505,P0068,2025-07-01,D044,Consultation,Urgent,6489.97,Walk-in
+A01506,P0299,2025-01-01,D027,Diagnostic Test,Routine,5046.67,Walk-in
+A01507,P0325,2025-02-13,D026,Procedure,Routine,4239.04,Walk-in
+A01508,P0397,2025-08-15,D060,Consultation,Urgent,6388.71,Phone
+A01509,P0394,2025-11-27,D018,Consultation,Urgent,7020.39,Website
+A01510,P0075,2025-04-08,D056,Procedure,Routine,3425.61,Website
+A01511,P0103,2025-07-27,D031,Consultation,High,2916.46,Walk-in
+A01512,P0297,2025-09-22,D059,Consultation,Routine,4537.25,App
+A01513,P0178,2025-10-15,D002,Emergency Care,Routine,7328.03,Walk-in
+A01514,P0215,2025-09-28,D039,Diagnostic Test,Routine,4262.09,Phone
+A01515,P0315,2025-05-20,D061,Procedure,Routine,5660.13,App
+A01516,P0039,2025-08-25,D063,Procedure,Routine,2840.08,Phone
+A01517,P0259,2025-03-13,D018,Consultation,Routine,4524.85,App
+A01518,P0204,2025-06-04,D017,Consultation,Urgent,6611.33,App
+A01519,P0007,2025-07-09,D039,Consultation,Routine,7559.84,Referral
+A01520,P0049,2025-09-25,D071,Consultation,High,5406.66,Website
+A01521,P0026,2025-11-17,D054,Follow-up,Routine,4679.26,Phone
+A01522,P0161,2025-04-17,D076,Follow-up,Routine,4904.26,App
+A01523,P0357,2025-08-20,D035,Diagnostic Test,Urgent,6230.33,Phone
+A01524,P0176,2025-02-11,D011,Consultation,High,5382.91,App
+A01525,P0079,2025-07-09,D061,Consultation,Routine,3002.07,Walk-in
+A01526,P0002,2025-05-19,D044,Diagnostic Test,Routine,2664.7,Walk-in
+A01527,P0383,2025-04-13,D068,Diagnostic Test,Routine,3269.05,Walk-in
+A01528,P0132,2025-06-20,D025,Consultation,High,3738.6,App
+A01529,P0276,2025-12-17,D048,Follow-up,High,8660.9,Phone
+A01530,P0117,2025-09-30,D032,Consultation,Routine,7433.76,Walk-in
+A01531,P0164,2025-08-09,D004,Consultation,Routine,4369.89,App
+A01532,P0288,2025-08-01,D038,Follow-up,Routine,4975.73,App
+A01533,P0028,2025-12-07,D063,Consultation,Routine,3956.39,Walk-in
+A01534,P0333,2025-02-25,D047,Diagnostic Test,Routine,3444.01,Walk-in
+A01535,P0001,2025-12-08,D001,Consultation,Routine,6568.51,Website
+A01536,P0188,2025-04-12,D003,Consultation,Routine,2559.81,App
+A01537,P0056,2025-07-11,D062,Consultation,High,6368.74,Phone
+A01538,P0035,2025-11-06,D064,Emergency Care,Routine,4211.78,Website
+A01539,P0112,2025-07-19,D017,Diagnostic Test,Routine,3349.72,Phone
+A01540,P0286,2025-08-21,D078,Emergency Care,High,2387.36,Website
+A01541,P0310,2025-08-15,D062,Diagnostic Test,Urgent,3883.27,Phone
+A01542,P0036,2025-05-19,D035,Diagnostic Test,Routine,3832.94,Walk-in
+A01543,P0217,2025-12-10,D013,Consultation,Routine,5454.35,Walk-in
+A01544,P0080,2025-11-01,D035,Consultation,Urgent,5467.98,Phone
+A01545,P0314,2025-05-29,D043,Consultation,Routine,2945.78,App
+A01546,P0083,2025-04-25,D002,Consultation,Routine,4395.64,Website
+A01547,P0065,2025-03-04,D056,Diagnostic Test,Routine,7924.43,App
+A01548,P0325,2025-04-14,D077,Consultation,Routine,3936.98,Website
+A01549,P0128,2025-12-05,D051,Consultation,Routine,2724.35,Referral
+A01550,P0307,2025-12-25,D054,Consultation,Routine,10814.44,Phone
+A01551,P0022,2025-06-05,D016,Diagnostic Test,Routine,2869.25,App
+A01552,P0216,2025-09-30,D018,Follow-up,Routine,6911.56,App
+A01553,P0107,2025-01-06,D007,Procedure,Urgent,5616.55,App
+A01554,P0109,2025-05-27,D045,Consultation,Routine,3964.44,App
+A01555,P0372,2025-07-03,D036,Consultation,Routine,2742.8,Website
+A01556,P0357,2025-01-28,D041,Consultation,High,5210.6,Website
+A01557,P0181,2025-02-07,D042,Procedure,Routine,5270.82,App
+A01558,P0356,2025-04-29,D007,Consultation,High,5851.1,App
+A01559,P0164,2025-10-20,D015,Follow-up,Urgent,3962.03,Phone
+A01560,P0068,2025-09-01,D060,Diagnostic Test,Routine,2799.9,Phone
+A01561,P0292,2025-03-09,D040,Consultation,Routine,6594.08,Walk-in
+A01562,P0180,2025-08-02,D037,Consultation,High,3440.77,App
+A01563,P0181,2025-08-06,D066,Consultation,Routine,3241.55,Walk-in
+A01564,P0169,2025-06-26,D055,Procedure,Routine,5979.7,Phone
+A01565,P0022,2025-10-26,D077,Diagnostic Test,High,4034.05,App
+A01566,P0066,2025-06-13,D080,Diagnostic Test,High,5040.9,App
+A01567,P0021,2025-02-27,D056,Diagnostic Test,Urgent,5502.2,Website
+A01568,P0100,2025-09-26,D044,Follow-up,Routine,7740.15,Website
+A01569,P0384,2025-11-04,D057,Diagnostic Test,Routine,4555.49,App
+A01570,P0300,2025-02-27,D006,Consultation,Routine,6525.14,Walk-in
+A01571,P0103,2025-10-15,D032,Consultation,Routine,4063.36,App
+A01572,P0047,2025-04-15,D074,Consultation,Routine,7502.24,Website
+A01573,P0039,2025-08-16,D018,Follow-up,Routine,8838.82,Website
+A01574,P0285,2025-09-04,D068,Consultation,Routine,12011.67,Phone
+A01575,P0310,2025-07-07,D073,Diagnostic Test,Routine,4622.17,Referral
+A01576,P0090,2025-03-24,D007,Consultation,Routine,6623.23,Referral
+A01577,P0085,2025-07-05,D008,Emergency Care,Routine,5380.41,App
+A01578,P0273,2025-09-09,D064,Consultation,High,4444.17,Website
+A01579,P0336,2025-12-21,D007,Consultation,Routine,3353.29,Walk-in
+A01580,P0188,2025-08-26,D041,Procedure,High,3556.92,Website
+A01581,P0159,2025-12-26,D040,Diagnostic Test,High,4170.43,Phone
+A01582,P0243,2025-07-03,D003,Emergency Care,Routine,6896.19,Referral
+A01583,P0073,2025-10-11,D017,Consultation,Routine,2987.72,Phone
+A01584,P0049,2025-07-29,D066,Consultation,Routine,4409.8,App
+A01585,P0101,2025-10-31,D079,Follow-up,High,4370.14,Walk-in
+A01586,P0002,2025-10-23,D052,Procedure,Routine,3736.79,Referral
+A01587,P0244,2025-04-07,D022,Consultation,High,3005.7,Walk-in
+A01588,P0176,2025-07-27,D004,Emergency Care,Urgent,4422.41,Website
+A01589,P0238,2025-05-17,D006,Diagnostic Test,Urgent,1317.09,Referral
+A01590,P0398,2025-07-03,D038,Procedure,Routine,8036.82,Referral
+A01591,P0059,2025-03-17,D026,Consultation,High,1933.69,Referral
+A01592,P0353,2025-10-14,D011,Consultation,Urgent,2562.5,Website
+A01593,P0099,2025-05-22,D017,Procedure,Routine,6559.22,Walk-in
+A01594,P0359,2025-08-25,D031,Emergency Care,Routine,3693.85,Phone
+A01595,P0002,2025-01-25,D077,Diagnostic Test,Routine,5015.34,App
+A01596,P0243,2025-10-17,D035,Consultation,Routine,7015.35,Phone
+A01597,P0297,2025-03-08,D016,Consultation,High,2705.74,Walk-in
+A01598,P0211,2025-09-07,D079,Diagnostic Test,Routine,2509.69,Referral
+A01599,P0123,2025-04-28,D018,Consultation,High,4400.02,Walk-in
+A01600,P0229,2025-03-14,D062,Consultation,High,3777.53,App
+A01601,P0082,2025-10-09,D027,Consultation,Routine,2829.42,Website
+A01602,P0144,2025-12-26,D035,Follow-up,Routine,3367.23,Website
+A01603,P0388,2025-01-10,D045,Consultation,Routine,1805.76,Referral
+A01604,P0140,2025-07-30,D035,Diagnostic Test,High,6367.14,App
+A01605,P0029,2025-11-19,D028,Diagnostic Test,Routine,6364.9,Walk-in
+A01606,P0391,2025-06-01,D009,Follow-up,Routine,3627.71,Phone
+A01607,P0270,2025-01-05,D076,Diagnostic Test,Routine,4523.32,Referral
+A01608,P0247,2025-07-14,D015,Consultation,Urgent,5153.21,Website
+A01609,P0012,2025-10-10,D021,Follow-up,High,4887.25,Phone
+A01610,P0355,2025-04-23,D052,Procedure,Routine,5852.24,Referral
+A01611,P0389,2025-09-28,D035,Follow-up,Routine,3512.77,Walk-in
+A01612,P0337,2025-06-12,D051,Emergency Care,Routine,6789.44,App
+A01613,P0106,2025-04-15,D055,Follow-up,Routine,6554.97,App
+A01614,P0032,2025-06-30,D077,Follow-up,Routine,3961.93,Walk-in
+A01615,P0074,2025-02-13,D044,Consultation,Routine,4644.54,Website
+A01616,P0171,2025-10-09,D065,Diagnostic Test,Routine,7311.13,Walk-in
+A01617,P0337,2025-06-24,D080,Diagnostic Test,Routine,4793.31,Phone
+A01618,P0069,2025-06-11,D025,Consultation,Routine,4664.94,Referral
+A01619,P0301,2025-12-17,D047,Diagnostic Test,Routine,3815.14,Website
+A01620,P0362,2025-12-06,D080,Consultation,Routine,5485.6,Walk-in
+A01621,P0137,2025-05-20,D056,Follow-up,Routine,3481.32,App
+A01622,P0100,2025-05-12,D038,Diagnostic Test,Routine,6878.78,Website
+A01623,P0146,2025-03-28,D011,Diagnostic Test,Routine,2477.27,App
+A01624,P0009,2025-06-25,D067,Emergency Care,Routine,5157.63,Walk-in
+A01625,P0062,2025-07-02,D015,Consultation,Urgent,3659.25,Walk-in
+A01626,P0185,2025-05-09,D001,Consultation,Routine,3245.22,App
+A01627,P0029,2025-09-03,D007,Consultation,High,7849.66,Website
+A01628,P0381,2025-03-30,D001,Procedure,Routine,6603.03,Walk-in
+A01629,P0114,2025-03-07,D049,Diagnostic Test,Routine,3011.63,Walk-in
+A01630,P0143,2025-06-07,D073,Follow-up,Routine,5374.93,Phone
+A01631,P0390,2025-05-29,D029,Consultation,Routine,5679.1,Referral
+A01632,P0120,2025-12-06,D026,Diagnostic Test,High,2152.58,Walk-in
+A01633,P0170,2025-04-26,D045,Consultation,Routine,5159.93,Website
+A01634,P0157,2025-08-02,D071,Follow-up,Routine,6419.0,Website
+A01635,P0335,2025-10-21,D012,Procedure,High,5412.81,Phone
+A01636,P0349,2025-09-10,D032,Follow-up,Routine,3187.42,Walk-in
+A01637,P0260,2025-05-23,D020,Follow-up,Routine,6437.53,Website
+A01638,P0082,2025-09-07,D051,Diagnostic Test,Routine,4196.69,Walk-in
+A01639,P0242,2025-10-29,D036,Follow-up,Routine,3569.46,App
+A01640,P0172,2025-01-25,D067,Diagnostic Test,Routine,3707.02,Referral
+A01641,P0231,2025-10-04,D001,Follow-up,Routine,3820.55,Walk-in
+A01642,P0208,2025-03-11,D027,Consultation,Routine,3880.93,Website
+A01643,P0075,2025-04-23,D040,Consultation,Routine,8307.1,Website
+A01644,P0270,2025-12-29,D014,Diagnostic Test,High,7284.16,App
+A01645,P0387,2025-04-22,D069,Diagnostic Test,High,5070.6,Walk-in
+A01646,P0114,2025-12-30,D079,Consultation,Urgent,3090.45,Walk-in
+A01647,P0062,2025-10-30,D006,Follow-up,High,6282.33,Phone
+A01648,P0362,2025-04-01,D033,Consultation,Urgent,2930.04,App
+A01649,P0320,2025-01-18,D055,Consultation,High,10015.89,App
+A01650,P0102,2025-05-29,D019,Follow-up,Routine,7369.3,Website
+A01651,P0362,2025-08-15,D077,Diagnostic Test,Routine,5834.58,App
+A01652,P0210,2025-08-02,D029,Follow-up,Routine,4754.35,Website
+A01653,P0255,2025-12-26,D061,Diagnostic Test,Routine,4951.62,App
+A01654,P0020,2025-05-31,D070,Emergency Care,High,4297.01,Website
+A01655,P0058,2025-07-11,D079,Diagnostic Test,Routine,6399.33,Phone
+A01656,P0112,2025-02-09,D080,Consultation,Routine,4753.87,Referral
+A01657,P0313,2025-08-30,D024,Consultation,Routine,5581.87,Website
+A01658,P0196,2025-05-18,D023,Consultation,Routine,8294.73,Phone
+A01659,P0375,2025-12-11,D010,Procedure,Routine,4756.71,App
+A01660,P0353,2025-06-29,D054,Consultation,Routine,8246.04,Phone
+A01661,P0092,2025-07-19,D041,Consultation,Routine,5738.84,Referral
+A01662,P0052,2025-07-22,D049,Consultation,Routine,5743.31,App
+A01663,P0293,2025-03-02,D017,Procedure,Routine,2997.61,App
+A01664,P0008,2025-07-11,D056,Consultation,Routine,7039.38,App
+A01665,P0300,2025-01-05,D045,Emergency Care,High,3427.91,Phone
+A01666,P0098,2025-08-25,D030,Consultation,Routine,4147.95,Phone
+A01667,P0236,2025-06-30,D044,Consultation,Routine,7454.64,App
+A01668,P0389,2025-11-07,D074,Consultation,Urgent,3826.56,App
+A01669,P0374,2025-02-06,D055,Procedure,Routine,5213.12,Walk-in
+A01670,P0069,2025-02-25,D019,Procedure,Routine,4216.07,Website
+A01671,P0045,2025-08-25,D029,Consultation,Routine,2790.37,Website
+A01672,P0137,2025-12-24,D002,Consultation,High,3467.06,Referral
+A01673,P0234,2025-12-15,D036,Follow-up,Routine,3697.44,Website
+A01674,P0032,2025-07-16,D019,Consultation,Routine,4682.61,Referral
+A01675,P0289,2025-03-14,D007,Consultation,High,3008.57,Referral
+A01676,P0126,2025-02-28,D026,Consultation,Routine,3430.17,App
+A01677,P0067,2025-08-28,D079,Consultation,High,3182.57,Phone
+A01678,P0030,2025-01-02,D038,Consultation,Routine,5040.12,Phone
+A01679,P0114,2025-12-26,D003,Consultation,Routine,4080.96,Walk-in
+A01680,P0204,2025-07-07,D080,Consultation,High,2521.07,Website
+A01681,P0029,2025-11-03,D066,Procedure,Routine,3501.76,Walk-in
+A01682,P0131,2025-01-30,D071,Consultation,High,6524.94,Referral
+A01683,P0185,2025-09-24,D043,Follow-up,Urgent,4839.14,Walk-in
+A01684,P0253,2025-04-18,D062,Consultation,Routine,2601.62,Referral
+A01685,P0286,2025-11-28,D071,Follow-up,Urgent,4004.64,Walk-in
+A01686,P0393,2025-03-31,D024,Consultation,Routine,893.79,Referral
+A01687,P0386,2025-07-24,D039,Follow-up,High,5194.22,App
+A01688,P0062,2025-08-08,D068,Consultation,Routine,1524.91,Walk-in
+A01689,P0003,2025-04-04,D044,Procedure,Routine,3315.33,Walk-in
+A01690,P0068,2025-04-13,D005,Consultation,Routine,1718.91,Website
+A01691,P0025,2025-08-11,D055,Consultation,Routine,4907.62,App
+A01692,P0179,2025-07-05,D030,Emergency Care,Routine,7351.55,Phone
+A01693,P0141,2025-07-03,D029,Diagnostic Test,High,2555.56,App
+A01694,P0231,2025-06-11,D026,Consultation,High,6228.91,Website
+A01695,P0300,2025-09-04,D026,Emergency Care,Routine,3223.35,Website
+A01696,P0163,2025-01-31,D037,Consultation,Routine,5222.26,Referral
+A01697,P0311,2025-02-21,D053,Consultation,High,8247.61,App
+A01698,P0393,2025-12-11,D030,Emergency Care,Routine,6587.48,Walk-in
+A01699,P0130,2025-03-17,D003,Consultation,Routine,2949.96,App
+A01700,P0246,2025-10-05,D043,Procedure,Routine,7623.08,Phone
+A01701,P0297,2025-02-09,D007,Consultation,Routine,5392.27,Phone
+A01702,P0172,2025-04-11,D049,Follow-up,Routine,3582.49,Phone
+A01703,P0064,2025-04-21,D073,Diagnostic Test,High,4581.93,Walk-in
+A01704,P0031,2025-11-17,D041,Emergency Care,Routine,2951.39,Walk-in
+A01705,P0047,2025-09-06,D077,Diagnostic Test,Routine,6926.18,Walk-in
+A01706,P0130,2025-07-10,D079,Consultation,Urgent,1535.03,Website
+A01707,P0352,2025-07-01,D054,Follow-up,Routine,7172.21,Walk-in
+A01708,P0333,2025-12-01,D069,Consultation,Routine,1723.56,Website
+A01709,P0110,2025-07-28,D027,Procedure,Routine,4282.92,App
+A01710,P0069,2025-01-22,D008,Procedure,Routine,7380.19,Referral
+A01711,P0058,2025-06-15,D032,Diagnostic Test,Routine,7313.65,Referral
+A01712,P0106,2025-04-09,D064,Procedure,Routine,4010.79,Website
+A01713,P0300,2025-07-27,D010,Consultation,Routine,6069.99,Referral
+A01714,P0330,2025-01-08,D013,Diagnostic Test,Routine,3514.97,Walk-in
+A01715,P0256,2025-07-09,D063,Consultation,Routine,3242.53,Website
+A01716,P0312,2025-06-24,D035,Follow-up,High,3329.07,Website
+A01717,P0171,2025-09-30,D061,Consultation,Routine,4238.08,Referral
+A01718,P0383,2025-01-17,D054,Follow-up,Routine,1901.48,Walk-in
+A01719,P0162,2025-03-31,D008,Consultation,Urgent,7344.47,Website
+A01720,P0286,2025-05-21,D029,Follow-up,Routine,5949.51,Phone
+A01721,P0071,2025-05-25,D041,Consultation,Routine,5656.55,Phone
+A01722,P0255,2025-06-15,D030,Procedure,Routine,4440.78,Phone
+A01723,P0374,2025-12-03,D021,Consultation,High,8177.95,Phone
+A01724,P0055,2025-03-19,D076,Diagnostic Test,Routine,3479.08,Phone
+A01725,P0323,2025-09-19,D011,Consultation,Routine,6052.95,Phone
+A01726,P0397,2025-06-12,D002,Follow-up,Routine,5529.35,Referral
+A01727,P0003,2025-01-14,D050,Consultation,Routine,3270.9,Referral
+A01728,P0026,2025-08-27,D041,Follow-up,High,2934.06,Walk-in
+A01729,P0313,2025-03-13,D066,Consultation,Routine,4810.67,Referral
+A01730,P0126,2025-05-23,D003,Follow-up,Routine,5827.28,Walk-in
+A01731,P0053,2025-11-06,D080,Consultation,Urgent,3946.56,App
+A01732,P0198,2025-10-10,D051,Consultation,Routine,2416.65,Referral
+A01733,P0299,2025-09-26,D068,Diagnostic Test,Routine,5152.94,App
+A01734,P0188,2025-08-29,D025,Consultation,Routine,5027.65,Website
+A01735,P0186,2025-09-02,D030,Consultation,High,3947.68,Phone
+A01736,P0305,2025-06-12,D011,Emergency Care,High,1313.54,Phone
+A01737,P0298,2025-03-01,D017,Emergency Care,Urgent,5467.58,Phone
+A01738,P0204,2025-01-06,D026,Follow-up,Routine,4968.41,Walk-in
+A01739,P0011,2025-07-16,D023,Consultation,Routine,5225.69,App
+A01740,P0359,2025-02-27,D056,Consultation,Routine,6280.58,Referral
+A01741,P0354,2025-11-01,D052,Follow-up,High,4524.04,Website
+A01742,P0146,2025-08-05,D048,Consultation,Routine,2820.58,Referral
+A01743,P0085,2025-01-26,D020,Emergency Care,Routine,5395.25,Website
+A01744,P0100,2025-10-30,D002,Consultation,Routine,5212.48,Phone
+A01745,P0104,2025-01-05,D031,Emergency Care,Routine,2477.13,Website
+A01746,P0046,2025-01-20,D027,Diagnostic Test,Routine,4603.25,Phone
+A01747,P0044,2025-07-17,D002,Follow-up,High,2682.24,App
+A01748,P0278,2025-02-28,D078,Consultation,Routine,6544.15,Website
+A01749,P0181,2025-08-30,D004,Procedure,Routine,3764.39,App
+A01750,P0187,2025-05-26,D013,Consultation,Routine,2747.3,Phone
+A01751,P0114,2025-09-30,D035,Follow-up,Routine,3238.67,Referral
+A01752,P0255,2025-09-06,D072,Procedure,Routine,4129.51,App
+A01753,P0381,2025-01-14,D066,Consultation,Routine,6080.61,Phone
+A01754,P0380,2025-01-13,D006,Diagnostic Test,Routine,4971.47,Walk-in
+A01755,P0030,2025-02-13,D031,Diagnostic Test,Urgent,3417.93,App
+A01756,P0264,2025-01-19,D010,Consultation,Routine,5174.8,App
+A01757,P0098,2025-03-04,D021,Diagnostic Test,Routine,4135.7,App
+A01758,P0313,2025-08-27,D074,Consultation,Routine,4877.72,App
+A01759,P0367,2025-12-03,D023,Consultation,High,1881.36,App
+A01760,P0329,2025-04-10,D003,Follow-up,Routine,3546.57,Website
+A01761,P0115,2025-06-12,D032,Follow-up,High,2227.06,Website
+A01762,P0276,2025-05-02,D020,Consultation,High,3040.24,Walk-in
+A01763,P0281,2025-02-13,D074,Procedure,Urgent,4420.77,Walk-in
+A01764,P0275,2025-12-26,D029,Procedure,High,5759.65,Walk-in
+A01765,P0261,2025-11-13,D052,Diagnostic Test,Routine,6622.36,Phone
+A01766,P0331,2025-05-25,D046,Diagnostic Test,High,6700.97,Website
+A01767,P0207,2025-11-23,D034,Consultation,Urgent,5358.01,Website
+A01768,P0384,2025-12-29,D061,Follow-up,Urgent,4339.4,Website
+A01769,P0328,2025-02-19,D072,Follow-up,Routine,4609.2,Phone
+A01770,P0211,2025-03-06,D071,Consultation,Routine,3755.08,Referral
+A01771,P0215,2025-12-21,D070,Follow-up,Routine,6228.27,App
+A01772,P0040,2025-10-15,D011,Consultation,Routine,7979.57,Website
+A01773,P0026,2025-06-13,D063,Consultation,High,7580.84,Phone
+A01774,P0027,2025-05-21,D021,Follow-up,Urgent,4813.99,Walk-in
+A01775,P0190,2025-11-10,D003,Follow-up,Routine,3379.45,App
+A01776,P0083,2025-05-08,D010,Diagnostic Test,High,5567.51,App
+A01777,P0384,2025-08-27,D027,Diagnostic Test,Routine,3248.14,Referral
+A01778,P0170,2025-11-20,D012,Emergency Care,Routine,4511.54,App
+A01779,P0167,2025-10-23,D007,Diagnostic Test,Routine,3858.33,Phone
+A01780,P0188,2025-07-06,D017,Follow-up,Routine,5403.97,Walk-in
+A01781,P0169,2025-07-27,D065,Consultation,High,4817.63,Referral
+A01782,P0289,2025-08-08,D064,Consultation,Routine,3767.07,App
+A01783,P0229,2025-07-09,D026,Consultation,Routine,10277.05,Website
+A01784,P0097,2025-12-12,D015,Diagnostic Test,Routine,2509.93,App
+A01785,P0367,2025-10-11,D033,Follow-up,Routine,3406.51,Phone
+A01786,P0016,2025-12-18,D062,Consultation,High,5241.65,Phone
+A01787,P0279,2025-08-25,D047,Consultation,Routine,7089.63,Referral
+A01788,P0135,2025-07-13,D035,Consultation,Routine,6592.31,Phone
+A01789,P0026,2025-10-14,D065,Consultation,High,2785.3,Phone
+A01790,P0352,2025-09-16,D072,Emergency Care,Routine,8525.81,Website
+A01791,P0012,2025-09-03,D076,Follow-up,High,5468.38,App
+A01792,P0072,2025-05-16,D025,Consultation,Routine,4640.64,Website
+A01793,P0133,2025-10-07,D057,Follow-up,Routine,4926.73,App
+A01794,P0106,2025-09-28,D032,Follow-up,Urgent,10196.62,Walk-in
+A01795,P0220,2025-06-20,D063,Follow-up,High,7873.86,Phone
+A01796,P0373,2025-06-08,D012,Consultation,Routine,2918.8,App
+A01797,P0177,2025-07-20,D063,Diagnostic Test,Routine,4444.96,Website
+A01798,P0282,2025-02-14,D077,Consultation,Urgent,6487.46,App
+A01799,P0133,2025-09-21,D001,Procedure,Routine,8744.66,App
+A01800,P0022,2025-03-12,D051,Follow-up,Routine,3643.3,Walk-in
+A01801,P0269,2025-12-30,D070,Diagnostic Test,Routine,4464.75,Referral
+A01802,P0161,2025-04-13,D008,Consultation,Routine,4995.36,App
+A01803,P0107,2025-05-05,D068,Consultation,Routine,9248.95,Walk-in
+A01804,P0279,2025-11-09,D005,Consultation,High,5036.55,Website
+A01805,P0353,2025-10-13,D039,Emergency Care,Routine,4335.99,Website
+A01806,P0235,2025-08-18,D023,Consultation,High,4724.15,Phone
+A01807,P0018,2025-05-26,D068,Consultation,Routine,6920.52,App
+A01808,P0242,2025-07-16,D052,Emergency Care,Routine,2528.21,App
+A01809,P0117,2025-08-09,D004,Diagnostic Test,Routine,7889.76,App
+A01810,P0286,2025-03-01,D047,Procedure,Routine,3632.06,App
+A01811,P0282,2025-04-08,D021,Consultation,Routine,4590.22,App
+A01812,P0144,2025-06-20,D056,Diagnostic Test,Routine,3370.35,Website
+A01813,P0205,2025-06-22,D066,Consultation,High,3541.67,Website
+A01814,P0039,2025-05-31,D059,Follow-up,Routine,7294.65,Walk-in
+A01815,P0154,2025-12-16,D007,Consultation,Routine,3879.77,Website
+A01816,P0176,2025-05-02,D049,Diagnostic Test,Urgent,6410.13,App
+A01817,P0241,2025-04-18,D016,Procedure,Urgent,6388.18,App
+A01818,P0386,2025-01-04,D017,Diagnostic Test,Routine,5619.91,Referral
+A01819,P0369,2025-04-03,D075,Diagnostic Test,Routine,6666.62,App
+A01820,P0134,2025-01-06,D034,Consultation,High,3231.3,Walk-in
+A01821,P0046,2025-10-15,D033,Consultation,High,1435.58,Website
+A01822,P0050,2025-04-16,D026,Follow-up,Routine,4175.46,Referral
+A01823,P0166,2025-05-26,D066,Follow-up,Routine,6274.54,Website
+A01824,P0106,2025-09-28,D063,Emergency Care,High,11308.96,App
+A01825,P0216,2025-04-06,D041,Follow-up,Urgent,5666.11,Phone
+A01826,P0146,2025-08-17,D058,Diagnostic Test,High,5957.77,Phone
+A01827,P0072,2025-07-21,D079,Procedure,Routine,4660.47,Phone
+A01828,P0330,2025-07-31,D010,Consultation,Routine,6071.08,Website
+A01829,P0273,2025-01-06,D015,Diagnostic Test,Routine,4477.52,App
+A01830,P0247,2025-04-22,D042,Consultation,Routine,2853.38,Phone
+A01831,P0186,2025-11-19,D057,Consultation,Routine,7217.26,Referral
+A01832,P0070,2025-04-16,D017,Follow-up,Routine,6613.07,Referral
+A01833,P0150,2025-05-19,D060,Diagnostic Test,Routine,5513.72,Phone
+A01834,P0246,2025-10-26,D009,Diagnostic Test,Routine,3581.09,App
+A01835,P0262,2025-04-06,D036,Diagnostic Test,High,4918.25,App
+A01836,P0026,2025-12-03,D073,Diagnostic Test,High,3214.3,Walk-in
+A01837,P0140,2025-10-24,D080,Consultation,High,3781.01,Walk-in
+A01838,P0099,2025-08-02,D036,Follow-up,High,5480.51,Referral
+A01839,P0398,2025-10-18,D048,Diagnostic Test,Routine,4788.21,Phone
+A01840,P0278,2025-01-22,D051,Procedure,Routine,2759.7,Walk-in
+A01841,P0051,2025-07-12,D070,Consultation,Routine,6457.25,Walk-in
+A01842,P0151,2025-05-30,D074,Consultation,Routine,9407.85,Phone
+A01843,P0104,2025-09-04,D080,Follow-up,High,3750.3,Walk-in
+A01844,P0089,2025-09-24,D068,Procedure,Routine,6655.28,App
+A01845,P0141,2025-09-08,D022,Diagnostic Test,Routine,4343.78,Phone
+A01846,P0213,2025-01-03,D077,Follow-up,Routine,7910.92,Referral
+A01847,P0233,2025-11-12,D080,Emergency Care,Routine,5797.81,App
+A01848,P0394,2025-03-17,D006,Emergency Care,Routine,3606.48,Walk-in
+A01849,P0183,2025-03-28,D026,Follow-up,Routine,9326.13,Website
+A01850,P0251,2025-09-27,D075,Follow-up,Routine,6146.37,Walk-in
+A01851,P0009,2025-08-13,D003,Consultation,Routine,5613.03,Phone
+A01852,P0079,2025-01-18,D052,Procedure,High,2878.47,Referral
+A01853,P0052,2025-04-23,D074,Diagnostic Test,Routine,3874.65,Walk-in
+A01854,P0386,2025-09-08,D060,Emergency Care,Routine,8337.9,Website
+A01855,P0269,2025-08-21,D063,Consultation,Routine,5354.85,App
+A01856,P0226,2025-11-25,D065,Diagnostic Test,Routine,5836.64,Walk-in
+A01857,P0051,2025-10-06,D052,Diagnostic Test,Routine,5957.85,Website
+A01858,P0186,2025-07-21,D076,Diagnostic Test,Routine,4646.87,Phone
+A01859,P0034,2025-03-24,D014,Consultation,High,3352.01,App
+A01860,P0291,2025-05-05,D072,Diagnostic Test,Routine,3637.15,Referral
+A01861,P0230,2025-06-24,D068,Follow-up,Routine,9210.68,Website
+A01862,P0131,2025-03-10,D028,Follow-up,Routine,2514.55,Referral
+A01863,P0120,2025-02-16,D071,Consultation,Routine,2553.62,Walk-in
+A01864,P0326,2025-09-13,D010,Follow-up,Routine,3617.45,App
+A01865,P0247,2025-08-03,D057,Consultation,Routine,4307.85,Phone
+A01866,P0192,2025-01-30,D066,Consultation,Routine,3192.66,Referral
+A01867,P0323,2025-10-08,D050,Follow-up,Routine,6033.3,Walk-in
+A01868,P0210,2025-08-25,D014,Procedure,High,4726.12,Website
+A01869,P0103,2025-09-05,D016,Diagnostic Test,High,5614.77,Referral
+A01870,P0329,2025-01-25,D054,Diagnostic Test,High,3938.94,App
+A01871,P0372,2025-03-15,D043,Consultation,Routine,6650.21,Website
+A01872,P0133,2025-07-25,D042,Diagnostic Test,Routine,3384.36,Walk-in
+A01873,P0323,2025-11-10,D022,Consultation,Routine,5930.37,App
+A01874,P0139,2025-04-04,D068,Emergency Care,Routine,4829.32,Phone
+A01875,P0121,2025-05-07,D019,Procedure,Routine,10093.78,Walk-in
+A01876,P0094,2025-01-25,D066,Follow-up,Routine,7939.91,Phone
+A01877,P0129,2025-11-30,D039,Diagnostic Test,Routine,6318.29,App
+A01878,P0091,2025-12-21,D073,Procedure,High,3542.61,Phone
+A01879,P0092,2025-04-26,D019,Diagnostic Test,Routine,8737.17,Phone
+A01880,P0063,2025-02-17,D016,Consultation,Routine,4739.5,Phone
+A01881,P0029,2025-08-14,D054,Consultation,Routine,3822.4,Walk-in
+A01882,P0210,2025-09-23,D025,Follow-up,Routine,5018.37,App
+A01883,P0012,2025-04-09,D018,Procedure,Routine,9640.28,Walk-in
+A01884,P0333,2025-01-11,D023,Consultation,Routine,2539.14,Walk-in
+A01885,P0297,2025-03-26,D011,Consultation,Routine,3506.11,Walk-in
+A01886,P0130,2025-08-02,D039,Diagnostic Test,Routine,2896.03,Phone
+A01887,P0293,2025-06-22,D068,Procedure,Routine,3186.1,Website
+A01888,P0173,2025-07-28,D025,Consultation,Routine,2211.67,Website
+A01889,P0208,2025-03-05,D063,Consultation,Routine,1613.13,Walk-in
+A01890,P0024,2025-09-15,D030,Follow-up,Routine,5864.12,Website
+A01891,P0099,2025-11-28,D045,Diagnostic Test,High,3844.65,Website
+A01892,P0356,2025-05-01,D061,Consultation,Routine,1804.78,Phone
+A01893,P0139,2025-10-25,D051,Consultation,Routine,6407.28,Walk-in
+A01894,P0314,2025-02-23,D009,Follow-up,Urgent,4668.36,App
+A01895,P0174,2025-11-27,D076,Diagnostic Test,Routine,4735.07,Referral
+A01896,P0029,2025-09-29,D002,Emergency Care,Routine,2747.2,App
+A01897,P0143,2025-08-29,D005,Follow-up,Routine,3698.79,Phone
+A01898,P0316,2025-08-31,D062,Consultation,High,4949.73,Phone
+A01899,P0351,2025-01-18,D069,Diagnostic Test,Routine,3290.6,App
+A01900,P0042,2025-07-06,D052,Diagnostic Test,Routine,3069.98,Referral
+A01901,P0299,2025-12-12,D005,Consultation,Urgent,8502.51,Website
+A01902,P0208,2025-05-24,D059,Procedure,High,2229.79,App
+A01903,P0330,2025-09-19,D068,Procedure,Routine,7636.88,Walk-in
+A01904,P0192,2025-12-30,D009,Consultation,High,4429.87,Phone
+A01905,P0160,2025-08-27,D022,Consultation,Routine,3967.44,Referral
+A01906,P0064,2025-10-31,D027,Consultation,Routine,5321.43,Website
+A01907,P0243,2025-10-25,D010,Consultation,Routine,7849.42,App
+A01908,P0258,2025-03-17,D080,Diagnostic Test,Routine,4934.25,App
+A01909,P0152,2025-07-07,D061,Diagnostic Test,Routine,7136.28,Walk-in
+A01910,P0215,2025-11-29,D051,Emergency Care,High,4967.85,Phone
+A01911,P0322,2025-09-03,D010,Consultation,Routine,3284.84,Referral
+A01912,P0166,2025-05-10,D006,Diagnostic Test,Routine,4337.77,Walk-in
+A01913,P0031,2025-11-11,D062,Procedure,Routine,1476.46,Referral
+A01914,P0371,2025-10-10,D005,Diagnostic Test,High,7191.08,Referral
+A01915,P0232,2025-03-20,D070,Consultation,High,6428.97,Website
+A01916,P0282,2025-03-13,D063,Consultation,Routine,3700.92,App
+A01917,P0029,2025-09-20,D056,Consultation,Urgent,7193.94,App
+A01918,P0195,2025-07-10,D059,Emergency Care,Routine,7160.99,Website
+A01919,P0334,2025-03-04,D063,Procedure,Routine,2068.24,Phone
+A01920,P0256,2025-01-12,D059,Emergency Care,High,4749.87,App
+A01921,P0281,2025-05-21,D051,Procedure,Routine,2519.09,Website
+A01922,P0304,2025-09-11,D050,Consultation,Urgent,6217.25,Website
+A01923,P0321,2025-02-12,D004,Procedure,Routine,4840.34,App
+A01924,P0323,2025-01-17,D048,Emergency Care,Routine,3203.79,Website
+A01925,P0346,2025-03-04,D032,Consultation,High,6105.35,App
+A01926,P0393,2025-09-10,D051,Consultation,Routine,4192.35,Website
+A01927,P0294,2025-10-19,D052,Diagnostic Test,Routine,3869.86,App
+A01928,P0087,2025-01-08,D074,Consultation,Routine,4093.0,Walk-in
+A01929,P0149,2025-11-21,D034,Consultation,Routine,2881.85,App
+A01930,P0249,2025-03-31,D036,Emergency Care,Routine,5753.51,Walk-in
+A01931,P0321,2025-07-27,D070,Procedure,High,5646.08,Phone
+A01932,P0283,2025-10-19,D043,Consultation,High,4276.58,Website
+A01933,P0362,2025-10-11,D016,Diagnostic Test,Routine,2632.66,Phone
+A01934,P0379,2025-04-28,D059,Procedure,Routine,2471.22,Website
+A01935,P0198,2025-12-15,D053,Follow-up,Routine,3585.1,App
+A01936,P0044,2025-06-24,D019,Consultation,Routine,5074.59,Walk-in
+A01937,P0356,2025-03-17,D041,Follow-up,High,7785.25,Referral
+A01938,P0028,2025-04-11,D047,Procedure,Urgent,4683.12,Referral
+A01939,P0017,2025-05-31,D054,Procedure,Routine,4913.64,Phone
+A01940,P0127,2025-09-27,D055,Consultation,Routine,4626.51,Website
+A01941,P0379,2025-03-12,D019,Consultation,Routine,4660.88,Website
+A01942,P0168,2025-06-29,D062,Procedure,Routine,2681.36,Phone
+A01943,P0244,2025-05-04,D059,Consultation,Routine,8716.77,Walk-in
+A01944,P0387,2025-10-20,D065,Follow-up,Routine,2512.96,Website
+A01945,P0076,2025-10-12,D068,Consultation,Routine,6071.06,Referral
+A01946,P0231,2025-07-14,D028,Consultation,High,4790.03,Website
+A01947,P0204,2025-08-16,D018,Diagnostic Test,Routine,4261.67,Phone
+A01948,P0248,2025-10-02,D026,Consultation,High,3211.9,Referral
+A01949,P0302,2025-04-16,D019,Procedure,High,3535.48,Referral
+A01950,P0214,2025-01-21,D055,Consultation,Routine,14368.75,Phone
+A01951,P0215,2025-03-05,D057,Procedure,Routine,3018.77,Website
+A01952,P0158,2025-06-14,D006,Procedure,Routine,5604.61,App
+A01953,P0069,2025-01-27,D001,Consultation,Routine,5331.5,App
+A01954,P0393,2025-11-07,D008,Follow-up,High,4000.88,Walk-in
+A01955,P0085,2025-10-12,D051,Consultation,Routine,4745.59,Phone
+A01956,P0267,2025-05-28,D025,Follow-up,Routine,5697.57,Phone
+A01957,P0069,2025-10-08,D047,Diagnostic Test,Routine,6506.18,Website
+A01958,P0099,2025-11-22,D055,Consultation,High,3892.54,Website
+A01959,P0347,2025-11-15,D064,Diagnostic Test,Routine,5765.27,Phone
+A01960,P0216,2025-06-13,D010,Follow-up,Routine,4105.23,Referral
+A01961,P0161,2025-08-12,D056,Procedure,Routine,2563.76,App
+A01962,P0094,2025-09-29,D012,Consultation,High,3706.59,Walk-in
+A01963,P0174,2025-05-26,D033,Diagnostic Test,Routine,4466.61,Website
+A01964,P0165,2025-12-22,D071,Consultation,Routine,6704.0,Walk-in
+A01965,P0115,2025-01-30,D017,Procedure,Routine,4020.21,Referral
+A01966,P0220,2025-02-14,D061,Consultation,Routine,4691.08,Website
+A01967,P0031,2025-10-02,D010,Follow-up,Routine,5238.92,App
+A01968,P0011,2025-02-03,D031,Consultation,Routine,4608.71,App
+A01969,P0343,2025-05-21,D060,Diagnostic Test,Routine,2986.25,App
+A01970,P0377,2025-11-14,D070,Procedure,Routine,7394.19,Walk-in
+A01971,P0130,2025-08-09,D017,Follow-up,Routine,7237.81,App
+A01972,P0105,2025-12-22,D050,Follow-up,Routine,4519.86,App
+A01973,P0027,2025-01-22,D037,Diagnostic Test,Routine,2971.75,Phone
+A01974,P0227,2025-06-29,D062,Procedure,Routine,2440.14,Phone
+A01975,P0002,2025-11-25,D080,Diagnostic Test,High,3879.3,Website
+A01976,P0359,2025-08-19,D072,Procedure,Routine,4322.96,Phone
+A01977,P0101,2025-02-07,D077,Diagnostic Test,Routine,5870.98,Walk-in
+A01978,P0021,2025-03-11,D029,Diagnostic Test,Routine,6360.23,App
+A01979,P0058,2025-04-26,D032,Consultation,Routine,6676.4,Phone
+A01980,P0389,2025-08-27,D080,Diagnostic Test,Routine,3955.37,Walk-in
+A01981,P0180,2025-12-01,D011,Consultation,Routine,3867.55,Website
+A01982,P0341,2025-05-28,D006,Procedure,Urgent,5279.65,Walk-in
+A01983,P0349,2025-01-09,D035,Follow-up,High,3003.97,Walk-in
+A01984,P0020,2025-10-15,D033,Emergency Care,High,6359.32,Walk-in
+A01985,P0255,2025-02-19,D018,Consultation,Urgent,4745.38,Phone
+A01986,P0317,2025-12-04,D037,Consultation,Urgent,5325.79,Walk-in
+A01987,P0038,2025-01-05,D013,Procedure,High,1597.75,Walk-in
+A01988,P0148,2025-12-09,D074,Consultation,Routine,2230.14,Walk-in
+A01989,P0025,2025-05-06,D064,Diagnostic Test,Routine,2674.48,Website
+A01990,P0386,2025-03-16,D001,Procedure,Routine,1543.38,App
+A01991,P0121,2025-06-14,D063,Diagnostic Test,Routine,3756.35,Website
+A01992,P0026,2025-10-05,D034,Consultation,Routine,3839.87,App
+A01993,P0169,2025-11-20,D010,Procedure,Urgent,3250.19,Website
+A01994,P0323,2025-10-27,D007,Consultation,Routine,7719.21,Website
+A01995,P0225,2025-10-17,D056,Procedure,Routine,8283.75,Referral
+A01996,P0001,2025-03-18,D080,Consultation,Routine,3830.03,Referral
+A01997,P0307,2025-10-25,D037,Follow-up,Routine,4366.3,Walk-in
+A01998,P0261,2025-05-17,D029,Consultation,Routine,5259.17,Referral
+A01999,P0013,2025-04-16,D012,Follow-up,Routine,10986.43,Referral
+A02000,P0396,2025-04-05,D017,Consultation,Routine,7691.87,Referral
+A02001,P0048,2025-05-15,D048,Procedure,Routine,6513.6,App
+A02002,P0313,2025-03-09,D026,Diagnostic Test,Routine,4027.39,Website
+A02003,P0371,2025-05-27,D012,Consultation,Routine,2598.45,Phone
+A02004,P0291,2025-06-08,D021,Follow-up,Routine,3975.46,App
+A02005,P0332,2025-06-12,D042,Diagnostic Test,Routine,3023.62,Walk-in
+A02006,P0094,2025-12-07,D061,Consultation,Routine,3786.69,App
+A02007,P0261,2025-07-08,D058,Consultation,Routine,2223.49,Website
+A02008,P0278,2025-12-05,D054,Diagnostic Test,Routine,5913.44,App
+A02009,P0359,2025-04-05,D034,Consultation,Routine,5416.95,Phone
+A02010,P0205,2025-06-30,D007,Consultation,Routine,3248.77,Phone
+A02011,P0185,2025-10-15,D035,Consultation,Routine,8456.84,Walk-in
+A02012,P0175,2025-11-18,D015,Follow-up,High,2271.79,Website
+A02013,P0387,2025-07-06,D065,Diagnostic Test,Routine,1976.68,Phone
+A02014,P0380,2025-05-18,D025,Consultation,Routine,4220.11,Walk-in
+A02015,P0309,2025-05-10,D059,Emergency Care,Routine,3892.08,Walk-in
+A02016,P0069,2025-07-13,D079,Procedure,Routine,5332.42,Website
+A02017,P0104,2025-11-12,D006,Consultation,Routine,7089.34,App
+A02018,P0246,2025-09-30,D052,Consultation,High,7415.48,App
+A02019,P0161,2025-12-18,D079,Emergency Care,High,4172.78,Walk-in
+A02020,P0200,2025-05-24,D021,Diagnostic Test,Routine,3992.62,Website
+A02021,P0216,2025-01-16,D071,Consultation,Urgent,5805.0,App
+A02022,P0212,2025-10-29,D032,Diagnostic Test,Routine,3018.79,App
+A02023,P0016,2025-09-02,D053,Follow-up,Routine,3012.26,Walk-in
+A02024,P0372,2025-04-17,D059,Consultation,Routine,6368.6,Phone
+A02025,P0332,2025-03-29,D069,Follow-up,Routine,1985.99,Phone
+A02026,P0205,2025-05-09,D062,Follow-up,Routine,5054.27,Phone
+A02027,P0365,2025-12-07,D004,Diagnostic Test,Routine,3753.78,App
+A02028,P0039,2025-01-04,D018,Procedure,Routine,3634.48,Website
+A02029,P0089,2025-11-23,D056,Consultation,Routine,4854.17,Website
+A02030,P0256,2025-11-02,D024,Diagnostic Test,Routine,5495.76,Website
+A02031,P0254,2025-04-05,D066,Diagnostic Test,Routine,2514.5,Walk-in
+A02032,P0216,2025-07-28,D013,Diagnostic Test,Routine,4331.92,Phone
+A02033,P0368,2025-08-13,D062,Consultation,Routine,5840.0,Walk-in
+A02034,P0303,2025-12-14,D054,Consultation,Routine,4692.22,App
+A02035,P0172,2025-11-17,D015,Consultation,High,6354.35,App
+A02036,P0137,2025-02-16,D069,Consultation,Routine,4426.98,App
+A02037,P0384,2025-06-30,D003,Consultation,High,4201.26,Phone
+A02038,P0178,2025-04-16,D037,Follow-up,Routine,2528.76,Website
+A02039,P0077,2025-07-18,D037,Consultation,Routine,11437.98,Website
+A02040,P0188,2025-04-16,D003,Follow-up,High,5116.35,Walk-in
+A02041,P0015,2025-10-07,D063,Consultation,Routine,4741.75,Referral
+A02042,P0292,2025-09-17,D035,Consultation,Routine,6221.83,App
+A02043,P0319,2025-04-18,D052,Consultation,Routine,4496.99,App
+A02044,P0325,2025-01-19,D028,Consultation,Routine,4534.46,App
+A02045,P0214,2025-10-23,D018,Diagnostic Test,Routine,2369.19,Walk-in
+A02046,P0208,2025-11-02,D036,Consultation,Routine,3068.44,App
+A02047,P0169,2025-06-20,D033,Emergency Care,High,2634.97,Phone
+A02048,P0330,2025-11-27,D064,Emergency Care,Routine,2725.07,Phone
+A02049,P0280,2025-07-14,D026,Diagnostic Test,Routine,6993.7,App
+A02050,P0305,2025-01-12,D048,Procedure,High,1760.34,App
+A02051,P0146,2025-07-14,D040,Consultation,Routine,3940.68,Website
+A02052,P0263,2025-10-10,D017,Diagnostic Test,Routine,7644.62,App
+A02053,P0004,2025-07-01,D040,Follow-up,Routine,2128.87,App
+A02054,P0090,2025-11-01,D007,Consultation,Routine,7649.89,Phone
+A02055,P0060,2025-05-24,D057,Consultation,Routine,2990.27,Phone
+A02056,P0311,2025-11-12,D008,Consultation,Routine,7982.07,App
+A02057,P0016,2025-07-01,D056,Diagnostic Test,Routine,7495.21,Phone
+A02058,P0227,2025-01-30,D031,Diagnostic Test,Urgent,3473.56,App
+A02059,P0029,2025-03-25,D059,Consultation,High,2249.86,Phone
+A02060,P0151,2025-06-15,D058,Diagnostic Test,Routine,5567.81,Walk-in
+A02061,P0245,2025-10-11,D012,Diagnostic Test,High,2817.37,Walk-in
+A02062,P0270,2025-10-08,D048,Follow-up,Routine,3354.03,Website
+A02063,P0079,2025-04-06,D031,Consultation,Routine,2860.45,Phone
+A02064,P0289,2025-09-23,D063,Follow-up,Routine,2538.42,Walk-in
+A02065,P0153,2025-10-25,D074,Follow-up,Routine,2780.51,App
+A02066,P0277,2025-10-23,D039,Follow-up,High,3265.65,Phone
+A02067,P0279,2025-08-13,D076,Follow-up,Routine,5541.53,Walk-in
+A02068,P0057,2025-11-29,D020,Diagnostic Test,Routine,6526.95,Website
+A02069,P0186,2025-12-27,D048,Consultation,Routine,4383.36,Website
+A02070,P0398,2025-02-11,D071,Diagnostic Test,Routine,4152.83,Phone
+A02071,P0093,2025-10-30,D054,Emergency Care,Routine,4213.03,App
+A02072,P0276,2025-09-03,D078,Diagnostic Test,Routine,5623.0,Website
+A02073,P0158,2025-07-27,D075,Consultation,Urgent,2520.48,App
+A02074,P0275,2025-08-25,D071,Consultation,Routine,6385.47,App
+A02075,P0181,2025-01-22,D029,Emergency Care,Routine,6940.8,App
+A02076,P0359,2025-07-04,D074,Consultation,Routine,2519.48,Website
+A02077,P0077,2025-08-30,D073,Consultation,High,5294.68,App
+A02078,P0151,2025-12-29,D048,Consultation,Routine,2558.08,Phone
+A02079,P0238,2025-10-10,D074,Emergency Care,Routine,5028.53,Website
+A02080,P0289,2025-02-10,D056,Consultation,High,11248.8,App
+A02081,P0231,2025-12-02,D017,Diagnostic Test,Routine,2310.67,App
+A02082,P0018,2025-06-11,D009,Follow-up,Routine,1432.1,App
+A02083,P0073,2025-06-09,D034,Consultation,Routine,9510.59,Website
+A02084,P0189,2025-03-30,D045,Procedure,Routine,3847.69,App
+A02085,P0017,2025-11-18,D009,Diagnostic Test,Routine,3774.88,Phone
+A02086,P0019,2025-01-12,D007,Diagnostic Test,Routine,6364.42,Website
+A02087,P0219,2025-03-14,D016,Procedure,Routine,4078.26,Website
+A02088,P0326,2025-03-17,D019,Emergency Care,Routine,2096.79,Walk-in
+A02089,P0120,2025-12-12,D006,Diagnostic Test,Urgent,3551.77,Website
+A02090,P0101,2025-07-20,D011,Consultation,Routine,3350.82,Phone
+A02091,P0034,2025-01-10,D076,Procedure,High,3663.73,Walk-in
+A02092,P0084,2025-12-18,D061,Diagnostic Test,Routine,1148.0,App
+A02093,P0196,2025-08-14,D042,Emergency Care,Routine,3869.7,Referral
+A02094,P0330,2025-06-25,D013,Emergency Care,Routine,2656.61,Referral
+A02095,P0202,2025-10-03,D012,Consultation,Routine,3370.15,App
+A02096,P0344,2025-02-08,D074,Emergency Care,Routine,3997.47,Referral
+A02097,P0341,2025-03-01,D020,Consultation,Routine,1715.07,Walk-in
+A02098,P0011,2025-03-07,D050,Follow-up,Routine,4375.63,Referral
+A02099,P0347,2025-11-17,D036,Consultation,Routine,1823.43,Phone
+A02100,P0400,2025-05-04,D069,Procedure,Urgent,3028.74,Phone
+A02101,P0218,2025-06-13,D037,Follow-up,Routine,3066.55,App
+A02102,P0253,2025-06-08,D012,Follow-up,Routine,1739.07,Website
+A02103,P0222,2025-02-26,D040,Procedure,Routine,4008.16,App
+A02104,P0383,2025-03-19,D054,Diagnostic Test,Routine,5801.1,Website
+A02105,P0369,2025-07-13,D002,Diagnostic Test,High,5038.01,Referral
+A02106,P0080,2025-10-12,D050,Procedure,Routine,4027.57,App
+A02107,P0007,2025-01-15,D041,Follow-up,Routine,5818.22,Walk-in
+A02108,P0272,2025-01-12,D045,Emergency Care,Routine,5074.64,App
+A02109,P0227,2025-04-11,D009,Emergency Care,High,2372.61,App
+A02110,P0016,2025-06-05,D062,Consultation,Routine,5174.33,Phone
+A02111,P0012,2025-12-06,D047,Diagnostic Test,Routine,9710.69,App
+A02112,P0291,2025-05-05,D005,Consultation,Routine,6195.49,Referral
+A02113,P0241,2025-12-25,D076,Follow-up,Routine,3453.45,App
+A02114,P0021,2025-10-07,D001,Consultation,Routine,5524.22,App
+A02115,P0178,2025-04-20,D044,Procedure,High,8774.69,App
+A02116,P0228,2025-11-30,D022,Consultation,High,7412.09,Website
+A02117,P0273,2025-12-23,D038,Consultation,Routine,2601.47,App
+A02118,P0288,2025-05-26,D019,Consultation,Routine,5465.85,Website
+A02119,P0297,2025-08-04,D080,Consultation,Routine,4593.06,Phone
+A02120,P0134,2025-06-11,D031,Follow-up,Routine,8681.23,App
+A02121,P0283,2025-05-08,D067,Consultation,Routine,6809.69,App
+A02122,P0153,2025-11-10,D042,Consultation,Routine,3700.33,Walk-in
+A02123,P0066,2025-11-28,D026,Consultation,Urgent,3478.84,Website
+A02124,P0137,2025-05-30,D013,Procedure,Routine,9045.14,Website
+A02125,P0092,2025-02-05,D058,Procedure,Urgent,3238.33,Phone
+A02126,P0317,2025-06-22,D018,Consultation,Routine,2433.68,Walk-in
+A02127,P0259,2025-01-22,D067,Follow-up,Routine,6676.41,Walk-in
+A02128,P0103,2025-07-25,D003,Diagnostic Test,Routine,4371.29,Walk-in
+A02129,P0055,2025-05-07,D055,Consultation,High,5560.05,App
+A02130,P0257,2025-12-02,D058,Follow-up,Routine,4871.13,App
+A02131,P0101,2025-12-22,D063,Consultation,High,5684.07,Website
+A02132,P0198,2025-08-05,D052,Follow-up,High,3737.12,Walk-in
+A02133,P0301,2025-04-06,D024,Consultation,Routine,4382.37,App
+A02134,P0226,2025-06-13,D072,Emergency Care,Routine,4248.9,Phone
+A02135,P0237,2025-05-28,D009,Consultation,Routine,3480.91,Walk-in
+A02136,P0026,2025-01-18,D037,Diagnostic Test,Routine,7119.84,Website
+A02137,P0121,2025-10-21,D053,Procedure,Routine,3281.81,App
+A02138,P0398,2025-07-14,D080,Consultation,Routine,3313.27,Website
+A02139,P0182,2025-05-31,D024,Diagnostic Test,High,4218.67,App
+A02140,P0199,2025-12-31,D021,Consultation,Routine,5470.2,App
+A02141,P0302,2025-05-03,D040,Diagnostic Test,Urgent,3736.47,App
+A02142,P0255,2025-07-06,D062,Consultation,Routine,3857.77,Walk-in
+A02143,P0122,2025-05-29,D070,Consultation,Routine,8114.88,Referral
+A02144,P0031,2025-04-14,D069,Follow-up,Routine,8866.68,Phone
+A02145,P0315,2025-08-31,D014,Diagnostic Test,Routine,6386.59,Phone
+A02146,P0285,2025-08-19,D042,Follow-up,High,4139.43,Website
+A02147,P0106,2025-07-25,D050,Consultation,High,3345.67,App
+A02148,P0224,2025-07-17,D061,Consultation,High,5211.98,App
+A02149,P0273,2025-12-03,D004,Diagnostic Test,Urgent,2249.07,Website
+A02150,P0398,2025-03-28,D072,Diagnostic Test,Routine,1514.02,Walk-in
+A02151,P0232,2025-05-22,D075,Consultation,Routine,3578.6,Referral
+A02152,P0256,2025-11-13,D017,Consultation,Routine,3486.89,Website
+A02153,P0024,2025-07-18,D057,Consultation,High,5888.91,Website
+A02154,P0109,2025-02-15,D048,Consultation,Routine,4459.87,Website
+A02155,P0191,2025-10-15,D044,Consultation,Urgent,4512.39,Website
+A02156,P0347,2025-01-15,D045,Consultation,Routine,2509.23,Phone
+A02157,P0025,2025-02-13,D080,Follow-up,Urgent,3545.34,Walk-in
+A02158,P0187,2025-06-18,D033,Diagnostic Test,Routine,6569.22,Walk-in
+A02159,P0288,2025-11-06,D031,Consultation,Routine,4765.24,Phone
+A02160,P0116,2025-02-13,D047,Consultation,High,3809.79,Website
+A02161,P0338,2025-04-08,D006,Consultation,High,4078.83,Referral
+A02162,P0366,2025-09-18,D072,Diagnostic Test,Routine,4145.88,Walk-in
+A02163,P0037,2025-04-19,D071,Procedure,Urgent,5149.83,Website
+A02164,P0282,2025-10-10,D034,Follow-up,High,11333.5,Website
+A02165,P0137,2025-12-09,D053,Follow-up,Routine,2049.41,Walk-in
+A02166,P0227,2025-04-14,D014,Procedure,Routine,2762.86,Website
+A02167,P0320,2025-09-13,D016,Consultation,Routine,4055.09,Phone
+A02168,P0328,2025-07-25,D043,Consultation,Routine,3765.38,App
+A02169,P0182,2025-12-01,D073,Follow-up,Routine,4535.91,Walk-in
+A02170,P0362,2025-02-12,D074,Consultation,Routine,2977.05,Phone
+A02171,P0086,2025-12-19,D012,Diagnostic Test,Routine,5401.48,Phone
+A02172,P0053,2025-09-02,D070,Follow-up,Routine,2678.39,Referral
+A02173,P0348,2025-10-14,D019,Procedure,Routine,4177.53,Referral
+A02174,P0355,2025-12-21,D041,Consultation,Routine,6140.32,Walk-in
+A02175,P0235,2025-09-30,D053,Diagnostic Test,Routine,7317.48,App
+A02176,P0267,2025-03-24,D029,Follow-up,Routine,3822.62,Website
+A02177,P0287,2025-04-20,D070,Procedure,Routine,6354.46,Website
+A02178,P0100,2025-07-09,D059,Follow-up,Urgent,3417.35,App
+A02179,P0087,2025-10-15,D064,Emergency Care,Routine,4610.11,Referral
+A02180,P0396,2025-09-08,D024,Consultation,Routine,2889.33,Referral
+A02181,P0015,2025-07-31,D016,Diagnostic Test,Routine,3991.23,Website
+A02182,P0101,2025-10-18,D052,Consultation,Routine,4117.72,App
+A02183,P0165,2025-05-13,D080,Consultation,Routine,6110.11,App
+A02184,P0029,2025-07-20,D006,Procedure,Routine,3222.79,Website
+A02185,P0114,2025-10-12,D037,Emergency Care,Routine,3212.15,App
+A02186,P0107,2025-11-22,D004,Consultation,Urgent,5355.76,Phone
+A02187,P0364,2025-04-05,D038,Consultation,Routine,5123.12,Phone
+A02188,P0130,2025-10-05,D041,Consultation,High,5686.85,Referral
+A02189,P0084,2025-11-21,D014,Procedure,High,2933.77,App
+A02190,P0271,2025-08-07,D071,Consultation,Routine,2003.77,Website
+A02191,P0244,2025-03-30,D051,Consultation,Routine,5281.12,Walk-in
+A02192,P0388,2025-03-13,D065,Consultation,Routine,2315.97,Website
+A02193,P0214,2025-09-04,D052,Diagnostic Test,Routine,2838.32,App
+A02194,P0306,2025-05-09,D030,Emergency Care,High,3968.67,App
+A02195,P0166,2025-07-31,D057,Consultation,Routine,2564.36,Walk-in
+A02196,P0279,2025-12-09,D079,Diagnostic Test,Routine,4221.65,Walk-in
+A02197,P0059,2025-04-06,D030,Consultation,High,3992.9,Walk-in
+A02198,P0090,2025-03-16,D042,Diagnostic Test,Urgent,3073.59,App
+A02199,P0371,2025-02-23,D011,Follow-up,Routine,6820.87,Walk-in
+A02200,P0331,2025-12-10,D027,Consultation,High,1831.75,Phone
+A02201,P0194,2025-02-23,D024,Consultation,Routine,3002.0,App
+A02202,P0123,2025-08-06,D039,Procedure,Routine,5342.7,Referral
+A02203,P0136,2025-01-16,D072,Consultation,Routine,3834.1,Phone
+A02204,P0139,2025-04-09,D018,Follow-up,Routine,3405.95,Referral
+A02205,P0229,2025-01-20,D077,Consultation,Routine,4562.98,Walk-in
+A02206,P0274,2025-02-15,D045,Consultation,Routine,3686.95,Website
+A02207,P0050,2025-07-12,D012,Follow-up,Routine,5612.71,Phone
+A02208,P0398,2025-02-27,D049,Procedure,Routine,5859.36,Website
+A02209,P0118,2025-04-21,D031,Diagnostic Test,Routine,7441.01,Walk-in
+A02210,P0202,2025-05-09,D022,Consultation,High,5982.46,Phone
+A02211,P0393,2025-12-03,D044,Diagnostic Test,Routine,2622.71,Walk-in
+A02212,P0395,2025-07-13,D064,Diagnostic Test,Routine,5760.65,App
+A02213,P0191,2025-12-06,D077,Diagnostic Test,High,3437.59,Phone
+A02214,P0364,2025-11-22,D025,Follow-up,High,4772.25,Website
+A02215,P0323,2025-01-08,D051,Consultation,Routine,5183.13,App
+A02216,P0181,2025-01-29,D007,Diagnostic Test,Routine,3161.66,Walk-in
+A02217,P0078,2025-04-22,D006,Diagnostic Test,Urgent,3907.24,App
+A02218,P0075,2025-06-10,D024,Consultation,High,3712.93,App
+A02219,P0295,2025-05-11,D019,Follow-up,Routine,3488.3,App
+A02220,P0281,2025-07-07,D009,Consultation,Routine,5739.82,Website
+A02221,P0021,2025-06-12,D036,Consultation,Routine,1902.56,Website
+A02222,P0394,2025-07-16,D040,Emergency Care,Routine,2923.17,Walk-in
+A02223,P0171,2025-12-30,D024,Consultation,Routine,6022.45,Phone
+A02224,P0015,2025-07-23,D048,Consultation,Routine,4281.72,Website
+A02225,P0211,2025-07-31,D063,Diagnostic Test,Routine,4075.34,Website
+A02226,P0048,2025-04-19,D069,Emergency Care,High,7283.95,App
+A02227,P0086,2025-10-03,D053,Emergency Care,Routine,4542.86,Phone
+A02228,P0149,2025-03-14,D054,Diagnostic Test,Routine,3893.26,Website
+A02229,P0188,2025-06-16,D042,Consultation,Urgent,5912.73,App
+A02230,P0372,2025-09-17,D045,Procedure,Routine,5704.01,App
+A02231,P0306,2025-08-31,D014,Diagnostic Test,Routine,7013.87,Website
+A02232,P0151,2025-10-02,D029,Consultation,High,5827.15,Walk-in
+A02233,P0141,2025-04-12,D006,Procedure,Routine,2977.3,App
+A02234,P0069,2025-06-22,D007,Consultation,High,7463.18,App
+A02235,P0260,2025-06-20,D037,Consultation,Routine,2903.99,App
+A02236,P0334,2025-05-21,D053,Procedure,Routine,9477.54,Referral
+A02237,P0009,2025-07-07,D018,Diagnostic Test,High,6096.93,Walk-in
+A02238,P0121,2025-03-27,D038,Consultation,Routine,6868.22,App
+A02239,P0371,2025-02-21,D059,Consultation,Routine,2694.71,App
+A02240,P0101,2025-04-21,D001,Diagnostic Test,Routine,5939.1,Walk-in
+A02241,P0149,2025-12-31,D068,Consultation,Routine,2688.85,App
+A02242,P0146,2025-12-08,D044,Consultation,High,3874.57,Referral
+A02243,P0353,2025-02-12,D047,Follow-up,Routine,1639.33,App
+A02244,P0243,2025-07-30,D035,Procedure,Routine,3004.05,App
+A02245,P0241,2025-07-19,D060,Diagnostic Test,Routine,2294.49,Phone
+A02246,P0337,2025-10-25,D052,Follow-up,Routine,3655.01,Phone
+A02247,P0043,2025-12-12,D008,Follow-up,High,4731.85,Referral
+A02248,P0095,2025-08-28,D080,Follow-up,High,4350.69,Walk-in
+A02249,P0226,2025-04-25,D041,Consultation,Routine,10678.41,Website
+A02250,P0006,2025-01-26,D003,Procedure,Routine,5094.36,Phone
+A02251,P0214,2025-10-26,D069,Diagnostic Test,Routine,5371.42,Walk-in
+A02252,P0206,2025-03-18,D014,Consultation,Routine,5217.17,Phone
+A02253,P0067,2025-05-17,D026,Consultation,High,3475.94,App
+A02254,P0396,2025-01-20,D070,Follow-up,Routine,3300.41,App
+A02255,P0100,2025-07-30,D058,Consultation,Routine,4294.95,App
+A02256,P0012,2025-08-28,D040,Consultation,Urgent,4443.74,Walk-in
+A02257,P0237,2025-02-08,D051,Follow-up,Routine,4046.57,Website
+A02258,P0322,2025-09-25,D005,Procedure,Routine,6451.32,App
+A02259,P0258,2025-07-26,D077,Follow-up,Routine,5730.52,Walk-in
+A02260,P0399,2025-09-24,D032,Consultation,High,4802.56,App
+A02261,P0337,2025-06-03,D080,Consultation,Routine,3492.64,Phone
+A02262,P0135,2025-02-11,D001,Follow-up,Routine,2772.9,Walk-in
+A02263,P0222,2025-01-11,D077,Consultation,Urgent,5381.48,Website
+A02264,P0156,2025-10-21,D054,Follow-up,Routine,4536.21,App
+A02265,P0142,2025-04-08,D011,Consultation,High,5375.23,Website
+A02266,P0158,2025-10-02,D053,Procedure,Routine,6607.3,Walk-in
+A02267,P0326,2025-08-18,D008,Diagnostic Test,Routine,2530.82,Phone
+A02268,P0371,2025-08-08,D025,Consultation,Routine,5745.62,App
+A02269,P0344,2025-03-06,D040,Procedure,Routine,2460.38,App
+A02270,P0262,2025-12-21,D032,Consultation,Routine,6016.64,Walk-in
+A02271,P0283,2025-08-20,D028,Consultation,Routine,4427.48,Website
+A02272,P0338,2025-11-24,D078,Procedure,Routine,4771.86,Walk-in
+A02273,P0344,2025-02-21,D003,Consultation,Routine,6467.3,Phone
+A02274,P0229,2025-09-20,D079,Diagnostic Test,High,2388.47,Phone
+A02275,P0376,2025-09-24,D062,Consultation,Routine,1570.15,Referral
+A02276,P0280,2025-12-25,D027,Consultation,Routine,7086.06,App
+A02277,P0358,2025-11-13,D045,Consultation,Routine,7864.74,App
+A02278,P0290,2025-11-20,D025,Follow-up,Routine,5740.28,Phone
+A02279,P0168,2025-06-03,D061,Follow-up,Routine,4749.55,App
+A02280,P0047,2025-12-24,D044,Consultation,Routine,3397.99,Phone
+A02281,P0203,2025-05-20,D046,Consultation,High,4968.24,Referral
+A02282,P0214,2025-02-20,D014,Emergency Care,High,4200.54,Walk-in
+A02283,P0246,2025-04-27,D008,Emergency Care,Routine,6598.55,Phone
+A02284,P0024,2025-02-15,D048,Diagnostic Test,High,4115.64,Referral
+A02285,P0321,2025-11-05,D014,Procedure,Routine,5148.11,App
+A02286,P0274,2025-03-29,D065,Follow-up,High,1760.71,Website
+A02287,P0044,2025-07-27,D080,Consultation,Routine,4938.37,Website
+A02288,P0332,2025-09-26,D007,Consultation,Routine,8778.66,Website
+A02289,P0313,2025-03-30,D079,Consultation,High,3690.5,App
+A02290,P0363,2025-04-28,D049,Procedure,Routine,2304.52,Referral
+A02291,P0156,2025-02-23,D055,Follow-up,Routine,4628.47,Walk-in
+A02292,P0380,2025-04-26,D013,Follow-up,Urgent,6554.38,Phone
+A02293,P0199,2025-04-28,D073,Consultation,Routine,5744.27,App
+A02294,P0162,2025-09-17,D056,Follow-up,Routine,10298.59,Website
+A02295,P0395,2025-03-16,D056,Follow-up,Routine,4671.08,Referral
+A02296,P0234,2025-11-01,D015,Procedure,High,6878.89,Phone
+A02297,P0163,2025-01-07,D057,Consultation,Urgent,3312.42,Phone
+A02298,P0116,2025-05-02,D058,Follow-up,Routine,1916.13,Referral
+A02299,P0093,2025-01-11,D035,Consultation,High,3065.73,Phone
+A02300,P0042,2025-12-14,D016,Follow-up,High,3475.27,Phone
+A02301,P0284,2025-08-03,D008,Follow-up,Routine,4089.9,Website
+A02302,P0379,2025-10-06,D045,Consultation,High,6407.15,Website
+A02303,P0210,2025-01-28,D040,Follow-up,Routine,3717.27,Phone
+A02304,P0206,2025-08-23,D054,Consultation,Routine,5406.21,Website
+A02305,P0220,2025-11-09,D014,Procedure,Routine,4863.69,Phone
+A02306,P0280,2025-01-26,D059,Consultation,Routine,4842.0,App
+A02307,P0136,2025-02-23,D053,Follow-up,High,5378.17,App
+A02308,P0106,2025-01-29,D027,Procedure,Routine,5123.51,Website
+A02309,P0118,2025-12-19,D047,Consultation,High,2767.1,App
+A02310,P0237,2025-06-13,D080,Diagnostic Test,High,3848.93,Referral
+A02311,P0309,2025-09-27,D006,Diagnostic Test,High,2669.1,Website
+A02312,P0388,2025-11-30,D055,Consultation,Routine,3938.06,Phone
+A02313,P0100,2025-02-04,D044,Diagnostic Test,Routine,4045.96,App
+A02314,P0261,2025-10-13,D018,Follow-up,Routine,5591.02,App
+A02315,P0305,2025-12-14,D016,Procedure,High,5265.43,Website
+A02316,P0354,2025-09-30,D012,Procedure,Routine,6743.33,Referral
+A02317,P0286,2025-07-27,D020,Diagnostic Test,Urgent,1360.01,Website
+A02318,P0328,2025-08-26,D045,Follow-up,High,4920.28,Walk-in
+A02319,P0103,2025-04-03,D064,Procedure,Routine,6144.52,App
+A02320,P0063,2025-06-22,D059,Diagnostic Test,Routine,4836.15,App
+A02321,P0175,2025-03-20,D022,Consultation,Routine,1937.52,Walk-in
+A02322,P0282,2025-04-20,D047,Diagnostic Test,High,6482.84,Phone
+A02323,P0293,2025-08-05,D029,Procedure,Routine,6107.32,Phone
+A02324,P0226,2025-12-24,D045,Diagnostic Test,High,3205.33,App
+A02325,P0007,2025-04-16,D077,Follow-up,Routine,2685.72,App
+A02326,P0127,2025-02-16,D009,Consultation,High,4136.2,Website
+A02327,P0092,2025-06-30,D024,Emergency Care,High,7097.95,Walk-in
+A02328,P0190,2025-03-05,D015,Diagnostic Test,Routine,8522.3,App
+A02329,P0359,2025-09-03,D036,Follow-up,Routine,7484.78,Referral
+A02330,P0053,2025-09-01,D013,Consultation,High,3772.55,App
+A02331,P0242,2025-11-16,D044,Consultation,Routine,3420.59,Phone
+A02332,P0132,2025-03-28,D071,Procedure,Routine,5389.66,App
+A02333,P0364,2025-08-05,D072,Emergency Care,Routine,5525.3,Website
+A02334,P0112,2025-01-07,D078,Consultation,Routine,6529.77,App
+A02335,P0007,2025-10-05,D076,Consultation,Routine,5981.94,App
+A02336,P0230,2025-12-03,D036,Consultation,High,2663.32,Referral
+A02337,P0156,2025-07-29,D061,Consultation,Routine,2734.63,Walk-in
+A02338,P0197,2025-06-18,D040,Consultation,Routine,2946.71,Walk-in
+A02339,P0323,2025-11-26,D027,Follow-up,Urgent,5006.86,App
+A02340,P0364,2025-05-18,D001,Emergency Care,Routine,6311.79,Referral
+A02341,P0223,2025-11-02,D034,Consultation,Routine,6323.12,Website
+A02342,P0367,2025-08-18,D068,Diagnostic Test,High,4299.33,Walk-in
+A02343,P0250,2025-11-04,D021,Consultation,High,1334.24,App
+A02344,P0083,2025-06-10,D033,Consultation,Routine,4625.72,App
+A02345,P0240,2025-01-01,D007,Consultation,Urgent,5107.66,Referral
+A02346,P0380,2025-08-24,D065,Diagnostic Test,Urgent,5458.68,Website
+A02347,P0395,2025-07-07,D003,Consultation,Routine,2438.21,Referral
+A02348,P0360,2025-01-04,D051,Diagnostic Test,Routine,9103.68,Website
+A02349,P0323,2025-05-12,D079,Consultation,High,2357.91,Phone
+A02350,P0263,2025-08-06,D054,Consultation,Routine,4223.7,Walk-in
+A02351,P0189,2025-09-17,D080,Consultation,Routine,2848.61,Phone
+A02352,P0366,2025-01-01,D074,Procedure,High,2559.13,Walk-in
+A02353,P0290,2025-03-12,D059,Follow-up,Routine,6417.9,App
+A02354,P0362,2025-06-27,D006,Procedure,Routine,7310.62,App
+A02355,P0058,2025-07-08,D029,Consultation,Routine,6911.79,App
+A02356,P0009,2025-10-18,D017,Consultation,Routine,3537.17,Website
+A02357,P0304,2025-01-08,D060,Consultation,Routine,3847.25,Walk-in
+A02358,P0115,2025-09-10,D022,Consultation,Routine,4874.66,Website
+A02359,P0210,2025-10-19,D024,Follow-up,Routine,4843.79,Phone
+A02360,P0041,2025-09-01,D051,Consultation,Routine,3231.23,Walk-in
+A02361,P0304,2025-05-03,D050,Consultation,Urgent,2131.21,App
+A02362,P0173,2025-10-26,D011,Diagnostic Test,Urgent,8472.49,Referral
+A02363,P0234,2025-10-10,D056,Diagnostic Test,Routine,4266.66,Referral
+A02364,P0281,2025-02-01,D071,Emergency Care,High,4983.87,App
+A02365,P0372,2025-11-30,D042,Consultation,High,7579.57,App
+A02366,P0078,2025-05-26,D039,Follow-up,High,2614.07,App
+A02367,P0108,2025-06-05,D069,Consultation,Routine,3467.65,Walk-in
+A02368,P0281,2025-01-16,D048,Emergency Care,Routine,1683.08,App
+A02369,P0039,2025-12-21,D057,Diagnostic Test,High,4404.37,Walk-in
+A02370,P0119,2025-02-16,D021,Follow-up,Routine,3252.89,Website
+A02371,P0335,2025-09-08,D020,Consultation,Routine,3176.78,Walk-in
+A02372,P0336,2025-07-06,D015,Follow-up,Routine,3998.27,Walk-in
+A02373,P0027,2025-01-31,D069,Consultation,Urgent,5540.36,Referral
+A02374,P0104,2025-09-17,D077,Diagnostic Test,Routine,2752.96,App
+A02375,P0074,2025-01-17,D051,Procedure,Routine,8469.6,App
+A02376,P0191,2025-02-08,D076,Emergency Care,Routine,5647.84,App
+A02377,P0324,2025-10-31,D062,Diagnostic Test,High,5353.65,Website
+A02378,P0147,2025-02-08,D037,Procedure,Routine,3958.42,Website
+A02379,P0255,2025-05-12,D006,Consultation,Routine,6041.54,Referral
+A02380,P0284,2025-01-30,D071,Procedure,Routine,3234.52,Walk-in
+A02381,P0213,2025-06-07,D026,Follow-up,Routine,3388.59,App
+A02382,P0123,2025-10-05,D008,Diagnostic Test,Routine,5758.41,Walk-in
+A02383,P0206,2025-07-22,D073,Procedure,Routine,7856.29,App
+A02384,P0240,2025-03-07,D004,Procedure,Routine,2550.99,App
+A02385,P0394,2025-04-18,D021,Consultation,Routine,6305.66,Walk-in
+A02386,P0339,2025-09-25,D031,Procedure,High,2915.28,Referral
+A02387,P0286,2025-08-10,D021,Consultation,Routine,3844.29,App
+A02388,P0022,2025-10-19,D025,Procedure,Routine,2926.91,Walk-in
+A02389,P0259,2025-01-18,D015,Follow-up,Routine,1649.55,Walk-in
+A02390,P0357,2025-03-31,D035,Consultation,Routine,5097.8,App
+A02391,P0105,2025-06-30,D049,Follow-up,Routine,8216.96,App
+A02392,P0258,2025-09-12,D043,Diagnostic Test,Routine,4289.9,Walk-in
+A02393,P0204,2025-09-10,D041,Diagnostic Test,High,7196.01,Walk-in
+A02394,P0310,2025-09-14,D037,Consultation,Routine,2431.23,Website
+A02395,P0262,2025-12-12,D057,Consultation,Routine,7301.58,App
+A02396,P0107,2025-03-28,D042,Follow-up,Routine,1382.78,Phone
+A02397,P0251,2025-03-31,D047,Consultation,Routine,3768.9,Walk-in
+A02398,P0221,2025-08-25,D061,Diagnostic Test,Routine,1652.82,Phone
+A02399,P0379,2025-03-11,D014,Follow-up,Routine,4626.39,App
+A02400,P0222,2025-02-13,D068,Consultation,Routine,3440.61,Walk-in
+A02401,P0258,2025-07-19,D053,Diagnostic Test,Routine,5840.04,Phone
+A02402,P0201,2025-06-01,D034,Diagnostic Test,Routine,5062.5,Walk-in
+A02403,P0367,2025-03-27,D076,Follow-up,Routine,5302.6,Referral
+A02404,P0258,2025-01-19,D024,Consultation,Routine,4079.51,Walk-in
+A02405,P0349,2025-04-11,D020,Diagnostic Test,Routine,8097.75,Referral
+A02406,P0225,2025-04-05,D069,Consultation,Routine,2457.17,Referral
+A02407,P0202,2025-09-11,D030,Procedure,Routine,6737.46,Phone
+A02408,P0226,2025-12-23,D007,Consultation,Routine,5061.65,Walk-in
+A02409,P0236,2025-01-30,D036,Emergency Care,Routine,6016.22,Phone
+A02410,P0183,2025-09-06,D038,Follow-up,Routine,8451.34,Phone
+A02411,P0200,2025-02-02,D080,Procedure,Routine,6471.98,App
+A02412,P0357,2025-08-17,D052,Diagnostic Test,Routine,5425.99,Website
+A02413,P0246,2025-01-12,D015,Consultation,Routine,6579.37,App
+A02414,P0353,2025-04-28,D046,Procedure,Routine,6548.36,Website
+A02415,P0111,2025-12-16,D023,Consultation,High,3317.55,App
+A02416,P0006,2025-06-04,D012,Consultation,High,2828.78,Referral
+A02417,P0236,2025-09-03,D044,Consultation,Routine,4254.45,Website
+A02418,P0127,2025-11-28,D015,Emergency Care,High,5279.65,App
+A02419,P0104,2025-09-04,D049,Follow-up,Routine,5063.85,Phone
+A02420,P0237,2025-01-29,D021,Diagnostic Test,Routine,5870.19,App
+A02421,P0155,2025-06-10,D015,Follow-up,Urgent,5906.52,Walk-in
+A02422,P0257,2025-08-23,D014,Diagnostic Test,High,6562.91,Website
+A02423,P0235,2025-07-09,D042,Follow-up,Urgent,4290.46,Website
+A02424,P0289,2025-04-27,D080,Consultation,Routine,8365.42,Walk-in
+A02425,P0040,2025-09-28,D015,Procedure,Routine,2578.89,Phone
+A02426,P0288,2025-09-15,D063,Consultation,Routine,4542.74,Referral
+A02427,P0197,2025-06-29,D068,Consultation,Routine,3626.36,Website
+A02428,P0273,2025-06-21,D027,Diagnostic Test,Routine,5244.77,Website
+A02429,P0382,2025-10-01,D053,Diagnostic Test,High,5647.81,Phone
+A02430,P0264,2025-09-16,D052,Follow-up,Routine,2646.01,App
+A02431,P0057,2025-05-15,D063,Consultation,Routine,5303.49,App
+A02432,P0298,2025-06-20,D073,Consultation,Routine,4087.64,App
+A02433,P0098,2025-07-29,D053,Diagnostic Test,Routine,4927.51,Walk-in
+A02434,P0137,2025-08-24,D057,Diagnostic Test,Routine,1859.31,Walk-in
+A02435,P0376,2025-07-05,D052,Consultation,Urgent,5060.13,App
+A02436,P0087,2025-12-30,D043,Diagnostic Test,Routine,7707.07,App
+A02437,P0242,2025-04-05,D007,Consultation,Routine,2935.35,Referral
+A02438,P0199,2025-01-11,D042,Consultation,High,3099.43,App
+A02439,P0310,2025-03-09,D004,Consultation,Urgent,1475.64,Phone
+A02440,P0084,2025-07-29,D069,Emergency Care,High,3886.62,Phone
+A02441,P0242,2025-07-15,D005,Follow-up,High,5807.63,Walk-in
+A02442,P0281,2025-04-08,D075,Consultation,Routine,3044.32,App
+A02443,P0323,2025-04-03,D080,Follow-up,Urgent,8666.93,Referral
+A02444,P0252,2025-01-22,D041,Procedure,Routine,3097.9,Website
+A02445,P0190,2025-06-21,D004,Diagnostic Test,High,3107.19,App
+A02446,P0152,2025-05-14,D002,Procedure,Routine,3026.34,Website
+A02447,P0302,2025-01-25,D067,Consultation,Routine,7872.64,Website
+A02448,P0278,2025-07-04,D021,Procedure,Routine,5666.64,App
+A02449,P0139,2025-03-26,D070,Diagnostic Test,Routine,3980.47,Referral
+A02450,P0176,2025-02-24,D043,Consultation,Routine,2773.39,App
+A02451,P0008,2025-09-08,D069,Diagnostic Test,Routine,5017.17,Referral
+A02452,P0295,2025-05-24,D009,Emergency Care,High,5933.09,Website
+A02453,P0235,2025-12-17,D028,Procedure,Routine,10965.54,App
+A02454,P0163,2025-06-16,D026,Diagnostic Test,Routine,4398.55,App
+A02455,P0049,2025-08-12,D003,Consultation,High,3446.0,Phone
+A02456,P0302,2025-08-08,D073,Diagnostic Test,Routine,3065.41,Phone
+A02457,P0038,2025-06-28,D049,Consultation,Routine,8555.67,Referral
+A02458,P0136,2025-04-29,D017,Consultation,Routine,5470.97,Phone
+A02459,P0310,2025-09-22,D063,Diagnostic Test,Routine,3430.59,Website
+A02460,P0219,2025-05-30,D055,Procedure,Urgent,3161.76,App
+A02461,P0348,2025-08-03,D023,Follow-up,High,5807.02,Referral
+A02462,P0296,2025-07-16,D034,Consultation,Routine,4220.28,Referral
+A02463,P0034,2025-02-11,D069,Diagnostic Test,Routine,7903.75,Website
+A02464,P0352,2025-02-22,D015,Emergency Care,Routine,2287.73,App
+A02465,P0079,2025-11-26,D047,Follow-up,Routine,3616.7,Walk-in
+A02466,P0236,2025-09-08,D003,Follow-up,Routine,5925.93,Walk-in
+A02467,P0383,2025-10-22,D028,Emergency Care,Routine,4913.42,Phone
+A02468,P0273,2025-09-28,D003,Procedure,Routine,3665.51,Website
+A02469,P0161,2025-05-03,D004,Consultation,Routine,3362.65,Walk-in
+A02470,P0175,2025-12-05,D031,Consultation,Routine,3507.14,App
+A02471,P0366,2025-09-23,D045,Emergency Care,Routine,7185.07,Website
+A02472,P0308,2025-12-14,D059,Diagnostic Test,Urgent,4001.07,App
+A02473,P0374,2025-01-29,D045,Consultation,Routine,5621.92,App
+A02474,P0221,2025-02-04,D075,Diagnostic Test,High,5874.48,Referral
+A02475,P0009,2025-01-06,D037,Follow-up,High,2257.88,Phone
+A02476,P0289,2025-04-21,D065,Emergency Care,Routine,3022.75,Walk-in
+A02477,P0113,2025-10-21,D009,Consultation,Routine,3338.36,Website
+A02478,P0205,2025-03-18,D017,Diagnostic Test,Routine,4118.11,Walk-in
+A02479,P0186,2025-12-15,D065,Procedure,Routine,3273.16,Phone
+A02480,P0341,2025-05-27,D003,Consultation,Routine,3505.58,App
+A02481,P0197,2025-03-08,D026,Consultation,High,5104.83,Referral
+A02482,P0266,2025-01-08,D053,Emergency Care,Urgent,3117.05,App
+A02483,P0262,2025-05-02,D031,Diagnostic Test,Routine,6722.59,Website
+A02484,P0248,2025-12-06,D026,Diagnostic Test,Urgent,6853.08,Website
+A02485,P0115,2025-06-24,D023,Follow-up,Routine,4805.45,App
+A02486,P0121,2025-06-28,D030,Consultation,High,8018.07,App
+A02487,P0141,2025-03-26,D010,Emergency Care,Routine,3659.59,Walk-in
+A02488,P0065,2025-02-14,D072,Consultation,Routine,7297.56,Website
+A02489,P0276,2025-05-16,D064,Consultation,Routine,2998.07,Website
+A02490,P0313,2025-12-09,D022,Consultation,High,5715.98,Phone
+A02491,P0239,2025-01-16,D015,Consultation,Routine,5948.76,Website
+A02492,P0302,2025-11-29,D056,Procedure,Routine,6417.48,Walk-in
+A02493,P0392,2025-07-14,D074,Procedure,High,6316.64,Referral
+A02494,P0010,2025-01-09,D020,Emergency Care,Urgent,4740.99,App
+A02495,P0369,2025-11-12,D047,Diagnostic Test,Routine,2387.75,Phone
+A02496,P0233,2025-11-30,D053,Follow-up,High,9821.53,Website
+A02497,P0195,2025-11-29,D053,Diagnostic Test,Routine,5038.77,Phone
+A02498,P0395,2025-11-23,D001,Procedure,Routine,2776.8,Website
+A02499,P0012,2025-01-15,D002,Follow-up,Routine,5475.59,Website
+A02500,P0394,2025-11-23,D058,Consultation,Routine,4295.57,App
+A02501,P0177,2025-04-12,D019,Consultation,Routine,4123.78,Phone
+A02502,P0177,2025-08-14,D062,Consultation,Routine,5398.94,App
+A02503,P0217,2025-10-05,D078,Diagnostic Test,Routine,2179.32,App
+A02504,P0011,2025-04-23,D072,Emergency Care,Routine,4738.38,Referral
+A02505,P0118,2025-01-01,D012,Consultation,Routine,5200.94,Website
+A02506,P0164,2025-09-23,D026,Consultation,Routine,2746.82,Phone
+A02507,P0039,2025-07-27,D027,Consultation,Routine,5374.62,App
+A02508,P0053,2025-04-20,D029,Procedure,Routine,6255.36,Walk-in
+A02509,P0218,2025-07-19,D015,Consultation,High,5013.96,App
+A02510,P0206,2025-11-02,D046,Consultation,Routine,4082.56,Website
+A02511,P0312,2025-01-12,D001,Consultation,Routine,5411.69,Phone
+A02512,P0360,2025-12-11,D060,Follow-up,Routine,2812.46,Walk-in
+A02513,P0385,2025-07-07,D057,Diagnostic Test,Routine,5070.19,Walk-in
+A02514,P0056,2025-06-03,D003,Follow-up,Routine,9109.68,App
+A02515,P0118,2025-11-30,D018,Consultation,High,1985.3,Walk-in
+A02516,P0388,2025-10-06,D052,Diagnostic Test,Routine,4301.39,Walk-in
+A02517,P0253,2025-06-20,D060,Consultation,Routine,5005.14,Referral
+A02518,P0286,2025-05-14,D034,Consultation,Routine,4317.77,Referral
+A02519,P0268,2025-01-25,D060,Diagnostic Test,High,4505.68,Phone
+A02520,P0291,2025-01-18,D026,Consultation,Routine,6497.7,Walk-in
+A02521,P0333,2025-07-09,D072,Follow-up,Routine,2291.63,Phone
+A02522,P0180,2025-05-21,D019,Consultation,Routine,7970.63,Phone
+A02523,P0358,2025-02-12,D022,Consultation,High,1260.33,App
+A02524,P0235,2025-11-30,D033,Procedure,Routine,5133.4,App
+A02525,P0343,2025-10-11,D038,Diagnostic Test,Routine,8178.71,App
+A02526,P0196,2025-05-26,D035,Follow-up,High,5424.7,Referral
+A02527,P0308,2025-11-11,D067,Procedure,Urgent,1394.49,App
+A02528,P0080,2025-11-15,D010,Diagnostic Test,Routine,6635.94,App
+A02529,P0135,2025-04-02,D015,Follow-up,Urgent,7568.41,Website
+A02530,P0022,2025-06-28,D011,Diagnostic Test,Routine,9269.43,Phone
+A02531,P0331,2025-02-25,D024,Consultation,Routine,5707.5,Referral
+A02532,P0225,2025-06-04,D077,Consultation,Routine,6483.92,Phone
+A02533,P0058,2025-06-09,D004,Diagnostic Test,Routine,4685.3,App
+A02534,P0093,2025-04-21,D013,Consultation,Routine,2612.25,Referral
+A02535,P0192,2025-05-17,D073,Consultation,Routine,2358.36,App
+A02536,P0103,2025-08-20,D057,Consultation,High,6087.82,Referral
+A02537,P0396,2025-08-08,D037,Consultation,High,3752.35,App
+A02538,P0007,2025-03-09,D048,Consultation,Routine,2963.0,Walk-in
+A02539,P0128,2025-10-29,D071,Consultation,Routine,3966.17,App
+A02540,P0055,2025-09-06,D001,Consultation,Routine,2165.08,Referral
+A02541,P0231,2025-11-19,D060,Consultation,Routine,12084.71,App
+A02542,P0362,2025-01-06,D012,Diagnostic Test,Routine,4270.01,App
+A02543,P0062,2025-10-07,D021,Consultation,Routine,3492.12,Referral
+A02544,P0240,2025-04-04,D011,Procedure,Routine,4033.48,App
+A02545,P0090,2025-09-26,D044,Procedure,Routine,4527.4,Walk-in
+A02546,P0232,2025-07-16,D058,Diagnostic Test,High,5684.0,Walk-in
+A02547,P0233,2025-01-25,D044,Follow-up,High,3980.03,Phone
+A02548,P0354,2025-05-28,D078,Consultation,Routine,7909.0,Website
+A02549,P0333,2025-04-28,D034,Consultation,Routine,4941.23,Referral
+A02550,P0375,2025-12-04,D025,Procedure,Routine,3909.63,Walk-in
+A02551,P0292,2025-12-04,D004,Consultation,Routine,4942.63,Website
+A02552,P0345,2025-03-07,D064,Emergency Care,Routine,5160.36,App
+A02553,P0152,2025-10-28,D016,Diagnostic Test,Routine,2581.35,App
+A02554,P0145,2025-06-24,D010,Consultation,Routine,2846.3,App
+A02555,P0130,2025-11-15,D066,Diagnostic Test,Routine,4451.06,Phone
+A02556,P0141,2025-03-17,D035,Diagnostic Test,Routine,1547.83,Walk-in
+A02557,P0093,2025-04-24,D006,Consultation,Routine,6228.93,Walk-in
+A02558,P0114,2025-04-21,D019,Consultation,Routine,4057.08,Walk-in
+A02559,P0284,2025-09-06,D059,Follow-up,Urgent,4897.04,Website
+A02560,P0143,2025-07-22,D053,Diagnostic Test,High,7186.51,Website
+A02561,P0223,2025-05-27,D008,Consultation,Routine,3434.32,Walk-in
+A02562,P0232,2025-02-04,D078,Consultation,Routine,6048.29,Walk-in
+A02563,P0033,2025-11-05,D010,Procedure,High,3757.97,Phone
+A02564,P0276,2025-01-26,D067,Diagnostic Test,Routine,6370.49,App
+A02565,P0170,2025-08-26,D038,Diagnostic Test,High,7191.41,Phone
+A02566,P0140,2025-01-14,D029,Emergency Care,Routine,3909.87,Website
+A02567,P0357,2025-02-14,D015,Consultation,Urgent,3616.06,App
+A02568,P0201,2025-08-04,D023,Diagnostic Test,High,6202.17,Phone
+A02569,P0023,2025-08-21,D046,Procedure,Routine,3634.58,App
+A02570,P0224,2025-07-12,D028,Follow-up,Routine,2078.6,Referral
+A02571,P0368,2025-02-20,D026,Consultation,Routine,7040.74,App
+A02572,P0270,2025-08-02,D010,Consultation,Routine,3692.53,Phone
+A02573,P0347,2025-05-31,D047,Follow-up,Routine,6445.03,Walk-in
+A02574,P0153,2025-10-02,D004,Consultation,Routine,2666.44,Website
+A02575,P0333,2025-12-04,D055,Procedure,Routine,5735.32,Walk-in
+A02576,P0085,2025-03-17,D066,Consultation,Routine,6207.72,Walk-in
+A02577,P0109,2025-08-08,D067,Consultation,High,4987.68,Referral
+A02578,P0031,2025-12-14,D007,Consultation,Routine,5371.47,Website
+A02579,P0229,2025-07-06,D055,Follow-up,Routine,3487.07,App
+A02580,P0240,2025-10-16,D080,Procedure,Routine,8766.45,Website
+A02581,P0378,2025-01-28,D031,Follow-up,Routine,3092.15,Walk-in
+A02582,P0363,2025-06-29,D074,Emergency Care,Routine,6070.36,Website
+A02583,P0310,2025-09-10,D019,Consultation,Urgent,4279.32,App
+A02584,P0389,2025-05-06,D028,Consultation,Routine,7230.21,App
+A02585,P0141,2025-06-26,D028,Procedure,Routine,3215.42,Website
+A02586,P0156,2025-02-06,D019,Procedure,Routine,3309.74,Walk-in
+A02587,P0299,2025-04-09,D020,Procedure,Routine,5120.58,App
+A02588,P0345,2025-04-08,D013,Procedure,High,6134.6,Website
+A02589,P0371,2025-05-07,D077,Consultation,Routine,3320.68,App
+A02590,P0099,2025-06-17,D043,Consultation,Routine,3503.93,Walk-in
+A02591,P0047,2025-03-21,D011,Procedure,Routine,2010.76,Referral
+A02592,P0327,2025-10-21,D048,Consultation,Urgent,3188.52,Phone
+A02593,P0067,2025-11-29,D015,Consultation,Routine,7702.54,App
+A02594,P0062,2025-05-06,D017,Follow-up,High,2250.93,App
+A02595,P0109,2025-12-09,D054,Consultation,Routine,3753.54,Website
+A02596,P0167,2025-11-06,D050,Procedure,Routine,4146.08,Phone
+A02597,P0037,2025-05-30,D028,Consultation,Routine,3415.56,Website
+A02598,P0119,2025-01-16,D004,Procedure,Routine,3993.91,Referral
+A02599,P0086,2025-01-28,D022,Follow-up,Routine,6372.37,Referral
+A02600,P0382,2025-06-22,D039,Diagnostic Test,Routine,4667.95,App
+A02601,P0392,2025-02-15,D034,Diagnostic Test,Routine,4119.63,App
+A02602,P0052,2025-11-24,D044,Consultation,High,5896.36,Website
+A02603,P0091,2025-08-24,D042,Diagnostic Test,Routine,4640.74,Website
+A02604,P0289,2025-08-02,D040,Diagnostic Test,Routine,6631.58,Phone
+A02605,P0337,2025-03-26,D012,Diagnostic Test,Routine,3311.78,Walk-in
+A02606,P0298,2025-10-09,D002,Consultation,Routine,8301.82,App
+A02607,P0204,2025-08-20,D028,Consultation,Routine,2712.34,Walk-in
+A02608,P0368,2025-03-26,D074,Consultation,Routine,2882.57,Phone
+A02609,P0238,2025-03-06,D067,Follow-up,Routine,4536.1,Referral
+A02610,P0382,2025-05-14,D071,Consultation,Routine,1663.2,Phone
+A02611,P0155,2025-05-31,D072,Procedure,Routine,5369.18,Walk-in
+A02612,P0240,2025-04-25,D076,Follow-up,High,3068.8,App
+A02613,P0136,2025-03-05,D010,Follow-up,Routine,4043.4,Walk-in
+A02614,P0362,2025-12-09,D057,Procedure,Routine,3146.89,App
+A02615,P0381,2025-12-29,D037,Consultation,High,1417.76,Phone
+A02616,P0369,2025-12-18,D077,Procedure,Routine,4673.86,App
+A02617,P0064,2025-06-07,D064,Diagnostic Test,Routine,10071.55,App
+A02618,P0123,2025-03-18,D079,Procedure,Routine,3897.9,App
+A02619,P0254,2025-05-26,D040,Procedure,High,5140.14,App
+A02620,P0114,2025-12-09,D060,Consultation,Urgent,4648.86,Website
+A02621,P0020,2025-08-13,D048,Consultation,Routine,5640.54,Referral
+A02622,P0016,2025-11-09,D019,Diagnostic Test,Routine,1335.88,Website
+A02623,P0145,2025-04-13,D072,Follow-up,Routine,5281.89,Walk-in
+A02624,P0208,2025-12-13,D033,Consultation,Routine,4491.68,App
+A02625,P0019,2025-10-28,D044,Consultation,Routine,4945.83,Website
+A02626,P0376,2025-03-29,D037,Consultation,Urgent,2529.14,App
+A02627,P0392,2025-10-30,D036,Diagnostic Test,Routine,6300.53,App
+A02628,P0166,2025-06-17,D021,Emergency Care,Routine,3041.32,App
+A02629,P0038,2025-06-19,D002,Follow-up,High,4082.18,Website
+A02630,P0181,2025-05-15,D031,Diagnostic Test,High,4340.63,App
+A02631,P0349,2025-02-19,D030,Consultation,Routine,5266.24,Referral
+A02632,P0105,2025-12-06,D076,Consultation,Routine,4315.78,Website
+A02633,P0100,2025-12-13,D044,Diagnostic Test,Routine,6440.01,Walk-in
+A02634,P0090,2025-05-14,D012,Procedure,Routine,3080.47,Referral
+A02635,P0300,2025-12-13,D051,Consultation,Routine,9006.54,Phone
+A02636,P0332,2025-05-17,D049,Diagnostic Test,Routine,8855.4,Referral
+A02637,P0079,2025-09-02,D024,Procedure,Urgent,5590.88,App
+A02638,P0073,2025-04-19,D024,Procedure,Routine,2653.29,Walk-in
+A02639,P0176,2025-11-09,D060,Consultation,Routine,2652.89,App
+A02640,P0396,2025-10-14,D011,Consultation,Routine,7314.73,Website
+A02641,P0096,2025-01-21,D013,Consultation,Routine,2984.15,Phone
+A02642,P0345,2025-03-31,D072,Follow-up,Routine,8623.84,Referral
+A02643,P0103,2025-10-23,D074,Emergency Care,High,7175.73,Referral
+A02644,P0224,2025-04-22,D072,Consultation,High,2981.4,App
+A02645,P0006,2025-10-28,D064,Consultation,Routine,3923.19,Website
+A02646,P0122,2025-03-18,D020,Procedure,High,6949.09,Walk-in
+A02647,P0236,2025-06-26,D072,Follow-up,Routine,5061.6,Walk-in
+A02648,P0116,2025-12-09,D073,Emergency Care,Routine,3520.99,App
+A02649,P0163,2025-05-28,D071,Consultation,Routine,5762.98,Website
+A02650,P0226,2025-04-11,D078,Diagnostic Test,High,6907.5,Walk-in
+A02651,P0230,2025-09-03,D028,Consultation,Routine,2055.78,Walk-in
+A02652,P0182,2025-04-27,D002,Consultation,Routine,6213.62,Website
+A02653,P0249,2025-04-02,D043,Diagnostic Test,High,6709.78,Walk-in
+A02654,P0318,2025-01-28,D008,Consultation,Routine,1758.54,Phone
+A02655,P0210,2025-01-25,D013,Consultation,Routine,4155.52,Referral
+A02656,P0144,2025-02-27,D035,Procedure,Routine,3963.11,Phone
+A02657,P0392,2025-10-24,D023,Consultation,Routine,3134.68,Website
+A02658,P0345,2025-05-14,D046,Follow-up,Routine,6486.65,Walk-in
+A02659,P0096,2025-11-27,D015,Consultation,Routine,2640.6,App
+A02660,P0382,2025-09-06,D002,Procedure,Urgent,3339.94,Referral
+A02661,P0346,2025-02-07,D061,Consultation,Routine,7201.46,Phone
+A02662,P0244,2025-03-16,D076,Follow-up,Routine,4481.38,Referral
+A02663,P0086,2025-05-22,D064,Consultation,Routine,4990.8,App
+A02664,P0394,2025-11-18,D052,Diagnostic Test,High,2339.87,Phone
+A02665,P0184,2025-06-17,D036,Follow-up,Urgent,2549.89,Walk-in
+A02666,P0121,2025-09-16,D067,Consultation,Routine,5099.67,Walk-in
+A02667,P0332,2025-12-21,D069,Consultation,Routine,2954.0,App
+A02668,P0092,2025-08-13,D067,Procedure,High,1969.38,App
+A02669,P0070,2025-06-01,D047,Procedure,High,9347.41,Phone
+A02670,P0133,2025-01-19,D002,Consultation,Routine,3827.43,Website
+A02671,P0279,2025-05-26,D044,Consultation,Routine,4106.1,Walk-in
+A02672,P0137,2025-08-29,D064,Consultation,Routine,5376.25,Website
+A02673,P0314,2025-12-10,D078,Consultation,Routine,4333.8,Walk-in
+A02674,P0187,2025-08-25,D028,Emergency Care,Urgent,7148.18,Website
+A02675,P0221,2025-02-04,D054,Diagnostic Test,Routine,5968.01,App
+A02676,P0046,2025-07-09,D074,Diagnostic Test,Routine,7325.05,App
+A02677,P0278,2025-01-01,D067,Emergency Care,Routine,5597.82,Phone
+A02678,P0192,2025-06-02,D036,Diagnostic Test,Routine,6029.12,Phone
+A02679,P0008,2025-05-06,D063,Follow-up,Routine,3591.41,Phone
+A02680,P0379,2025-12-11,D025,Consultation,Routine,4812.2,Walk-in
+A02681,P0276,2025-08-14,D048,Consultation,Routine,6375.5,Website
+A02682,P0179,2025-08-09,D039,Diagnostic Test,Routine,5068.5,Referral
+A02683,P0334,2025-07-30,D047,Consultation,Routine,3785.67,Referral
+A02684,P0039,2025-01-25,D021,Consultation,High,5958.9,App
+A02685,P0293,2025-01-16,D030,Consultation,Urgent,3093.51,Referral
+A02686,P0178,2025-07-01,D031,Consultation,Routine,4309.23,Phone
+A02687,P0162,2025-11-25,D026,Diagnostic Test,High,6605.97,Phone
+A02688,P0331,2025-05-09,D022,Diagnostic Test,Routine,10150.74,Phone
+A02689,P0374,2025-02-11,D021,Consultation,Routine,1980.91,Walk-in
+A02690,P0104,2025-12-02,D001,Consultation,Urgent,6499.24,Referral
+A02691,P0161,2025-08-24,D037,Follow-up,Routine,6602.53,Phone
+A02692,P0287,2025-12-26,D077,Consultation,Routine,3481.92,App
+A02693,P0123,2025-02-03,D046,Diagnostic Test,Urgent,3063.32,Phone
+A02694,P0054,2025-12-11,D009,Follow-up,High,2863.77,App
+A02695,P0034,2025-02-14,D017,Consultation,Routine,7061.15,Phone
+A02696,P0242,2025-05-14,D047,Follow-up,Urgent,3281.28,Walk-in
+A02697,P0378,2025-01-21,D059,Follow-up,Routine,2170.18,Website
+A02698,P0113,2025-05-02,D054,Consultation,Routine,5344.41,App
+A02699,P0318,2025-03-11,D012,Consultation,Routine,4310.07,Phone
+A02700,P0023,2025-12-18,D064,Emergency Care,Routine,4055.89,Website
+A02701,P0046,2025-12-27,D006,Consultation,Routine,1639.44,App
+A02702,P0312,2025-02-17,D053,Procedure,Routine,4122.39,Phone
+A02703,P0135,2025-02-08,D016,Diagnostic Test,Routine,4817.43,Referral
+A02704,P0118,2025-10-14,D005,Consultation,Routine,4574.5,Walk-in
+A02705,P0189,2025-01-10,D073,Consultation,Routine,2341.45,Website
+A02706,P0131,2025-01-30,D046,Diagnostic Test,Routine,4493.49,Phone
+A02707,P0212,2025-09-01,D014,Diagnostic Test,Urgent,3349.93,App
+A02708,P0113,2025-10-01,D044,Follow-up,Routine,7574.83,Walk-in
+A02709,P0044,2025-03-29,D063,Procedure,Routine,3935.72,Phone
+A02710,P0128,2025-09-01,D052,Procedure,Routine,3545.75,Referral
+A02711,P0364,2025-11-25,D026,Consultation,High,3393.92,Referral
+A02712,P0158,2025-01-15,D053,Procedure,Routine,3543.62,Website
+A02713,P0273,2025-01-04,D029,Procedure,Routine,2457.1,Referral
+A02714,P0315,2025-07-10,D019,Procedure,Routine,4447.48,Referral
+A02715,P0394,2025-06-17,D047,Diagnostic Test,Routine,2623.19,Phone
+A02716,P0355,2025-01-09,D008,Follow-up,Routine,3364.17,Website
+A02717,P0340,2025-04-19,D023,Diagnostic Test,Routine,5720.93,Walk-in
+A02718,P0045,2025-05-17,D035,Consultation,Urgent,6002.28,App
+A02719,P0108,2025-06-03,D053,Emergency Care,Routine,4231.1,Phone
+A02720,P0219,2025-07-28,D058,Consultation,High,6809.06,App
+A02721,P0318,2025-09-29,D005,Consultation,Urgent,4527.34,Phone
+A02722,P0315,2025-05-23,D016,Procedure,High,7391.2,Referral
+A02723,P0177,2025-04-09,D017,Consultation,Urgent,4634.17,App
+A02724,P0228,2025-11-04,D032,Procedure,High,2985.26,Walk-in
+A02725,P0191,2025-03-10,D052,Follow-up,Routine,9722.87,App
+A02726,P0160,2025-09-04,D020,Consultation,Routine,3200.88,Walk-in
+A02727,P0394,2025-09-18,D066,Diagnostic Test,Routine,6516.33,Phone
+A02728,P0267,2025-10-03,D001,Follow-up,High,6075.08,App
+A02729,P0358,2025-03-20,D058,Diagnostic Test,Routine,4861.93,Phone
+A02730,P0326,2025-05-26,D044,Emergency Care,Routine,3347.64,Walk-in
+A02731,P0379,2025-04-21,D006,Procedure,Routine,4686.3,Website
+A02732,P0190,2025-09-15,D050,Consultation,High,4071.16,Walk-in
+A02733,P0175,2025-04-03,D072,Consultation,High,2893.52,Phone
+A02734,P0290,2025-01-13,D020,Emergency Care,Routine,4314.0,App
+A02735,P0357,2025-09-17,D014,Diagnostic Test,Routine,3571.14,Referral
+A02736,P0145,2025-04-19,D005,Consultation,Routine,4611.35,Phone
+A02737,P0232,2025-11-26,D041,Procedure,Routine,2944.7,Website
+A02738,P0360,2025-07-08,D040,Procedure,Routine,4138.81,App
+A02739,P0204,2025-04-05,D034,Follow-up,Routine,5687.26,Website
+A02740,P0213,2025-04-15,D080,Diagnostic Test,Urgent,4397.99,Walk-in
+A02741,P0040,2025-01-08,D045,Follow-up,Routine,5683.82,Phone
+A02742,P0275,2025-03-08,D071,Follow-up,Routine,6139.73,Walk-in
+A02743,P0323,2025-07-10,D080,Procedure,Routine,3439.65,Walk-in
+A02744,P0082,2025-09-13,D071,Emergency Care,Routine,2743.78,Website
+A02745,P0181,2025-01-09,D027,Diagnostic Test,Routine,5076.0,Phone
+A02746,P0320,2025-04-27,D078,Procedure,Routine,2684.94,Referral
+A02747,P0083,2025-09-24,D078,Emergency Care,Urgent,2991.41,Referral
+A02748,P0303,2025-04-09,D044,Consultation,Routine,4626.68,Website
+A02749,P0262,2025-10-25,D033,Consultation,Routine,4651.86,Phone
+A02750,P0272,2025-06-13,D033,Procedure,Urgent,3324.74,App
+A02751,P0200,2025-05-21,D044,Consultation,High,3552.91,App
+A02752,P0240,2025-09-25,D020,Consultation,Routine,4123.77,Walk-in
+A02753,P0180,2025-02-06,D036,Consultation,High,8175.5,Website
+A02754,P0171,2025-03-15,D007,Consultation,Urgent,2682.25,App
+A02755,P0295,2025-03-14,D032,Consultation,Urgent,3287.06,Walk-in
+A02756,P0177,2025-11-04,D067,Consultation,Urgent,3887.53,Referral
+A02757,P0369,2025-07-18,D039,Emergency Care,Routine,6221.57,Referral
+A02758,P0396,2025-05-10,D024,Follow-up,Routine,2542.92,Phone
+A02759,P0237,2025-09-03,D070,Follow-up,Routine,4604.6,Website
+A02760,P0138,2025-11-08,D054,Consultation,Routine,6192.63,App
+A02761,P0327,2025-03-01,D038,Follow-up,Urgent,5938.28,Walk-in
+A02762,P0366,2025-10-06,D074,Follow-up,High,10798.0,Referral
+A02763,P0311,2025-04-13,D080,Follow-up,Routine,4086.95,Referral
+A02764,P0129,2025-10-23,D075,Consultation,Routine,5370.45,Walk-in
+A02765,P0049,2025-11-16,D032,Diagnostic Test,Routine,3442.78,App
+A02766,P0164,2025-12-07,D045,Procedure,Routine,6933.73,Website
+A02767,P0277,2025-05-31,D061,Follow-up,Routine,6899.93,Website
+A02768,P0293,2025-06-06,D070,Follow-up,Routine,3683.02,Referral
+A02769,P0116,2025-07-25,D053,Diagnostic Test,Routine,4218.89,App
+A02770,P0024,2025-06-28,D051,Diagnostic Test,Routine,5900.55,Phone
+A02771,P0311,2025-07-16,D076,Follow-up,Routine,5971.41,App
+A02772,P0025,2025-08-11,D056,Consultation,Urgent,2710.21,Phone
+A02773,P0391,2025-03-30,D027,Follow-up,Routine,2491.4,Walk-in
+A02774,P0127,2025-10-14,D038,Emergency Care,High,5790.19,Phone
+A02775,P0234,2025-10-03,D062,Procedure,Routine,11715.41,Walk-in
+A02776,P0209,2025-08-24,D018,Consultation,Routine,2843.12,Phone
+A02777,P0093,2025-07-02,D064,Consultation,Routine,6701.46,App
+A02778,P0094,2025-07-28,D077,Follow-up,High,5259.19,Website
+A02779,P0327,2025-05-10,D030,Procedure,Routine,3532.09,Referral
+A02780,P0225,2025-06-02,D049,Diagnostic Test,Routine,4736.31,App
+A02781,P0378,2025-01-13,D041,Diagnostic Test,Routine,3889.59,App
+A02782,P0280,2025-05-02,D013,Consultation,Routine,4446.04,Website
+A02783,P0011,2025-12-25,D034,Follow-up,Routine,6439.76,Website
+A02784,P0329,2025-08-08,D025,Follow-up,Routine,5869.52,Website
+A02785,P0012,2025-04-16,D066,Emergency Care,Routine,6033.39,Phone
+A02786,P0035,2025-03-11,D018,Consultation,Routine,4294.7,Referral
+A02787,P0228,2025-07-14,D005,Follow-up,Routine,5144.66,Walk-in
+A02788,P0220,2025-07-05,D019,Diagnostic Test,Routine,9916.36,App
+A02789,P0141,2025-04-09,D042,Diagnostic Test,Urgent,3598.45,Walk-in
+A02790,P0023,2025-03-23,D018,Procedure,Routine,4746.88,Walk-in
+A02791,P0083,2025-03-16,D032,Consultation,High,5447.4,Referral
+A02792,P0229,2025-12-06,D021,Consultation,Routine,2563.15,Website
+A02793,P0344,2025-07-11,D010,Follow-up,High,4844.16,Website
+A02794,P0080,2025-11-21,D037,Diagnostic Test,Routine,5920.77,Walk-in
+A02795,P0353,2025-08-02,D049,Consultation,Routine,3382.85,Walk-in
+A02796,P0396,2025-11-11,D013,Diagnostic Test,High,6533.66,Phone
+A02797,P0290,2025-11-14,D055,Diagnostic Test,High,4296.32,App
+A02798,P0331,2025-05-24,D017,Procedure,High,4650.04,Phone
+A02799,P0159,2025-08-04,D009,Consultation,High,3552.63,App
+A02800,P0128,2025-12-27,D044,Procedure,Routine,6316.27,App
+A02801,P0190,2025-11-20,D078,Consultation,Routine,3072.06,Website
+A02802,P0397,2025-01-15,D046,Consultation,Routine,3958.63,Website
+A02803,P0031,2025-08-05,D008,Consultation,High,3916.29,Website
+A02804,P0386,2025-02-04,D037,Procedure,Routine,5160.81,Website
+A02805,P0359,2025-07-02,D019,Consultation,Urgent,10807.08,App
+A02806,P0015,2025-09-27,D063,Procedure,Routine,3727.17,App
+A02807,P0313,2025-12-24,D046,Diagnostic Test,Routine,3337.01,App
+A02808,P0075,2025-04-10,D071,Emergency Care,Routine,5446.55,Website
+A02809,P0034,2025-01-07,D026,Procedure,Routine,4056.32,App
+A02810,P0359,2025-01-30,D046,Follow-up,Routine,3275.56,App
+A02811,P0196,2025-11-01,D046,Procedure,Routine,3631.32,Website
+A02812,P0331,2025-05-24,D075,Follow-up,Urgent,5379.48,App
+A02813,P0029,2025-04-21,D014,Procedure,High,7952.44,App
+A02814,P0194,2025-08-20,D063,Consultation,Routine,5702.97,Walk-in
+A02815,P0016,2025-06-28,D072,Consultation,High,2023.3,Phone
+A02816,P0077,2025-03-13,D003,Follow-up,Routine,4231.36,Walk-in
+A02817,P0293,2025-07-29,D028,Diagnostic Test,Routine,3094.72,Phone
+A02818,P0081,2025-08-08,D029,Diagnostic Test,Routine,6424.47,Referral
+A02819,P0124,2025-03-21,D018,Diagnostic Test,Routine,4594.95,App
+A02820,P0019,2025-03-24,D035,Consultation,Routine,3391.46,Phone
+A02821,P0102,2025-02-11,D077,Follow-up,High,5050.67,Phone
+A02822,P0392,2025-09-30,D076,Consultation,Routine,4724.73,Referral
+A02823,P0077,2025-07-10,D047,Emergency Care,Routine,2731.68,Website
+A02824,P0229,2025-06-22,D005,Procedure,Routine,3136.5,Walk-in
+A02825,P0297,2025-01-07,D075,Emergency Care,Routine,6263.17,Phone
+A02826,P0203,2025-06-04,D059,Consultation,Routine,6551.87,Walk-in
+A02827,P0061,2025-01-10,D075,Diagnostic Test,Routine,5968.05,Referral
+A02828,P0026,2025-02-03,D059,Emergency Care,Routine,3105.58,Referral
+A02829,P0071,2025-02-05,D047,Procedure,High,3222.18,Walk-in
+A02830,P0103,2025-01-06,D013,Procedure,Routine,4252.01,Website
+A02831,P0326,2025-08-03,D078,Diagnostic Test,Routine,5043.87,App
+A02832,P0363,2025-05-14,D033,Diagnostic Test,Routine,6754.7,Website
+A02833,P0157,2025-10-12,D062,Procedure,Routine,6168.78,App
+A02834,P0363,2025-05-06,D079,Consultation,High,4852.4,App
+A02835,P0359,2025-12-03,D016,Follow-up,Routine,6266.33,Phone
+A02836,P0194,2025-06-23,D044,Procedure,Routine,4190.91,Walk-in
+A02837,P0275,2025-06-01,D058,Follow-up,Routine,6519.74,App
+A02838,P0324,2025-11-27,D006,Diagnostic Test,Routine,4848.37,Phone
+A02839,P0186,2025-01-26,D015,Diagnostic Test,Routine,3385.35,Website
+A02840,P0326,2025-04-25,D004,Emergency Care,Routine,2466.05,Referral
+A02841,P0113,2025-10-11,D056,Follow-up,Urgent,6294.53,App
+A02842,P0313,2025-03-16,D064,Procedure,High,1425.07,Phone
+A02843,P0165,2025-06-15,D068,Follow-up,Routine,5281.37,Referral
+A02844,P0061,2025-07-08,D034,Follow-up,High,3332.39,Website
+A02845,P0092,2025-03-19,D056,Follow-up,Routine,3180.27,Walk-in
+A02846,P0286,2025-03-31,D032,Diagnostic Test,Routine,4525.3,Referral
+A02847,P0153,2025-06-25,D009,Diagnostic Test,Routine,4487.86,App
+A02848,P0225,2025-01-21,D063,Diagnostic Test,Routine,6798.5,Referral
+A02849,P0127,2025-02-23,D072,Consultation,High,5148.78,Walk-in
+A02850,P0193,2025-07-03,D078,Consultation,Routine,3951.46,App
+A02851,P0115,2025-12-25,D033,Consultation,High,7401.08,Website
+A02852,P0262,2025-08-10,D021,Procedure,Routine,3164.17,Phone
+A02853,P0018,2025-11-11,D055,Consultation,Routine,2395.5,Referral
+A02854,P0010,2025-11-24,D076,Consultation,High,2301.44,App
+A02855,P0092,2025-06-28,D057,Consultation,Routine,4679.6,Walk-in
+A02856,P0139,2025-10-03,D002,Follow-up,Routine,3495.85,App
+A02857,P0333,2025-04-22,D013,Consultation,Routine,4862.32,Walk-in
+A02858,P0357,2025-08-12,D004,Diagnostic Test,Routine,2700.23,Phone
+A02859,P0340,2025-08-02,D050,Consultation,Urgent,3671.85,Phone
+A02860,P0052,2025-02-28,D048,Procedure,Routine,5835.75,Phone
+A02861,P0195,2025-11-23,D078,Emergency Care,Routine,6472.03,Walk-in
+A02862,P0206,2025-04-19,D030,Emergency Care,High,7050.15,Website
+A02863,P0287,2025-06-06,D029,Diagnostic Test,Routine,2983.3,Walk-in
+A02864,P0366,2025-07-10,D008,Follow-up,Routine,6185.72,App
+A02865,P0093,2025-07-19,D012,Diagnostic Test,Routine,4397.29,Walk-in
+A02866,P0309,2025-11-08,D041,Consultation,Routine,3945.04,Walk-in
+A02867,P0145,2025-07-15,D026,Diagnostic Test,Routine,5541.42,Website
+A02868,P0086,2025-02-04,D050,Consultation,Routine,6393.0,Walk-in
+A02869,P0153,2025-09-03,D002,Procedure,High,2642.37,Phone
+A02870,P0002,2025-08-25,D055,Consultation,Routine,4297.04,Referral
+A02871,P0342,2025-04-14,D056,Diagnostic Test,Routine,3277.22,App
+A02872,P0389,2025-01-07,D014,Diagnostic Test,Routine,5771.79,App
+A02873,P0260,2025-10-10,D006,Diagnostic Test,Routine,4843.66,Walk-in
+A02874,P0164,2025-01-01,D061,Procedure,High,5593.34,Walk-in
+A02875,P0006,2025-08-07,D012,Follow-up,Routine,5376.28,Website
+A02876,P0149,2025-08-18,D013,Follow-up,Routine,3502.8,Referral
+A02877,P0205,2025-06-21,D019,Diagnostic Test,Routine,2286.61,Phone
+A02878,P0118,2025-03-28,D044,Consultation,Routine,4960.99,Referral
+A02879,P0089,2025-02-10,D059,Diagnostic Test,Routine,5147.78,Phone
+A02880,P0154,2025-05-03,D037,Emergency Care,Routine,5009.09,App
+A02881,P0167,2025-11-27,D025,Emergency Care,Routine,7941.64,Website
+A02882,P0161,2025-10-25,D016,Follow-up,Routine,6155.57,Referral
+A02883,P0270,2025-06-27,D038,Consultation,Routine,4864.51,Website
+A02884,P0056,2025-03-04,D043,Consultation,Routine,4562.07,Referral
+A02885,P0228,2025-06-14,D014,Diagnostic Test,Routine,7392.2,Walk-in
+A02886,P0337,2025-07-06,D006,Procedure,Urgent,5197.53,Website
+A02887,P0149,2025-07-28,D023,Follow-up,Routine,3903.2,Phone
+A02888,P0046,2025-08-15,D060,Procedure,Urgent,6153.63,Phone
+A02889,P0144,2025-02-17,D012,Follow-up,Routine,3195.92,Phone
+A02890,P0238,2025-08-12,D013,Consultation,High,2341.09,App
+A02891,P0272,2025-01-03,D006,Consultation,Routine,5248.07,Referral
+A02892,P0120,2025-06-24,D063,Consultation,Routine,4058.35,Phone
+A02893,P0340,2025-04-09,D038,Diagnostic Test,Routine,3264.1,Referral
+A02894,P0220,2025-04-26,D050,Consultation,Routine,2845.5,Phone
+A02895,P0008,2025-09-27,D052,Follow-up,Routine,2860.02,Website
+A02896,P0344,2025-09-10,D040,Follow-up,Routine,5618.01,Phone
+A02897,P0387,2025-11-13,D008,Consultation,Routine,2369.6,Walk-in
+A02898,P0275,2025-04-05,D061,Consultation,Routine,5944.45,Website
+A02899,P0353,2025-09-30,D008,Consultation,Routine,4262.27,Referral
+A02900,P0066,2025-01-24,D034,Follow-up,Routine,2935.28,Website
+A02901,P0079,2025-04-26,D079,Diagnostic Test,Routine,8497.51,Referral
+A02902,P0086,2025-05-31,D060,Consultation,Routine,3689.44,Referral
+A02903,P0124,2025-12-04,D057,Procedure,Routine,4212.97,Walk-in
+A02904,P0202,2025-02-19,D046,Diagnostic Test,Routine,7183.33,Website
+A02905,P0150,2025-07-25,D022,Diagnostic Test,Routine,3480.55,Phone
+A02906,P0046,2025-12-01,D040,Follow-up,Routine,5620.45,Walk-in
+A02907,P0113,2025-03-20,D045,Procedure,High,9174.99,Phone
+A02908,P0091,2025-03-11,D055,Follow-up,Routine,6544.04,Walk-in
+A02909,P0141,2025-01-27,D051,Diagnostic Test,Urgent,1455.56,Walk-in
+A02910,P0289,2025-09-28,D005,Consultation,Routine,7563.63,Phone
+A02911,P0389,2025-02-19,D013,Follow-up,High,2831.86,Phone
+A02912,P0218,2025-10-19,D028,Diagnostic Test,High,7788.79,App
+A02913,P0077,2025-09-04,D080,Follow-up,Routine,4778.95,App
+A02914,P0377,2025-09-21,D062,Procedure,Routine,4989.97,Referral
+A02915,P0384,2025-03-20,D024,Procedure,Routine,6999.76,Walk-in
+A02916,P0334,2025-07-09,D007,Consultation,Routine,4637.04,App
+A02917,P0152,2025-02-16,D038,Consultation,Urgent,2910.59,Walk-in
+A02918,P0323,2025-12-27,D037,Consultation,Urgent,3328.32,App
+A02919,P0239,2025-12-20,D068,Follow-up,High,2570.83,Website
+A02920,P0115,2025-12-18,D042,Consultation,High,4648.35,App
+A02921,P0319,2025-07-08,D005,Consultation,High,3330.55,Referral
+A02922,P0369,2025-09-13,D064,Consultation,Routine,3849.03,Referral
+A02923,P0094,2025-08-10,D050,Consultation,Routine,5262.91,Phone
+A02924,P0048,2025-08-29,D015,Consultation,Routine,7477.78,Website
+A02925,P0191,2025-09-26,D073,Consultation,Routine,8199.61,Phone
+A02926,P0012,2025-01-01,D053,Follow-up,Routine,7564.38,Walk-in
+A02927,P0156,2025-02-03,D025,Consultation,Routine,2603.98,App
+A02928,P0172,2025-03-20,D009,Consultation,Routine,5467.76,Website
+A02929,P0296,2025-08-24,D038,Procedure,Routine,4382.35,Walk-in
+A02930,P0177,2025-11-30,D022,Procedure,High,4811.47,Website
+A02931,P0341,2025-12-15,D049,Consultation,Routine,7855.64,App
+A02932,P0057,2025-04-08,D068,Consultation,Routine,8696.43,Phone
+A02933,P0343,2025-03-23,D015,Follow-up,High,7394.25,Walk-in
+A02934,P0340,2025-07-11,D065,Consultation,Routine,9132.93,Referral
+A02935,P0203,2025-09-10,D054,Consultation,Routine,2725.69,App
+A02936,P0185,2025-02-07,D030,Consultation,Routine,5816.89,Phone
+A02937,P0121,2025-01-14,D020,Consultation,Routine,5057.79,Website
+A02938,P0226,2025-12-13,D033,Diagnostic Test,Urgent,3710.25,App
+A02939,P0202,2025-11-06,D077,Procedure,Routine,5319.39,Phone
+A02940,P0330,2025-07-28,D007,Procedure,Routine,3827.93,App
+A02941,P0363,2025-12-23,D008,Diagnostic Test,Routine,6031.75,App
+A02942,P0380,2025-03-30,D028,Diagnostic Test,High,2920.22,Walk-in
+A02943,P0356,2025-02-25,D045,Follow-up,Routine,3839.24,Website
+A02944,P0216,2025-04-04,D073,Diagnostic Test,High,4046.37,Referral
+A02945,P0043,2025-04-03,D080,Consultation,Routine,3560.7,Website
+A02946,P0375,2025-12-06,D074,Follow-up,High,6227.83,Website
+A02947,P0023,2025-03-26,D011,Procedure,High,4678.91,Website
+A02948,P0155,2025-09-02,D031,Consultation,High,1830.23,App
+A02949,P0186,2025-01-22,D012,Procedure,Routine,5196.31,Referral
+A02950,P0249,2025-10-18,D078,Diagnostic Test,High,3493.32,Walk-in
+A02951,P0237,2025-09-29,D051,Diagnostic Test,Routine,3601.91,Website
+A02952,P0293,2025-11-02,D044,Consultation,High,6851.16,Walk-in
+A02953,P0134,2025-05-02,D050,Follow-up,Routine,3442.91,Referral
+A02954,P0321,2025-05-08,D017,Procedure,Routine,7672.68,App
+A02955,P0390,2025-04-23,D035,Follow-up,Routine,3857.5,App
+A02956,P0022,2025-09-30,D001,Consultation,Routine,2922.45,App
+A02957,P0361,2025-12-02,D029,Consultation,Routine,3205.03,Walk-in
+A02958,P0088,2025-05-10,D051,Diagnostic Test,Routine,5989.69,App
+A02959,P0153,2025-05-12,D064,Diagnostic Test,Routine,3316.83,Website
+A02960,P0125,2025-03-26,D004,Diagnostic Test,High,8277.22,Phone
+A02961,P0079,2025-12-16,D028,Emergency Care,Routine,5426.68,Phone
+A02962,P0346,2025-03-22,D016,Follow-up,Routine,4438.62,Walk-in
+A02963,P0051,2025-11-21,D063,Diagnostic Test,High,4995.83,Website
+A02964,P0216,2025-03-10,D076,Consultation,Routine,4748.83,Phone
+A02965,P0176,2025-05-28,D053,Consultation,Routine,9535.13,Referral
+A02966,P0358,2025-01-16,D017,Follow-up,Routine,3702.65,App
+A02967,P0253,2025-11-03,D040,Procedure,Routine,6603.63,App
+A02968,P0246,2025-04-15,D013,Follow-up,Routine,3291.25,Walk-in
+A02969,P0227,2025-06-14,D052,Diagnostic Test,Routine,6726.07,Walk-in
+A02970,P0106,2025-07-20,D058,Consultation,Urgent,2180.42,Website
+A02971,P0193,2025-07-16,D037,Emergency Care,Routine,5638.78,App
+A02972,P0316,2025-07-04,D079,Emergency Care,Routine,8689.56,Walk-in
+A02973,P0302,2025-11-18,D076,Diagnostic Test,High,3862.79,Phone
+A02974,P0036,2025-09-22,D061,Consultation,Routine,4357.54,Walk-in
+A02975,P0204,2025-12-29,D079,Diagnostic Test,Routine,3989.96,Walk-in
+A02976,P0267,2025-04-10,D034,Procedure,High,6949.83,App
+A02977,P0268,2025-12-08,D070,Follow-up,Routine,3016.51,Walk-in
+A02978,P0170,2025-11-16,D017,Follow-up,Urgent,6829.93,App
+A02979,P0039,2025-08-02,D020,Consultation,Routine,1820.38,Walk-in
+A02980,P0139,2025-10-05,D073,Consultation,High,6642.5,Walk-in
+A02981,P0292,2025-06-11,D059,Consultation,Routine,3160.91,Phone
+A02982,P0052,2025-06-06,D069,Procedure,Routine,2740.05,Phone
+A02983,P0287,2025-09-08,D033,Diagnostic Test,Routine,4580.3,App
+A02984,P0289,2025-04-07,D078,Procedure,Urgent,9548.07,App
+A02985,P0141,2025-01-18,D017,Consultation,High,2436.74,Website
+A02986,P0146,2025-11-23,D057,Procedure,Routine,7892.03,Walk-in
+A02987,P0314,2025-04-07,D001,Procedure,Urgent,4000.39,Website
+A02988,P0184,2025-01-01,D013,Consultation,Routine,4649.5,App
+A02989,P0152,2025-08-04,D027,Procedure,Routine,3425.09,Walk-in
+A02990,P0201,2025-05-12,D070,Consultation,Routine,6152.94,App
+A02991,P0128,2025-09-17,D059,Consultation,Routine,2263.64,Walk-in
+A02992,P0287,2025-05-05,D006,Consultation,High,3735.87,Website
+A02993,P0311,2025-03-23,D023,Procedure,Routine,4619.45,Website
+A02994,P0253,2025-10-10,D010,Procedure,High,6448.2,App
+A02995,P0266,2025-06-20,D051,Consultation,Routine,4161.62,Referral
+A02996,P0188,2025-02-28,D019,Follow-up,Routine,4782.64,App
+A02997,P0386,2025-02-01,D051,Follow-up,Routine,2492.27,App
+A02998,P0230,2025-06-10,D068,Procedure,Urgent,4282.74,Phone
+A02999,P0271,2025-10-11,D042,Consultation,Routine,9001.05,Walk-in
+A03000,P0259,2025-04-16,D057,Diagnostic Test,Routine,7501.29,App
