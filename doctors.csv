@@ -1,0 +1,81 @@
+doctor_id,doctor_name,specialty,hire_date,rating,employment_type,is_active
+D001,Dr. Doctor_001,ENT,2022-03-19,4.05,Visiting,Yes
+D002,Dr. Doctor_002,Gynecology,2018-03-11,4.02,Full-Time,Yes
+D003,Dr. Doctor_003,Gastroenterology,2018-09-29,3.77,Full-Time,Yes
+D004,Dr. Doctor_004,General Medicine,2018-08-11,4.39,Full-Time,Yes
+D005,Dr. Doctor_005,Gastroenterology,2017-12-10,5.0,Part-Time,Yes
+D006,Dr. Doctor_006,Ophthalmology,2020-08-10,3.72,Visiting,Yes
+D007,Dr. Doctor_007,General Medicine,2022-06-03,4.21,Full-Time,No
+D008,Dr. Doctor_008,Ophthalmology,2018-07-25,4.84,Visiting,Yes
+D009,Dr. Doctor_009,Pediatrics,2018-09-03,4.16,Full-Time,Yes
+D010,Dr. Doctor_010,Gynecology,2021-09-24,4.4,Visiting,Yes
+D011,Dr. Doctor_011,Pediatrics,2023-04-10,3.72,Part-Time,Yes
+D012,Dr. Doctor_012,Dermatology,2022-01-29,4.39,Visiting,Yes
+D013,Dr. Doctor_013,Gastroenterology,2024-02-22,4.12,Full-Time,Yes
+D014,Dr. Doctor_014,Ophthalmology,2019-08-18,4.64,Visiting,Yes
+D015,Dr. Doctor_015,Neurology,2022-09-11,4.73,Part-Time,Yes
+D016,Dr. Doctor_016,Pediatrics,2023-09-05,5.0,Full-Time,Yes
+D017,Dr. Doctor_017,Dermatology,2023-05-14,4.46,Visiting,Yes
+D018,Dr. Doctor_018,Cardiology,2018-06-16,4.35,Full-Time,Yes
+D019,Dr. Doctor_019,ENT,2020-03-23,4.29,Visiting,Yes
+D020,Dr. Doctor_020,General Medicine,2023-08-28,4.04,Full-Time,Yes
+D021,Dr. Doctor_021,Dermatology,2019-12-28,4.35,Part-Time,Yes
+D022,Dr. Doctor_022,Gynecology,2022-03-17,4.07,Full-Time,Yes
+D023,Dr. Doctor_023,Pediatrics,2019-06-03,4.28,Full-Time,Yes
+D024,Dr. Doctor_024,Gynecology,2023-03-12,4.79,Full-Time,Yes
+D025,Dr. Doctor_025,ENT,2021-08-06,3.75,Full-Time,No
+D026,Dr. Doctor_026,Neurology,2023-08-21,4.71,Full-Time,Yes
+D027,Dr. Doctor_027,Gastroenterology,2024-08-23,4.79,Full-Time,Yes
+D028,Dr. Doctor_028,Gastroenterology,2023-03-11,4.15,Full-Time,Yes
+D029,Dr. Doctor_029,Gynecology,2022-10-28,3.25,Full-Time,Yes
+D030,Dr. Doctor_030,Ophthalmology,2021-10-16,3.93,Full-Time,Yes
+D031,Dr. Doctor_031,Neurology,2024-04-29,4.78,Part-Time,Yes
+D032,Dr. Doctor_032,Gastroenterology,2024-04-05,4.19,Full-Time,Yes
+D033,Dr. Doctor_033,Neurology,2019-02-21,3.75,Visiting,Yes
+D034,Dr. Doctor_034,Dermatology,2024-06-20,3.97,Visiting,Yes
+D035,Dr. Doctor_035,Neurology,2022-10-07,4.58,Part-Time,No
+D036,Dr. Doctor_036,Orthopedics,2019-05-31,4.45,Full-Time,Yes
+D037,Dr. Doctor_037,ENT,2018-03-23,4.09,Visiting,Yes
+D038,Dr. Doctor_038,Gastroenterology,2022-10-15,4.03,Full-Time,Yes
+D039,Dr. Doctor_039,Neurology,2021-11-19,4.02,Full-Time,Yes
+D040,Dr. Doctor_040,Gynecology,2020-07-01,3.78,Full-Time,Yes
+D041,Dr. Doctor_041,Cardiology,2022-06-15,4.93,Part-Time,No
+D042,Dr. Doctor_042,Orthopedics,2019-12-04,4.05,Full-Time,Yes
+D043,Dr. Doctor_043,Orthopedics,2021-04-27,4.75,Full-Time,Yes
+D044,Dr. Doctor_044,Ophthalmology,2019-10-09,4.88,Visiting,Yes
+D045,Dr. Doctor_045,Neurology,2023-03-25,4.65,Visiting,Yes
+D046,Dr. Doctor_046,Ophthalmology,2019-02-13,4.01,Full-Time,No
+D047,Dr. Doctor_047,Ophthalmology,2024-06-19,4.38,Full-Time,Yes
+D048,Dr. Doctor_048,Cardiology,2021-12-20,4.19,Visiting,Yes
+D049,Dr. Doctor_049,Dermatology,2024-04-02,3.79,Full-Time,Yes
+D050,Dr. Doctor_050,Neurology,2023-08-24,4.35,Full-Time,Yes
+D051,Dr. Doctor_051,Pediatrics,2020-04-16,3.67,Full-Time,Yes
+D052,Dr. Doctor_052,Gastroenterology,2020-12-21,4.73,Visiting,Yes
+D053,Dr. Doctor_053,Ophthalmology,2024-07-19,3.99,Part-Time,Yes
+D054,Dr. Doctor_054,ENT,2017-11-03,4.29,Visiting,Yes
+D055,Dr. Doctor_055,General Medicine,2019-02-18,4.33,Visiting,Yes
+D056,Dr. Doctor_056,ENT,2023-12-27,4.08,Full-Time,Yes
+D057,Dr. Doctor_057,Cardiology,2023-05-05,4.46,Full-Time,Yes
+D058,Dr. Doctor_058,Cardiology,2017-01-08,3.99,Full-Time,Yes
+D059,Dr. Doctor_059,Gynecology,2023-12-31,4.59,Full-Time,Yes
+D060,Dr. Doctor_060,Dermatology,2018-04-21,3.59,Full-Time,Yes
+D061,Dr. Doctor_061,Gastroenterology,2020-08-13,4.26,Part-Time,Yes
+D062,Dr. Doctor_062,Ophthalmology,2023-01-21,5.0,Part-Time,Yes
+D063,Dr. Doctor_063,ENT,2018-04-30,3.75,Visiting,Yes
+D064,Dr. Doctor_064,General Medicine,2024-02-28,3.9,Full-Time,Yes
+D065,Dr. Doctor_065,Cardiology,2019-06-24,4.43,Part-Time,No
+D066,Dr. Doctor_066,Cardiology,2018-07-13,4.28,Part-Time,Yes
+D067,Dr. Doctor_067,Dermatology,2022-05-22,4.36,Full-Time,Yes
+D068,Dr. Doctor_068,General Medicine,2023-04-05,4.42,Part-Time,Yes
+D069,Dr. Doctor_069,General Medicine,2020-02-02,4.49,Full-Time,Yes
+D070,Dr. Doctor_070,Dermatology,2020-05-18,4.7,Full-Time,Yes
+D071,Dr. Doctor_071,Cardiology,2024-02-15,4.38,Full-Time,Yes
+D072,Dr. Doctor_072,Gastroenterology,2024-11-15,4.09,Full-Time,No
+D073,Dr. Doctor_073,Neurology,2018-04-13,4.5,Full-Time,Yes
+D074,Dr. Doctor_074,Neurology,2023-08-31,5.0,Part-Time,Yes
+D075,Dr. Doctor_075,Dermatology,2024-09-23,4.14,Visiting,Yes
+D076,Dr. Doctor_076,General Medicine,2019-04-28,3.76,Part-Time,Yes
+D077,Dr. Doctor_077,Ophthalmology,2023-09-01,4.7,Part-Time,No
+D078,Dr. Doctor_078,Dermatology,2025-01-03,4.15,Full-Time,Yes
+D079,Dr. Doctor_079,Gastroenterology,2017-09-16,3.22,Part-Time,Yes
+D080,Dr. Doctor_080,Dermatology,2017-10-10,4.58,Full-Time,Yes
