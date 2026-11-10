@@ -1,0 +1,51 @@
+room_id,room_type,floor,equipment_type,capacity,last_maintenance_date,is_available
+R001,Consultation,2,Monitoring,1,2025-10-14,Yes
+R002,Consultation,4,X-Ray,1,2025-04-24,Yes
+R003,Observation,3,Standard,1,2026-04-25,Yes
+R004,Diagnostic,3,Endoscopy,2,2025-01-22,Yes
+R005,Diagnostic,3,Monitoring,2,2025-12-15,Yes
+R006,Consultation,3,X-Ray,1,2026-07-20,Yes
+R007,Minor Surgery,1,Endoscopy,6,2025-11-16,Yes
+R008,Procedure,1,Endoscopy,6,2025-05-06,Yes
+R009,Minor Surgery,5,Standard,4,2025-10-04,Yes
+R010,Minor Surgery,2,Standard,2,2025-07-23,Yes
+R011,Consultation,4,Endoscopy,4,2025-07-13,Yes
+R012,Consultation,4,ECG,1,2026-07-01,Yes
+R013,Consultation,1,Endoscopy,4,2025-10-13,Yes
+R014,Observation,4,Monitoring,1,2025-02-26,Yes
+R015,Minor Surgery,1,Endoscopy,4,2025-10-30,Yes
+R016,Diagnostic,5,Ultrasound,1,2025-06-12,Yes
+R017,Procedure,2,Ultrasound,4,2025-01-19,Yes
+R018,Observation,5,Ultrasound,6,2026-01-05,Yes
+R019,Diagnostic,3,ECG,1,2025-09-21,Yes
+R020,Minor Surgery,3,ECG,2,2025-04-23,Yes
+R021,Consultation,3,Endoscopy,6,2026-05-03,Yes
+R022,Minor Surgery,5,Ultrasound,2,2025-11-23,Yes
+R023,Procedure,4,ECG,4,2026-06-26,Yes
+R024,Observation,2,Standard,2,2026-08-02,Yes
+R025,Observation,3,Endoscopy,1,2025-03-06,Yes
+R026,Procedure,3,Monitoring,1,2025-10-19,Yes
+R027,Diagnostic,3,X-Ray,1,2025-01-25,Yes
+R028,Diagnostic,2,Endoscopy,4,2026-07-03,Yes
+R029,Observation,3,X-Ray,1,2025-01-01,Yes
+R030,Observation,2,Ultrasound,2,2026-07-03,Yes
+R031,Consultation,3,X-Ray,2,2025-05-21,Yes
+R032,Diagnostic,5,Ultrasound,2,2025-07-07,Yes
+R033,Procedure,5,Standard,4,2025-05-08,Yes
+R034,Diagnostic,2,X-Ray,6,2025-07-20,Yes
+R035,Consultation,5,Endoscopy,1,2025-05-07,Yes
+R036,Observation,2,Ultrasound,4,2025-09-14,Yes
+R037,Observation,5,Endoscopy,4,2026-07-01,Yes
+R038,Consultation,5,ECG,2,2025-07-13,Yes
+R039,Procedure,2,Ultrasound,6,2025-04-14,Yes
+R040,Observation,4,X-Ray,1,2026-06-19,Yes
+R041,Minor Surgery,5,Ultrasound,1,2025-09-22,Yes
+R042,Observation,3,Endoscopy,4,2026-01-19,Yes
+R043,Minor Surgery,4,Standard,1,2025-09-17,Yes
+R044,Consultation,2,Ultrasound,4,2026-02-18,Yes
+R045,Consultation,4,X-Ray,4,2025-12-24,Yes
+R046,Observation,1,ECG,1,2025-03-16,Yes
+R047,Diagnostic,1,Monitoring,4,2025-12-21,Yes
+R048,Minor Surgery,5,Standard,1,2026-08-07,Yes
+R049,Procedure,5,ECG,2,2025-07-07,Yes
+R050,Observation,3,Ultrasound,2,2025-10-17,Yes
